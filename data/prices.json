@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T08:15:27.387965+00:00",
+  "updated_at": "2026-07-25T15:14:00.330133+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -116,11 +116,6 @@
         "url": "https://www.startech.com.bd/afox-gt-610-2gb-graphics-card"
       },
       {
-        "name": "MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
-        "price_bdt": 9300,
-        "url": "https://www.startech.com.bd/msi-gt-710-2gd3h-lp-graphics-card"
-      },
-      {
         "name": "Colorful GeForce GT710-2GD3-V 2GB Graphics Card",
         "price_bdt": 5799,
         "url": "https://www.startech.com.bd/colorful-geforce-gt710-2gd3-v-graphics-card"
@@ -144,11 +139,6 @@
         "name": "OCPC GeForce GT 730 4GB DDR3 Graphics Card",
         "price_bdt": 7400,
         "url": "https://www.startech.com.bd/ocpc-geforce-gt-730-4gb-graphics-card"
-      },
-      {
-        "name": "MSI GeForce GT 730 4GB DDR3 Graphics Card",
-        "price_bdt": 12900,
-        "url": "https://www.startech.com.bd/msi-gt-730-4gb-graphics-card"
       },
       {
         "name": "AFOX NVIDIA GeForce GT 710 4GB GDDR3 Graphics Card",
@@ -201,9 +191,19 @@
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
       },
       {
+        "name": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
+        "price_bdt": 15400,
+        "url": "https://www.startech.com.bd/unika-radeon-rx-580-blizzards-8gd5-v2-graphics-card"
+      },
+      {
         "name": "ARKTEK RX 580 8GB 256bit GDDR5 Graphics Card",
         "price_bdt": 17900,
         "url": "https://www.startech.com.bd/arktek-rx-580-8gb-256bit-graphics-card"
+      },
+      {
+        "name": "ARKTEK GTX 1660 Super 6GB GDDR6 Graphics Card",
+        "price_bdt": 26000,
+        "url": "https://www.startech.com.bd/arktek-gtx-1660-super-6gb-graphics-card"
       }
     ],
     "motherboard": [
