@@ -1,16 +1,1026 @@
 {
-  "updated_at": "2026-07-25T04:51:21.246132+00:00",
+  "updated_at": "2026-07-25T05:05:57.580912+00:00",
   "source": "startech.com.bd",
   "categories": {
-    "processor": [],
-    "graphics-card": [],
-    "motherboard": [],
-    "ram": [],
-    "ssd": [],
-    "power-supply": [],
-    "casing": [],
-    "monitor": [],
-    "keyboard": [],
-    "mouse": []
+    "processor": [
+      {
+        "name": "AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics",
+        "price_bdt": 4300,
+        "url": "https://www.startech.com.bd/amd-ryzen-3-2200g-processor"
+      },
+      {
+        "name": "AMD Athlon PRO 300GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics (Rebox)",
+        "price_bdt": 3990,
+        "url": "https://www.startech.com.bd/amd-athlon-pro-300ge-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics",
+        "price_bdt": 6300,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-processor"
+      },
+      {
+        "name": "Intel 10th Gen Core i3 10100F Processor",
+        "price_bdt": 100,
+        "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100f-processor"
+      },
+      {
+        "name": "Intel Pentium Gold G6400 10th gen Coffee Lake Processor",
+        "price_bdt": 7300,
+        "url": "https://www.startech.com.bd/intel-pentium-gold-g6400-processor"
+      },
+      {
+        "name": "Intel Pentium Gold G6405 Coffee Lake Processor",
+        "price_bdt": 6900,
+        "url": "https://www.startech.com.bd/intel-pentium-gold-g6405-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 3400G Processor with Radeon RX Vega 11 Graphics",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-3400g-processor"
+      },
+      {
+        "name": "AMD Ryzen 3 4100 Processor",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/amd-ryzen-3-4100-processor"
+      },
+      {
+        "name": "AMD Ryzen Threadripper 1900X Processor",
+        "price_bdt": 10000,
+        "url": "https://www.startech.com.bd/amd-ryzen-threadripper-1900x"
+      },
+      {
+        "name": "Intel 10th Gen Core i5-10400F Processor",
+        "price_bdt": 9900,
+        "url": "https://www.startech.com.bd/intel-core-i5-10400f-processor"
+      },
+      {
+        "name": "Intel 10th Gen Core i3 10100 Processor",
+        "price_bdt": 10400,
+        "url": "https://www.startech.com.bd/intel-core-i3-10100-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 5500 Processor",
+        "price_bdt": 10600,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-5500-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 3600 Processor",
+        "price_bdt": 10500,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-3600-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 8400F Processor",
+        "price_bdt": 10999,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-8400f-processor"
+      },
+      {
+        "name": "Intel 10th Gen Core i5-10500 Processor",
+        "price_bdt": 14300,
+        "url": "https://www.startech.com.bd/intel-core-i5-10500-processor"
+      },
+      {
+        "name": "Intel 10th Gen Core i5-10505 Processor",
+        "price_bdt": 13900,
+        "url": "https://www.startech.com.bd/intel-core-i5-10505-processor"
+      },
+      {
+        "name": "Intel 10th Gen Core i5-10400 Processor",
+        "price_bdt": 14700,
+        "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
+      },
+      {
+        "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
+        "price_bdt": 15999,
+        "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-alder-lake-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 5600 Processor",
+        "price_bdt": 14500,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor"
+      },
+      {
+        "name": "AMD Ryzen 5 5500GT AM4 Processor with Radeon Graphics",
+        "price_bdt": 501,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-5500gt-processor"
+      }
+    ],
+    "graphics-card": [
+      {
+        "name": "AFOX NVIDIA GeForce GT 240 1GB GDDR3 Graphics Card",
+        "price_bdt": 5000,
+        "url": "https://www.startech.com.bd/afox-gt-240-1gb-graphics-card"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GT 610 2GB GDDR3 Graphics Card",
+        "price_bdt": 5500,
+        "url": "https://www.startech.com.bd/afox-gt-610-2gb-graphics-card"
+      },
+      {
+        "name": "MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
+        "price_bdt": 9300,
+        "url": "https://www.startech.com.bd/msi-gt-710-2gd3h-lp-graphics-card"
+      },
+      {
+        "name": "Colorful GeForce GT710-2GD3-V 2GB Graphics Card",
+        "price_bdt": 5799,
+        "url": "https://www.startech.com.bd/colorful-geforce-gt710-2gd3-v-graphics-card"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card",
+        "price_bdt": 6500,
+        "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GT 730 2GB GDDR3 Low Profile Graphics Card",
+        "price_bdt": 7300,
+        "url": "https://www.startech.com.bd/afox-gt-730-2gb-low-profile-graphics-card"
+      },
+      {
+        "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
+        "price_bdt": 7500,
+        "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
+      },
+      {
+        "name": "OCPC GeForce GT 730 4GB DDR3 Graphics Card",
+        "price_bdt": 7400,
+        "url": "https://www.startech.com.bd/ocpc-geforce-gt-730-4gb-graphics-card"
+      },
+      {
+        "name": "MSI GeForce GT 730 4GB DDR3 Graphics Card",
+        "price_bdt": 12900,
+        "url": "https://www.startech.com.bd/msi-gt-730-4gb-graphics-card"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GT 710 4GB GDDR3 Graphics Card",
+        "price_bdt": 8400,
+        "url": "https://www.startech.com.bd/afox-gt-710-4gb-graphics-card"
+      },
+      {
+        "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
+        "price_bdt": 9800,
+        "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GT 1030 2GB GDDR5 Graphics Card",
+        "price_bdt": 14000,
+        "url": "https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card"
+      },
+      {
+        "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
+        "price_bdt": 14500,
+        "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
+      },
+      {
+        "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
+        "price_bdt": 15900,
+        "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
+      },
+      {
+        "name": "ARKTEK AMD Radeon RX 550 8GB GDDR5 Graphics Card",
+        "price_bdt": 16000,
+        "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card"
+      },
+      {
+        "name": "PELADN RX 580 8G 256Bit Dual Fans Gaming Graphics Card",
+        "price_bdt": 16500,
+        "url": "https://www.startech.com.bd/peladn-rx-580-8g-gaming-graphics-card"
+      },
+      {
+        "name": "GUNNIR Intel Arc A380 Index 6G GDDR6 Graphics Card",
+        "price_bdt": 15999,
+        "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-index-6g-graphics-card"
+      },
+      {
+        "name": "GUNNIR Intel Arc A380 Photon 6G OC W GDDR6 Graphics Card",
+        "price_bdt": 1901,
+        "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-photon-6g-oc-w-graphics-card"
+      },
+      {
+        "name": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
+        "price_bdt": 13000,
+        "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
+      },
+      {
+        "name": "ARKTEK RX 580 8GB 256bit GDDR5 Graphics Card",
+        "price_bdt": 17900,
+        "url": "https://www.startech.com.bd/arktek-rx-580-8gb-256bit-graphics-card"
+      }
+    ],
+    "motherboard": [
+      {
+        "name": "Intel Core i5-7640X Processor & Asus TUF X299 MARK 2 Motherboard Combo",
+        "price_bdt": 50000,
+        "url": "https://www.startech.com.bd/intel-core-i5-7640x-cpu-asus-tuf-x299-mark-2-motherboard-combo"
+      },
+      {
+        "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
+        "price_bdt": 7200,
+        "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
+      },
+      {
+        "name": "GIGABYTE A520M K V2 AM4 Micro ATX Motherboard",
+        "price_bdt": 8200,
+        "url": "https://www.startech.com.bd/gigabyte-a520m-k-v2-motherboard"
+      },
+      {
+        "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
+        "price_bdt": 7300,
+        "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
+      },
+      {
+        "name": "Asus PRIME A520M-R AM4 micro ATX Motherboard",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/asus-prime-a520m-r-motherboard"
+      },
+      {
+        "name": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
+        "price_bdt": 8600,
+        "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
+      },
+      {
+        "name": "GIGABYTE GA-H81M-H 4th Gen Micro ATX Motherboard",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
+      },
+      {
+        "name": "MSI H310M PRO-VDH Intel 9th Gen Motherboard",
+        "price_bdt": 8400,
+        "url": "https://www.startech.com.bd/msi-h310m-pro-vdh-motherboard"
+      },
+      {
+        "name": "ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard",
+        "price_bdt": 9100,
+        "url": "https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard"
+      },
+      {
+        "name": "Gigabyte H410M H 10th Gen Micro ATX Motherboard",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/gigabyte-h410m-h-motherboard"
+      },
+      {
+        "name": "Gigabyte H310M M.2 9th Gen Micro ATX Motherboard",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/gigabyte-h310m-m2-motherboard"
+      },
+      {
+        "name": "Asus Prime A520M-K AM4 Micro-ATX AMD Motherboard",
+        "price_bdt": 9000,
+        "url": "https://www.startech.com.bd/asus-prime-a520m-k-amd-motherboard"
+      },
+      {
+        "name": "MSI PRO H610M-E DDR4 mATX Motherboard",
+        "price_bdt": 9900,
+        "url": "https://www.startech.com.bd/msi-pro-h610m-e-ddr4-motherboard"
+      },
+      {
+        "name": "Colorful BATTLE-AX H610M-E WIFI V20 mATX Motherboard",
+        "price_bdt": 10200,
+        "url": "https://www.startech.com.bd/colorful-battle-ax-h610m-e-wifi-v20-motherboard"
+      },
+      {
+        "name": "MSI PRO H610M-S DDR4 m-ATX Motherboard",
+        "price_bdt": 9700,
+        "url": "https://www.startech.com.bd/msi-pro-h610m-s-motherboard"
+      },
+      {
+        "name": "ASUS PRIME H510M-F R3.0 LGA1200 Micro-ATX Motherboard",
+        "price_bdt": 10300,
+        "url": "https://www.startech.com.bd/asus-prime-h510m-f-r3-0-motherboard"
+      },
+      {
+        "name": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard"
+      },
+      {
+        "name": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
+        "price_bdt": 10500,
+        "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard"
+      },
+      {
+        "name": "ASUS PRIME H610M-F D4 R2.0 DDR4 LGA1700 mATX Motherboard",
+        "price_bdt": 9800,
+        "url": "https://www.startech.com.bd/asus-prime-h610m-f-d4-r2-0-lga1700-motherboard"
+      },
+      {
+        "name": "Gigabyte B450M DS3H V3 AMD AM4 Micro ATX Motherboard",
+        "price_bdt": 10400,
+        "url": "https://www.startech.com.bd/gigabyte-b450m-ds3h-v3-motherboard"
+      }
+    ],
+    "ram": [
+      {
+        "name": "Lexar THOR RGB 16GB DDR5 6000MHz CL38 Desktop RAM",
+        "price_bdt": 31000,
+        "url": "https://www.startech.com.bd/lexar-thor-rgb-16gb-ddr5-6000mhz-ram"
+      },
+      {
+        "name": "Lexar ARES RGB 2nd Gen 16GB DDR5 6000Mhz CL30 Desktop RAM",
+        "price_bdt": 40500,
+        "url": "https://www.startech.com.bd/lexar-ares-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
+      },
+      {
+        "name": "Lexar THOR RGB 2nd Gen 16GB DDR5 6000Mhz CL38 Desktop RAM",
+        "price_bdt": 33500,
+        "url": "https://www.startech.com.bd/lexar-thor-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
+      },
+      {
+        "name": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
+        "price_bdt": 3000,
+        "url": "https://www.startech.com.bd/ocpc-vs-8gb-ddr3-ram"
+      },
+      {
+        "name": "Netac Basic DDR3 8GB 1600MHZ Desktop RAM",
+        "price_bdt": 3900,
+        "url": "https://www.startech.com.bd/netac-basic-ddr3-8gb-1600mhz-desktop-ram"
+      },
+      {
+        "name": "Netac Basic 4GB DDR4 2666MHZ Desktop RAM",
+        "price_bdt": 3900,
+        "url": "https://www.startech.com.bd/netac-basic-4gb-ddr4-2666mhz-desktop-ram"
+      },
+      {
+        "name": "KingBank KJXB 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 6900,
+        "url": "https://www.startech.com.bd/kingbank-kjxb-8gb-ddr4-ram"
+      },
+      {
+        "name": "Netac Shadow II 8GB DDR4 3200MHz Desktop RAM Black",
+        "price_bdt": 6899,
+        "url": "https://www.startech.com.bd/netac-shadow-ii-8gb-ddr4-ram-black"
+      },
+      {
+        "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
+        "price_bdt": 7000,
+        "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
+      },
+      {
+        "name": "G.Skill RIPJAWS-V 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 7100,
+        "url": "https://www.startech.com.bd/g-skill-ripjaws-v-8gb-desktop-ram"
+      },
+      {
+        "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 8000,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ram"
+      },
+      {
+        "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
+        "price_bdt": 7500,
+        "url": "https://www.startech.com.bd/team-t-force-vulcan-z-red-8gb-ddr4-3200mhz-ram"
+      },
+      {
+        "name": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
+        "price_bdt": 7000,
+        "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2666mhz-desktop-ram"
+      },
+      {
+        "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
+        "price_bdt": 8000,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
+      },
+      {
+        "name": "Colorful Battle-AX DDR4 8GB 3200MHz Desktop RAM",
+        "price_bdt": 6700,
+        "url": "https://www.startech.com.bd/colorful-battle-ax-ddr4-8gb-ram"
+      },
+      {
+        "name": "Kimtigo WOLFRINE 8GB 3200MHz DDR4 UDIMM Desktop RAM White",
+        "price_bdt": 5500,
+        "url": "https://www.startech.com.bd/kimtigo-wolfrine-8gb-3200mhz-ddr4-udimm-ram-white"
+      },
+      {
+        "name": "OSCOO M200 Warrior 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 6800,
+        "url": "https://www.startech.com.bd/oscoo-m200-warrior-8gb-ddr4-ram"
+      },
+      {
+        "name": "Team T-Force Delta 8GB 3200MHz DDR4 RGB White Desktop Gaming RAM",
+        "price_bdt": 7700,
+        "url": "https://www.startech.com.bd/team-delta-rgb-8gb-3200mhz-ram"
+      },
+      {
+        "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
+        "price_bdt": 7700,
+        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram"
+      },
+      {
+        "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
+        "price_bdt": 7700,
+        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
+      }
+    ],
+    "ssd": [
+      {
+        "name": "TwinMOS H2 Ultra 512GB SATA III SSD",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/twinmos-h2-ultra-512gb-ssd"
+      },
+      {
+        "name": "Biostar S160 128GB 2.5-inch SATAIII SSD",
+        "price_bdt": 2899,
+        "url": "https://www.startech.com.bd/biostar-s160-128gb-ssd"
+      },
+      {
+        "name": "Netac SA500 128GB 2.5-inch SATAIII SSD",
+        "price_bdt": 3400,
+        "url": "https://www.startech.com.bd/netac-sa500-128-gb-ssd"
+      },
+      {
+        "name": "Netac N535S 120GB 2.5-inch SATAIII SSD",
+        "price_bdt": 3450,
+        "url": "https://www.startech.com.bd/netac-n535s-120gb-ssd"
+      },
+      {
+        "name": "TwinMOS Alpha Pro 128GB M.2 PCIe NVMe Gen3 SSD",
+        "price_bdt": 4000,
+        "url": "https://www.startech.com.bd/twinmos-alpha-pro-128gb-nvme-ssd"
+      },
+      {
+        "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
+        "price_bdt": 5100,
+        "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
+      },
+      {
+        "name": "OCPC XTL-200 128GB SATA III SSD",
+        "price_bdt": 3500,
+        "url": "https://www.startech.com.bd/ocpc-xtl-200-128gb-ssd"
+      },
+      {
+        "name": "Transcend 420S 120GB M.2 SSD",
+        "price_bdt": 4400,
+        "url": "https://www.startech.com.bd/transcend-420s-120gb-ssd"
+      },
+      {
+        "name": "Transcend SSD220S 2.5\" SSD SATA III 6Gb/s Internal 120GB SSD",
+        "price_bdt": 4500,
+        "url": "https://www.startech.com.bd/transcend-ssd220s-120gb-ssd"
+      },
+      {
+        "name": "OCPC MFL-300 128GB M.2 NVMe SSD",
+        "price_bdt": 4500,
+        "url": "https://www.startech.com.bd/ocpc-mfl-300-128gb-ssd"
+      },
+      {
+        "name": "KingBank KP320 256GB 2.5\" SATA III SSD",
+        "price_bdt": 4900,
+        "url": "https://www.startech.com.bd/kingbank-kp320-256gb-sata-ssd"
+      },
+      {
+        "name": "Netac SA500 240GB 2.5-inch SATAIII SSD",
+        "price_bdt": 5050,
+        "url": "https://www.startech.com.bd/netac-sa500-240-gb-ssd"
+      },
+      {
+        "name": "Netac N535S 240GB 2.5-inch SATAIII SSD",
+        "price_bdt": 5200,
+        "url": "https://www.startech.com.bd/netac-n535s-240gb-ssd"
+      },
+      {
+        "name": "Netac N5M 256GB M.2 2242 SATA III 2242 SSD",
+        "price_bdt": 4800,
+        "url": "https://www.startech.com.bd/netac-n5m-256gb-msata-ssd"
+      },
+      {
+        "name": "Biostar S160 256GB 2.5-inch SATAIII SSD",
+        "price_bdt": 5199,
+        "url": "https://www.startech.com.bd/biostar-s160-256gb-ssd"
+      },
+      {
+        "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
+        "price_bdt": 5350,
+        "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd"
+      },
+      {
+        "name": "Netac N600S 256GB 2.5-inch SATA III SSD",
+        "price_bdt": 5450,
+        "url": "https://www.startech.com.bd/netac-n600s-256gb-sata-ssd"
+      },
+      {
+        "name": "Patriot P210 256GB 2.5 inch SATA III SSD",
+        "price_bdt": 5850,
+        "url": "https://www.startech.com.bd/patriot-p210-256gb-ssd"
+      },
+      {
+        "name": "OSCOO OS001 256GB 2.5'' SATA III SSD",
+        "price_bdt": 5600,
+        "url": "https://www.startech.com.bd/oscoo-os001-256gb-ssd"
+      },
+      {
+        "name": "OSCOO OS002 256GB 2.5'' SATA III SSD",
+        "price_bdt": 5700,
+        "url": "https://www.startech.com.bd/oscoo-os002-256gb-ssd"
+      }
+    ],
+    "power-supply": [
+      {
+        "name": "T-Wolf ATX 350W Power Supply With Cable Black",
+        "price_bdt": 1250,
+        "url": "https://www.startech.com.bd/t-wolf-atx-350w-power-supply-with-cable"
+      },
+      {
+        "name": "Value-Top S200i Real 200W Power Supply",
+        "price_bdt": 1150,
+        "url": "https://www.startech.com.bd/value-top-s200i-200w-power-supply"
+      },
+      {
+        "name": "T-Wolf ATX 350W Grey Power Supply With Cable",
+        "price_bdt": 1300,
+        "url": "https://www.startech.com.bd/t-wolf-atx-350w-grey-power-supply"
+      },
+      {
+        "name": "OVO OPS-P4 450W ATX Power Supply",
+        "price_bdt": 1350,
+        "url": "https://www.startech.com.bd/ovo-ops-p4-450w-atx-power-supply"
+      },
+      {
+        "name": "Xtreme XPS200B 200W ATX Non-Modular Power Supply",
+        "price_bdt": 1350,
+        "url": "https://www.startech.com.bd/xtreme-xps200b-200w-power-supply"
+      },
+      {
+        "name": "Solitine STN-SP230WB 230W Power Supply",
+        "price_bdt": 1360,
+        "url": "https://www.startech.com.bd/solitine-stn-sp230wb-230w-power-supply"
+      },
+      {
+        "name": "Golden Field GF500 500W Power Supply",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/golden-field-gf500-500w-power-supply"
+      },
+      {
+        "name": "Value-Top GRID 300 Real 300W Power Supply",
+        "price_bdt": 1550,
+        "url": "https://www.startech.com.bd/value-top-grid-300-power-supply"
+      },
+      {
+        "name": "Value-Top GRID 400 Real 400W Power Supply",
+        "price_bdt": 1900,
+        "url": "https://www.startech.com.bd/value-top-grid-400-power-supply"
+      },
+      {
+        "name": "Huntkey CP3000 300W Power Supply",
+        "price_bdt": 1950,
+        "url": "https://www.startech.com.bd/huntkey-cp3000-300w-power-supply"
+      },
+      {
+        "name": "Solitine STN-SP350WB 350W Power Supply",
+        "price_bdt": 2175,
+        "url": "https://www.startech.com.bd/solitine-stn-sp350wb-350w-power-supply"
+      },
+      {
+        "name": "1stPlayer FK 300W Power Supply",
+        "price_bdt": 2100,
+        "url": "https://www.startech.com.bd/1stplayer-fk-300w-power-supply"
+      },
+      {
+        "name": "Gamdias AURA GP300 300W Power Supply",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/gamdias-aura-gp300-power-supply"
+      },
+      {
+        "name": "T-Wolf Phantom P500 ATX 500W Power Supply",
+        "price_bdt": 2499,
+        "url": "https://www.startech.com.bd/t-wolf-phantom-p500-500w-power-supply"
+      },
+      {
+        "name": "1STPlayer PS-400FK Non Modular Power Supply",
+        "price_bdt": 2700,
+        "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
+      },
+      {
+        "name": "Value-Top Neo Q450 Real 450W Power Supply",
+        "price_bdt": 2599,
+        "url": "https://www.startech.com.bd/value-top-neo-q450-450w-power-supply"
+      },
+      {
+        "name": "MSI MAG A300N-H 300W 80 Plus Non Modular Power Supply",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/msi-mag-a300n-h-300w-power-supply"
+      },
+      {
+        "name": "Ocypus BETA P400 400W Non Modular ATX Power Supply",
+        "price_bdt": 2700,
+        "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply"
+      },
+      {
+        "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
+        "price_bdt": 2950,
+        "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
+      },
+      {
+        "name": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
+      }
+    ],
+    "casing": [
+      {
+        "name": "ASUS TUF Gaming GT301 Mid-tower ATX Casing",
+        "price_bdt": 8400,
+        "url": "https://www.startech.com.bd/asus-tuf-gaming-gt301-mid-tower-atx-casing"
+      },
+      {
+        "name": "MSI MAG PANO 130R PZ ARGB ATX Mid Tower Gaming Casing",
+        "price_bdt": 12000,
+        "url": "https://www.startech.com.bd/msi-mag-pano-130r-pz-casing"
+      },
+      {
+        "name": "MSI MAG PANO M110R ARGB mATX Mini Tower Gaming Casing",
+        "price_bdt": 11000,
+        "url": "https://www.startech.com.bd/msi-mag-pano-m110r-casing"
+      },
+      {
+        "name": "Antec ST10M Micro-ATX Mini Tower Casing",
+        "price_bdt": 1500,
+        "url": "https://www.startech.com.bd/antec-st10m-casing"
+      },
+      {
+        "name": "T-Wolf SHADOWCORE OFFICE mATX Mid Tower Casing With 200W PSU",
+        "price_bdt": 2200,
+        "url": "https://www.startech.com.bd/t-wolf-shadowcore-office-casing"
+      },
+      {
+        "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/t-wolf-ironcore-office-matx-casing"
+      },
+      {
+        "name": "Golden Field 2506B Micro-ATX Casing",
+        "price_bdt": 2400,
+        "url": "https://www.startech.com.bd/golden-field-2506b-micro-atx-casing"
+      },
+      {
+        "name": "Value-Top V200 Micro ATX Casing With PSU",
+        "price_bdt": 2400,
+        "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
+      },
+      {
+        "name": "Antec VX100M ARGB M-ATX Mini Tower Gaming Casing",
+        "price_bdt": 2900,
+        "url": "https://www.startech.com.bd/antec-vx100m-argb-gaming-casing"
+      },
+      {
+        "name": "Value-Top T860 Micro ATX Casing With PSU",
+        "price_bdt": 2400,
+        "url": "https://www.startech.com.bd/value-top-t860-casing"
+      },
+      {
+        "name": "Value-Top T861 Micro ATX Casing With PSU",
+        "price_bdt": 2400,
+        "url": "https://www.startech.com.bd/value-top-t861-casing"
+      },
+      {
+        "name": "Value-Top T862 Micro ATX Casing With PSU",
+        "price_bdt": 2400,
+        "url": "https://www.startech.com.bd/value-top-t862-casing"
+      },
+      {
+        "name": "PC Power 180J Mid-Tower ATX Desktop Casing With PSU",
+        "price_bdt": 101,
+        "url": "https://www.startech.com.bd/pc-power-180j-mid-tower-atx-casing"
+      },
+      {
+        "name": "PC Power PC401 Mini Tower Micro-ATX Casing With Power Supply",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/pc-power-pc401-micro-atx-casing"
+      },
+      {
+        "name": "Golden Field 1718B Mid Tower Micro-ATX Casing with PSU",
+        "price_bdt": 2600,
+        "url": "https://www.startech.com.bd/golden-field-1718b-casing-with-psu"
+      },
+      {
+        "name": "PC Power 180D-1U Mid Tower ATX Case With PSU",
+        "price_bdt": 2550,
+        "url": "https://www.startech.com.bd/pc-power-180d-1u-atx-case"
+      },
+      {
+        "name": "Golden Field Q25B Mid Tower ATX Case with PSU",
+        "price_bdt": 2400,
+        "url": "https://www.startech.com.bd/golden-field-q25b-mid-tower-case"
+      },
+      {
+        "name": "Golden Field Q21B Mid Tower ATX Case",
+        "price_bdt": 2800,
+        "url": "https://www.startech.com.bd/golden-field-q21b-mid-tower-case"
+      },
+      {
+        "name": "PC Power 180D-2U Mid Tower ATX Case With PSU",
+        "price_bdt": 2600,
+        "url": "https://www.startech.com.bd/pc-power-180d-2u-atx-case"
+      },
+      {
+        "name": "PC Power Pulse Fire X2 m-ATX Mid Tower Casing with 200W PSU",
+        "price_bdt": 2700,
+        "url": "https://www.startech.com.bd/pc-power-puls-fire-x2-casing"
+      }
+    ],
+    "monitor": [
+      {
+        "name": "Gigasonic RDA-1707W 17 Inch LED Square Monitor",
+        "price_bdt": 4800,
+        "url": "https://www.startech.com.bd/gigasonic-rda-1707w-monitor"
+      },
+      {
+        "name": "Gigasonic RB-G185S-300C 18.5\" HD LED Monitor",
+        "price_bdt": 5550,
+        "url": "https://www.startech.com.bd/gigasonic-rb-g185s-300c-monitor"
+      },
+      {
+        "name": "Gigasonic RB-G20S-400C 20 Inch HD LED Monitor",
+        "price_bdt": 5990,
+        "url": "https://www.startech.com.bd/gigasonic-rb-g20s-400c-monitor"
+      },
+      {
+        "name": "Gigasonic RB-G215S-400C 21.5\" FHD LED Monitor",
+        "price_bdt": 6700,
+        "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
+      },
+      {
+        "name": "GEESUU CloudWing G20FM1 19.5\" 75Hz HD+ Monitor",
+        "price_bdt": 7500,
+        "url": "https://www.startech.com.bd/geesuu-cloudwing-g20fm1-monitor"
+      },
+      {
+        "name": "Dahua DHI-LM19-A202Y 18.5\" HD Monitor",
+        "price_bdt": 8600,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm19-a202y-monitor"
+      },
+      {
+        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor"
+      },
+      {
+        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor White",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor-white"
+      },
+      {
+        "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
+      },
+      {
+        "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
+      },
+      {
+        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+        "price_bdt": 9700,
+        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
+      },
+      {
+        "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8999,
+        "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
+      },
+      {
+        "name": "Smart SM2225U 21.5\" 100Hz FHD Monitor",
+        "price_bdt": 9900,
+        "url": "https://www.startech.com.bd/smart-sm2225u-monitor"
+      },
+      {
+        "name": "Acer K202Q BI 19.5 Inch HD+ Monitor",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/acer-k202qbi-19-5-inch-monitor"
+      },
+      {
+        "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor",
+        "price_bdt": 10100,
+        "url": "https://www.startech.com.bd/pc-power-pcgm-king22-ips-fhd-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 9199,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
+      },
+      {
+        "name": "Walton WD215I09 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 9499,
+        "url": "https://www.startech.com.bd/walton-wd215i09-21-45-inch-monitor"
+      },
+      {
+        "name": "Xiaomi Redmi V22FAB-RA 21.45\" FHD Monitor",
+        "price_bdt": 9300,
+        "url": "https://www.startech.com.bd/xiaomi-redmi-v22fab-ra-fhd-monitor"
+      },
+      {
+        "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
+        "price_bdt": 10400,
+        "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
+      },
+      {
+        "name": "PC Power PCGM22 21.45\" IPS FHD 100Hz Borderless Monitor",
+        "price_bdt": 10200,
+        "url": "https://www.startech.com.bd/pc-power-pcgm22-fhd-monitor"
+      }
+    ],
+    "keyboard": [
+      {
+        "name": "AJAZZ NK68 Wired RGB Hot Swappable Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/ajazz-nk68-wired-keyboard"
+      },
+      {
+        "name": "Fantech GO K211 Bangla Keyboard",
+        "price_bdt": 400,
+        "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
+      },
+      {
+        "name": "Havit KB271 USB Exquisite Keyboard with Bangla",
+        "price_bdt": 449,
+        "url": "https://www.startech.com.bd/havit-kb271-usb-exquisite-keyboard"
+      },
+      {
+        "name": "Havit KB376 USB Multimedia Keyboard",
+        "price_bdt": 419,
+        "url": "https://www.startech.com.bd/havit-kb376-usb-multimedia-keyboard"
+      },
+      {
+        "name": "Meetion MT-K200 Wired Keyboard with Bangla",
+        "price_bdt": 500,
+        "url": "https://www.startech.com.bd/meetion-mt-k200-wired-keyboard"
+      },
+      {
+        "name": "PC Power PCGKY601 Wired Keyboard with Bangla",
+        "price_bdt": 449,
+        "url": "https://www.startech.com.bd/pc-power-pcgky601-office-keyboard"
+      },
+      {
+        "name": "PC Power 604 Wired Keyboard with Bangla",
+        "price_bdt": 449,
+        "url": "https://www.startech.com.bd/pc-power-604-office-keyboard"
+      },
+      {
+        "name": "Havit KB241 USB Wired Keyboard",
+        "price_bdt": 479,
+        "url": "https://www.startech.com.bd/havit-kb241-keyboard"
+      },
+      {
+        "name": "HAVIT KB224 USB Mini Keyboard",
+        "price_bdt": 550,
+        "url": "https://www.startech.com.bd/havit-kb224-usb-mini-keyboard"
+      },
+      {
+        "name": "T-WOLF K220 Wired Keyboard with Bangla",
+        "price_bdt": 499,
+        "url": "https://www.startech.com.bd/t-wolf-k220-wired-keyboard"
+      },
+      {
+        "name": "Havit KB2006 Pro USB Wired Keyboard",
+        "price_bdt": 550,
+        "url": "https://www.startech.com.bd/havit-kb2006-pro-usb-keyboard"
+      },
+      {
+        "name": "PC Power 602 Wired Keyboard with Bangla",
+        "price_bdt": 549,
+        "url": "https://www.startech.com.bd/pc-power-602-wired-office-keyboard"
+      },
+      {
+        "name": "T-WOLF TF500 Keyboard and Mouse Combo",
+        "price_bdt": 600,
+        "url": "https://www.startech.com.bd/t-wolf-tf500-keyboard-and-mouse-combo"
+      },
+      {
+        "name": "Jedel K26 Wired Keyboard",
+        "price_bdt": 399,
+        "url": "https://www.startech.com.bd/jedel-k26-wired-keyboard"
+      },
+      {
+        "name": "Havit KB249 Wired Keyboard with Bangla",
+        "price_bdt": 600,
+        "url": "https://www.startech.com.bd/havit-kb249-wired-keyboard"
+      },
+      {
+        "name": "PC Power 603 Wired Keyboard with Bangla",
+        "price_bdt": 549,
+        "url": "https://www.startech.com.bd/pc-power-603-wired-office-keyboard"
+      },
+      {
+        "name": "T-Wolf T20 Wired RGB Gaming Keyboard",
+        "price_bdt": 650,
+        "url": "https://www.startech.com.bd/t-wolf-t20-wired-rgb-gaming-keyboard"
+      },
+      {
+        "name": "PC Power PCK-161 Wired Keyboard with Bangla",
+        "price_bdt": 650,
+        "url": "https://www.startech.com.bd/pc-power-pck-161-wired-keyboard"
+      },
+      {
+        "name": "Meetion MT-K300 Wired Keyboard with Bangla",
+        "price_bdt": 660,
+        "url": "https://www.startech.com.bd/meetion-mt-k300-wired-keyboard"
+      },
+      {
+        "name": "T-WOLF T15 104 Keys USB Wired Keyboard",
+        "price_bdt": 549,
+        "url": "https://www.startech.com.bd/t-wolf-t15-wired-keyboard"
+      }
+    ],
+    "mouse": [
+      {
+        "name": "AJAZZ AJ139 V2 MC Wireless Gaming Mouse With Charging Dock",
+        "price_bdt": 2800,
+        "url": "https://www.startech.com.bd/ajazz-aj139-v2-mc-mouse"
+      },
+      {
+        "name": "AJAZZ AJ039 V2 Wired Gaming Mouse",
+        "price_bdt": 1100,
+        "url": "https://www.startech.com.bd/ajazz-aj039-v2-wired-gaming-mouse"
+      },
+      {
+        "name": "Havit HV-MS753 Optical Mouse",
+        "price_bdt": 280,
+        "url": "https://www.startech.com.bd/havit-hv-ms753-mouse"
+      },
+      {
+        "name": "T-WOLF V13 Wired Mouse",
+        "price_bdt": 300,
+        "url": "https://www.startech.com.bd/t-wolf-v13-wired-mouse"
+      },
+      {
+        "name": "Redragon BM-4125 Wired Mouse",
+        "price_bdt": 350,
+        "url": "https://www.startech.com.bd/redragon-bm-4125-wired-mouse"
+      },
+      {
+        "name": "Redragon BM-4062 Wired Mouse",
+        "price_bdt": 375,
+        "url": "https://www.startech.com.bd/redragon-bm-4062-wired-mouse"
+      },
+      {
+        "name": "Mofii M13S Wired Mouse",
+        "price_bdt": 375,
+        "url": "https://www.startech.com.bd/mofii-m13s-wired-mouse"
+      },
+      {
+        "name": "Havit MS70 Wired Optical Mouse",
+        "price_bdt": 349,
+        "url": "https://www.startech.com.bd/havit-ms70-wired-optical-mouse"
+      },
+      {
+        "name": "Havit MS72 Cool RGB LED USB Gaming Mouse Black",
+        "price_bdt": 368,
+        "url": "https://www.startech.com.bd/havit-ms72-cool-mouse"
+      },
+      {
+        "name": "Pc Power PCM-315 Wired Mouse",
+        "price_bdt": 349,
+        "url": "https://www.startech.com.bd/pc-power-pcm-315-wired-mouse"
+      },
+      {
+        "name": "Pc Power PCM-316 Wired Mouse",
+        "price_bdt": 410,
+        "url": "https://www.startech.com.bd/pc-power-pcm-316-wired-mouse"
+      },
+      {
+        "name": "A4TECH OP-720 USB Wired Mouse",
+        "price_bdt": 425,
+        "url": "https://www.startech.com.bd/a4tech-op-720-usb-mouse"
+      },
+      {
+        "name": "A4TECH OP-330 USB Wired Mouse",
+        "price_bdt": 425,
+        "url": "https://www.startech.com.bd/a4tech-op-330-usb-wired-mouse"
+      },
+      {
+        "name": "A4tech OP-550S Silent Wired Optical Mouse",
+        "price_bdt": 425,
+        "url": "https://www.startech.com.bd/a4tech-op-550s-silent-wired-mouse"
+      },
+      {
+        "name": "Logitech B100 Optical USB Mouse",
+        "price_bdt": 449,
+        "url": "https://www.startech.com.bd/Logitech-B100-Optical-USB-Mouse-new"
+      },
+      {
+        "name": "Logitech M90 USB Mouse",
+        "price_bdt": 449,
+        "url": "https://www.startech.com.bd/Logitech-M90-USB-MOUSE"
+      },
+      {
+        "name": "Pc Power PCM-378 Wired Mouse",
+        "price_bdt": 450,
+        "url": "https://www.startech.com.bd/pc-power-pcm-378-wired-mouse"
+      },
+      {
+        "name": "Rapoo N100 Wired Optical Mouse",
+        "price_bdt": 475,
+        "url": "https://www.startech.com.bd/rapoo-n100wired-optical-mouse"
+      },
+      {
+        "name": "Rapoo N200 Wired Optical Mouse",
+        "price_bdt": 475,
+        "url": "https://www.startech.com.bd/rapoo-n200-wired-optical-mouse"
+      },
+      {
+        "name": "A4TECH OP-620D 2X Click Optical Mouse",
+        "price_bdt": 500,
+        "url": "https://www.startech.com.bd/a4tech-op-620d"
+      }
+    ]
   }
 }
