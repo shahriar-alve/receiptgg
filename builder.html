@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PC Builder — ReceiptGG</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<style>
+  :root{
+    --paper:#EDEAE1;
+    --ink:#1C1C1A;
+    --ink-soft:#5B584F;
+    --yellow:#F5C518;
+    --teal:#1B8A6B;
+    --red:#C6432E;
+    --line:#CFC9B8;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{
+    background:var(--paper);color:var(--ink);
+    font-family:'IBM Plex Sans', sans-serif;line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+    padding-bottom:88px;
+  }
+  a{color:inherit;text-decoration:none;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  header{position:sticky;top:0;z-index:50;background:var(--paper);border-bottom:2px solid var(--ink);}
+  nav{display:flex;align-items:center;justify-content:space-between;padding:18px 24px;max-width:1120px;margin:0 auto;}
+  .logo{font-family:'Archivo Black', sans-serif;font-size:1.3rem;letter-spacing:-0.02em;display:flex;align-items:center;gap:8px;}
+  .logo .dot{width:10px;height:10px;background:var(--teal);border-radius:50%;display:inline-block;}
+  .back-link{font-family:'Barlow Condensed',sans-serif;font-weight:600;text-transform:uppercase;font-size:0.95rem;letter-spacing:0.03em;border-bottom:2px solid var(--ink);}
+
+  .page-head{padding:36px 0 24px;}
+  .page-head h1{font-family:'Archivo Black',sans-serif;font-size:clamp(1.8rem,4vw,2.6rem);margin-bottom:8px;}
+  .page-head p{color:var(--ink-soft);max-width:56ch;}
+
+  .tabs{display:flex;gap:8px;overflow-x:auto;padding:0 24px 4px;margin-bottom:28px;-webkit-overflow-scrolling:touch;}
+  .tabs::-webkit-scrollbar{display:none;}
+  .tab-btn{
+    flex:0 0 auto;font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:1rem;
+    text-transform:uppercase;letter-spacing:0.03em;padding:10px 18px;
+    border:2px solid var(--ink);background:var(--paper);white-space:nowrap;cursor:pointer;
+  }
+  .tab-btn.active{background:var(--ink);color:var(--paper);}
+
+  .product-list{border-top:2px solid var(--ink);}
+  .product-row{
+    display:flex;justify-content:space-between;align-items:center;gap:16px;
+    padding:16px 0;border-bottom:1px dashed var(--line);flex-wrap:wrap;
+  }
+  .product-row .p-name{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:1.05rem;flex:1;min-width:200px;}
+  .product-row .p-name a{color:var(--ink-soft);font-size:0.78rem;font-family:'IBM Plex Mono',monospace;display:block;margin-top:2px;}
+  .product-row .p-price{font-family:'IBM Plex Mono',monospace;font-weight:600;white-space:nowrap;}
+  .add-btn{
+    font-family:'Barlow Condensed',sans-serif;font-weight:700;text-transform:uppercase;font-size:0.85rem;
+    border:2px solid var(--ink);padding:7px 14px;background:var(--yellow);cursor:pointer;white-space:nowrap;
+  }
+  .add-btn.added{background:var(--teal);color:var(--paper);border-color:var(--teal);}
+  .empty-note{
+    font-family:'IBM Plex Mono',monospace;font-size:0.85rem;color:var(--ink-soft);
+    border:1px dashed var(--line);padding:16px;background:#FBFAF6;margin-top:16px;
+  }
+
+  .build-bar{
+    position:fixed;left:0;right:0;bottom:0;z-index:60;
+    background:var(--ink);color:var(--paper);
+    border-top:2px solid var(--ink);
+  }
+  .build-bar-summary{
+    display:flex;align-items:center;justify-content:space-between;
+    padding:14px 20px;cursor:pointer;
+  }
+  .build-bar-summary .count{font-family:'Barlow Condensed',sans-serif;font-weight:700;text-transform:uppercase;font-size:1rem;}
+  .build-bar-summary .total{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:1.1rem;}
+  .build-panel{
+    display:none;max-height:60vh;overflow-y:auto;border-top:1px solid rgba(237,234,225,0.2);
+    padding:12px 20px;
+  }
+  .build-panel.open{display:block;}
+  .build-item{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:10px 0;border-bottom:1px dashed rgba(237,234,225,0.2);}
+  .build-item .b-name{font-size:0.9rem;flex:1;}
+  .build-item .b-price{font-family:'IBM Plex Mono',monospace;font-size:0.88rem;white-space:nowrap;}
+  .remove-btn{background:none;border:1px solid rgba(237,234,225,0.4);color:var(--paper);font-size:0.75rem;padding:4px 8px;cursor:pointer;}
+  .build-actions{display:flex;gap:10px;padding:14px 0 4px;}
+  .action-btn{
+    flex:1;font-family:'Barlow Condensed',sans-serif;font-weight:700;text-transform:uppercase;
+    font-size:0.9rem;padding:11px;border:2px solid var(--paper);cursor:pointer;text-align:center;
+  }
+  .action-btn.primary{background:var(--yellow);border-color:var(--yellow);color:var(--ink);}
+  .action-btn.secondary{background:transparent;color:var(--paper);}
+</style>
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html" class="logo"><span class="dot"></span>Receipt<span style="color:var(--teal)">GG</span></a>
+    <a href="index.html" class="back-link">← Back home</a>
+  </nav>
+</header>
+
+<div class="page-head wrap">
+  <h1>Build your PC</h1>
+  <p>Browse every category with live Star Tech prices. Add what you want, then export your full parts list as a PDF.</p>
+</div>
+
+<div class="tabs" id="tabs"></div>
+
+<div class="wrap">
+  <input type="text" id="search-box" placeholder="Search this category..." style="width:100%;padding:12px 14px;border:2px solid var(--ink);background:#FBFAF6;font-family:'IBM Plex Sans',sans-serif;font-size:1rem;margin-bottom:20px;">
+  <div id="product-list" class="product-list">
+    <p class="mono" style="color:var(--ink-soft);padding:16px 0;">Loading prices…</p>
+  </div>
+</div>
+
+<div class="build-bar">
+  <div class="build-bar-summary" id="build-toggle">
+    <span class="count" id="build-count">0 items selected</span>
+    <span class="total" id="build-total">৳0</span>
+  </div>
+  <div class="build-panel" id="build-panel">
+    <div id="build-items"></div>
+    <div class="build-actions">
+      <button class="action-btn secondary" id="clear-btn">Clear all</button>
+      <button class="action-btn primary" id="export-btn">Export as PDF</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  const CATEGORY_LABELS = {
+    "processor": "Processor",
+    "graphics-card": "Graphics Card",
+    "motherboard": "Motherboard",
+    "ram": "RAM",
+    "ssd": "SSD",
+    "power-supply": "Power Supply",
+    "casing": "Casing",
+    "monitor": "Monitor",
+    "keyboard": "Keyboard",
+    "mouse": "Mouse",
+  };
+
+  let priceData = {};
+  let activeCategory = "processor";
+  let build = [];
+  let searchTerm = "";
+
+  function saveBuild() {
+    // Intentionally not persisted — selections reset on page refresh by design.
+  }
+
+  function formatBDT(n) {
+    return "৳" + Number(n).toLocaleString("en-US");
+  }
+
+  function itemKey(item) {
+    return item.name + "|" + item.price_bdt;
+  }
+
+  function isInBuild(item) {
+    return build.some(b => itemKey(b) === itemKey(item));
+  }
+
+  function renderTabs() {
+    const tabsEl = document.getElementById("tabs");
+    tabsEl.innerHTML = Object.keys(CATEGORY_LABELS).map(key => `
+      <button class="tab-btn ${key === activeCategory ? 'active' : ''}" data-cat="${key}">
+        ${CATEGORY_LABELS[key]}
+      </button>
+    `).join("");
+    tabsEl.querySelectorAll(".tab-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        activeCategory = btn.dataset.cat;
+        searchTerm = "";
+        const searchBox = document.getElementById("search-box");
+        if (searchBox) searchBox.value = "";
+        renderTabs();
+        renderProductList();
+      });
+    });
+  }
+
+  function renderProductList() {
+    const container = document.getElementById("product-list");
+    const items = (priceData.categories && priceData.categories[activeCategory]) || [];
+
+    if (items.length === 0) {
+      container.innerHTML = `<div class="empty-note">No data yet for ${CATEGORY_LABELS[activeCategory]} — the scraper hasn't run for this category, or found nothing to parse.</div>`;
+      return;
+    }
+
+    const filtered = searchTerm
+      ? items.filter(i => i.name.toLowerCase().includes(searchTerm.toLowerCase()))
+      : items;
+
+    if (filtered.length === 0) {
+      container.innerHTML = `<div class="empty-note">No ${CATEGORY_LABELS[activeCategory]} matches "${searchTerm}".</div>`;
+      return;
+    }
+
+    const sorted = [...filtered].sort((a, b) => a.price_bdt - b.price_bdt);
+    container.innerHTML = sorted.map(item => `
+      <div class="product-row">
+        <div class="p-name">
+          ${item.name}
+          <a href="${item.url}" target="_blank" rel="noopener">View on Star Tech →</a>
+        </div>
+        <div class="p-price">${formatBDT(item.price_bdt)}</div>
+        <button class="add-btn ${isInBuild(item) ? 'added' : ''}" data-key="${itemKey(item)}">
+          ${isInBuild(item) ? 'Added ✓' : 'Add'}
+        </button>
+      </div>
+    `).join("");
+
+    container.querySelectorAll(".add-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const key = btn.dataset.key;
+        const item = items.find(i => itemKey(i) === key);
+        if (!item) return;
+        if (isInBuild(item)) {
+          build = build.filter(b => itemKey(b) !== key);
+        } else {
+          build = build.filter(b => b.category !== activeCategory);
+          build.push({ ...item, category: activeCategory });
+        }
+        saveBuild();
+        renderProductList();
+        renderBuildPanel();
+      });
+    });
+  }
+
+  function renderBuildPanel() {
+    const countEl = document.getElementById("build-count");
+    const totalEl = document.getElementById("build-total");
+    const itemsEl = document.getElementById("build-items");
+
+    countEl.textContent = `${build.length} item${build.length === 1 ? '' : 's'} selected`;
+    const total = build.reduce((sum, i) => sum + i.price_bdt, 0);
+    totalEl.textContent = formatBDT(total);
+
+    if (build.length === 0) {
+      itemsEl.innerHTML = `<p class="mono" style="font-size:0.85rem;opacity:0.7;padding:10px 0;">Nothing added yet — pick parts above.</p>`;
+      return;
+    }
+
+    itemsEl.innerHTML = build.map(item => `
+      <div class="build-item">
+        <span class="b-name">[${CATEGORY_LABELS[item.category] || item.category}] ${item.name}</span>
+        <span class="b-price">${formatBDT(item.price_bdt)}</span>
+        <button class="remove-btn" data-key="${itemKey(item)}">Remove</button>
+      </div>
+    `).join("");
+
+    itemsEl.querySelectorAll(".remove-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        build = build.filter(b => itemKey(b) !== btn.dataset.key);
+        saveBuild();
+        renderBuildPanel();
+        renderProductList();
+      });
+    });
+  }
+
+  function exportPDF() {
+    if (build.length === 0) {
+      alert("Add at least one part before exporting.");
+      return;
+    }
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+    let y = 20;
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(18);
+    doc.text("ReceiptGG — My PC Build", 14, y);
+    y += 8;
+    doc.setFontSize(10);
+    doc.setFont("helvetica", "normal");
+    doc.text(`Generated ${new Date().toLocaleDateString()}`, 14, y);
+    y += 12;
+
+    doc.setFontSize(11);
+    build.forEach(item => {
+      if (y > 270) { doc.addPage(); y = 20; }
+      const label = `[${CATEGORY_LABELS[item.category] || item.category}]`;
+      doc.setFont("helvetica", "bold");
+      doc.text(label, 14, y);
+      doc.setFont("helvetica", "normal");
+      const nameLines = doc.splitTextToSize(item.name, 130);
+      doc.text(nameLines, 40, y);
+      doc.text(`Tk ${item.price_bdt.toLocaleString("en-US")}`, 175, y);
+      y += 7 * nameLines.length + 2;
+    });
+
+    y += 4;
+    if (y > 270) { doc.addPage(); y = 20; }
+    doc.setDrawColor(0);
+    doc.line(14, y, 196, y);
+    y += 8;
+    const total = build.reduce((sum, i) => sum + i.price_bdt, 0);
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(13);
+    doc.text(`Total: Tk ${total.toLocaleString("en-US")}`, 14, y);
+
+    doc.save("receiptgg-pc-build.pdf");
+  }
+
+  document.getElementById("build-toggle").addEventListener("click", () => {
+    document.getElementById("build-panel").classList.toggle("open");
+  });
+  document.getElementById("clear-btn").addEventListener("click", () => {
+    if (build.length === 0) return;
+    if (confirm("Remove all selected parts?")) {
+      build = [];
+      saveBuild();
+      renderBuildPanel();
+      renderProductList();
+    }
+  });
+  document.getElementById("export-btn").addEventListener("click", exportPDF);
+  document.getElementById("search-box").addEventListener("input", (e) => {
+    searchTerm = e.target.value;
+    renderProductList();
+  });
+
+  renderTabs();
+  renderBuildPanel();
+
+  fetch("data/prices.json")
+    .then(res => {
+      if (!res.ok) throw new Error("prices.json not found");
+      return res.json();
+    })
+    .then(data => {
+      priceData = data;
+      renderProductList();
+    })
+    .catch(err => {
+      document.getElementById("product-list").innerHTML =
+        '<div class="empty-note">Couldn\'t load price data. Make sure data/prices.json exists and this page is served over http(s).</div>';
+      console.error(err);
+    });
+})();
+</script>
+
+</body>
+</html>
