@@ -1,9 +1,16 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-07-25T04:51:21.246132+00:00",
   "source": "startech.com.bd",
   "categories": {
-    "graphics-card": [],
     "processor": [],
-    "ram": []
+    "graphics-card": [],
+    "motherboard": [],
+    "ram": [],
+    "ssd": [],
+    "power-supply": [],
+    "casing": [],
+    "monitor": [],
+    "keyboard": [],
+    "mouse": []
   }
 }
