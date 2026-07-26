@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T15:34:41.216584+00:00",
+  "updated_at": "2026-07-26T08:34:30.476417+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -85,7 +85,7 @@
       },
       {
         "name": "Intel 10th Gen Core i5-10400 Processor",
-        "price_bdt": 14700,
+        "price_bdt": 15300,
         "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
       },
       {
@@ -116,6 +116,11 @@
         "url": "https://www.startech.com.bd/afox-gt-610-2gb-graphics-card"
       },
       {
+        "name": "MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
+        "price_bdt": 9300,
+        "url": "https://www.startech.com.bd/msi-gt-710-2gd3h-lp-graphics-card"
+      },
+      {
         "name": "Colorful GeForce GT710-2GD3-V 2GB Graphics Card",
         "price_bdt": 5799,
         "url": "https://www.startech.com.bd/colorful-geforce-gt710-2gd3-v-graphics-card"
@@ -139,6 +144,11 @@
         "name": "OCPC GeForce GT 730 4GB DDR3 Graphics Card",
         "price_bdt": 7400,
         "url": "https://www.startech.com.bd/ocpc-geforce-gt-730-4gb-graphics-card"
+      },
+      {
+        "name": "MSI GeForce GT 730 4GB DDR3 Graphics Card",
+        "price_bdt": 12900,
+        "url": "https://www.startech.com.bd/msi-gt-730-4gb-graphics-card"
       },
       {
         "name": "AFOX NVIDIA GeForce GT 710 4GB GDDR3 Graphics Card",
@@ -181,11 +191,6 @@
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-index-6g-graphics-card"
       },
       {
-        "name": "GUNNIR Intel Arc A380 Photon 6G OC W GDDR6 Graphics Card",
-        "price_bdt": 1901,
-        "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-photon-6g-oc-w-graphics-card"
-      },
-      {
         "name": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
         "price_bdt": 13000,
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
@@ -199,11 +204,6 @@
         "name": "ARKTEK RX 580 8GB 256bit GDDR5 Graphics Card",
         "price_bdt": 17900,
         "url": "https://www.startech.com.bd/arktek-rx-580-8gb-256bit-graphics-card"
-      },
-      {
-        "name": "ARKTEK GTX 1660 Super 6GB GDDR6 Graphics Card",
-        "price_bdt": 26000,
-        "url": "https://www.startech.com.bd/arktek-gtx-1660-super-6gb-graphics-card"
       }
     ],
     "motherboard": [
@@ -299,7 +299,7 @@
       },
       {
         "name": "ASUS PRIME H610M-F D4 R2.0 DDR4 LGA1700 mATX Motherboard",
-        "price_bdt": 9800,
+        "price_bdt": 10300,
         "url": "https://www.startech.com.bd/asus-prime-h610m-f-d4-r2-0-lga1700-motherboard"
       },
       {
@@ -310,9 +310,9 @@
     ],
     "ram": [
       {
-        "name": "Lexar THOR RGB 16GB DDR5 6000MHz CL38 Desktop RAM",
-        "price_bdt": 31000,
-        "url": "https://www.startech.com.bd/lexar-thor-rgb-16gb-ddr5-6000mhz-ram"
+        "name": "Lexar THOR RGB 2nd Gen 16GB DDR5 6000Mhz CL38 Desktop RAM",
+        "price_bdt": 33500,
+        "url": "https://www.startech.com.bd/lexar-thor-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
       },
       {
         "name": "Lexar ARES RGB 2nd Gen 16GB DDR5 6000Mhz CL30 Desktop RAM",
@@ -320,9 +320,9 @@
         "url": "https://www.startech.com.bd/lexar-ares-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
       },
       {
-        "name": "Lexar THOR RGB 2nd Gen 16GB DDR5 6000Mhz CL38 Desktop RAM",
-        "price_bdt": 33500,
-        "url": "https://www.startech.com.bd/lexar-thor-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
+        "name": "Lexar THOR RGB 16GB DDR5 6000MHz CL38 Desktop RAM",
+        "price_bdt": 31000,
+        "url": "https://www.startech.com.bd/lexar-thor-rgb-16gb-ddr5-6000mhz-ram"
       },
       {
         "name": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
@@ -432,11 +432,6 @@
         "url": "https://www.startech.com.bd/netac-n535s-120gb-ssd"
       },
       {
-        "name": "TwinMOS Alpha Pro 128GB M.2 PCIe NVMe Gen3 SSD",
-        "price_bdt": 4000,
-        "url": "https://www.startech.com.bd/twinmos-alpha-pro-128gb-nvme-ssd"
-      },
-      {
         "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
         "price_bdt": 5100,
         "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
@@ -510,9 +505,19 @@
         "name": "OSCOO OS002 256GB 2.5'' SATA III SSD",
         "price_bdt": 5700,
         "url": "https://www.startech.com.bd/oscoo-os002-256gb-ssd"
+      },
+      {
+        "name": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
+        "price_bdt": 5990,
+        "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd"
       }
     ],
     "power-supply": [
+      {
+        "name": "Antec G750 750W 80 Plus Gold Semi Modular Power Supply",
+        "price_bdt": 7600,
+        "url": "https://www.startech.com.bd/antec-g750-750w-80-plus-gold-power-supply"
+      },
       {
         "name": "T-Wolf ATX 350W Power Supply With Cable Black",
         "price_bdt": 1250,
@@ -607,11 +612,6 @@
         "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
         "price_bdt": 2950,
         "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
-      },
-      {
-        "name": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
-        "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
       }
     ],
     "casing": [
