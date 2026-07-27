@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T08:34:30.476417+00:00",
+  "updated_at": "2026-07-27T10:02:09.641562+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -70,12 +70,12 @@
       },
       {
         "name": "AMD Ryzen 5 8400F Processor",
-        "price_bdt": 10999,
+        "price_bdt": 10500,
         "url": "https://www.startech.com.bd/amd-ryzen-5-8400f-processor"
       },
       {
         "name": "Intel 10th Gen Core i5-10500 Processor",
-        "price_bdt": 14300,
+        "price_bdt": 13900,
         "url": "https://www.startech.com.bd/intel-core-i5-10500-processor"
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
-        "price_bdt": 15999,
+        "price_bdt": 16200,
         "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-alder-lake-processor"
       },
       {
@@ -122,7 +122,7 @@
       },
       {
         "name": "Colorful GeForce GT710-2GD3-V 2GB Graphics Card",
-        "price_bdt": 5799,
+        "price_bdt": 6500,
         "url": "https://www.startech.com.bd/colorful-geforce-gt710-2gd3-v-graphics-card"
       },
       {
@@ -315,14 +315,14 @@
         "url": "https://www.startech.com.bd/lexar-thor-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
       },
       {
-        "name": "Lexar ARES RGB 2nd Gen 16GB DDR5 6000Mhz CL30 Desktop RAM",
-        "price_bdt": 40500,
-        "url": "https://www.startech.com.bd/lexar-ares-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
-      },
-      {
         "name": "Lexar THOR RGB 16GB DDR5 6000MHz CL38 Desktop RAM",
         "price_bdt": 31000,
         "url": "https://www.startech.com.bd/lexar-thor-rgb-16gb-ddr5-6000mhz-ram"
+      },
+      {
+        "name": "Lexar ARES RGB 2nd Gen 16GB DDR5 6000Mhz CL30 Desktop RAM",
+        "price_bdt": 40500,
+        "url": "https://www.startech.com.bd/lexar-ares-rgb-2nd-gen-16gb-ddr5-6000mhz-ram"
       },
       {
         "name": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
@@ -345,8 +345,13 @@
         "url": "https://www.startech.com.bd/kingbank-kjxb-8gb-ddr4-ram"
       },
       {
+        "name": "Netac Shadow II 16GB DDR4 3200MHz Desktop RAM Black",
+        "price_bdt": 11800,
+        "url": "https://www.startech.com.bd/netac-shadow-ii-black-16gb-ddr4-3200mhz-c16-ram"
+      },
+      {
         "name": "Netac Shadow II 8GB DDR4 3200MHz Desktop RAM Black",
-        "price_bdt": 6899,
+        "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-shadow-ii-8gb-ddr4-ram-black"
       },
       {
@@ -403,11 +408,6 @@
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
         "price_bdt": 7700,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram"
-      },
-      {
-        "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
-        "price_bdt": 7700,
-        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
       }
     ],
     "ssd": [
@@ -433,7 +433,7 @@
       },
       {
         "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
-        "price_bdt": 5100,
+        "price_bdt": 4399,
         "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
       },
       {
@@ -508,7 +508,7 @@
       },
       {
         "name": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
-        "price_bdt": 5990,
+        "price_bdt": 6099,
         "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd"
       }
     ],
@@ -517,11 +517,6 @@
         "name": "Antec G750 750W 80 Plus Gold Semi Modular Power Supply",
         "price_bdt": 7600,
         "url": "https://www.startech.com.bd/antec-g750-750w-80-plus-gold-power-supply"
-      },
-      {
-        "name": "T-Wolf ATX 350W Power Supply With Cable Black",
-        "price_bdt": 1250,
-        "url": "https://www.startech.com.bd/t-wolf-atx-350w-power-supply-with-cable"
       },
       {
         "name": "Value-Top S200i Real 200W Power Supply",
@@ -612,6 +607,11 @@
         "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
         "price_bdt": 2950,
         "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
+      },
+      {
+        "name": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
       }
     ],
     "casing": [
@@ -733,11 +733,6 @@
         "url": "https://www.startech.com.bd/gigasonic-rb-g20s-400c-monitor"
       },
       {
-        "name": "Gigasonic RB-G215S-400C 21.5\" FHD LED Monitor",
-        "price_bdt": 6700,
-        "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
-      },
-      {
         "name": "GEESUU CloudWing G20FM1 19.5\" 75Hz HD+ Monitor",
         "price_bdt": 7500,
         "url": "https://www.startech.com.bd/geesuu-cloudwing-g20fm1-monitor"
@@ -816,6 +811,11 @@
         "name": "PC Power PCGM22 21.45\" IPS FHD 100Hz Borderless Monitor",
         "price_bdt": 10200,
         "url": "https://www.startech.com.bd/pc-power-pcgm22-fhd-monitor"
+      },
+      {
+        "name": "Lenovo D20-30 19.5 Inch HD+ HDMI VGA Monitor",
+        "price_bdt": 10500,
+        "url": "https://www.startech.com.bd/lenovo-d20-30-19-5-inch-monitor"
       }
     ],
     "keyboard": [
