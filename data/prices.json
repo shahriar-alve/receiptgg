@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T08:44:37.696954+00:00",
+  "updated_at": "2026-07-29T08:49:31.134892+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -126,6 +126,11 @@
         "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card"
       },
       {
+        "name": "PELADN RX 5500 8G GDDR6 Dual Fan Gaming Graphics Card",
+        "price_bdt": 18800,
+        "url": "https://www.startech.com.bd/peladn-rx-5500-8gd6-black-gaming-graphics-card"
+      },
+      {
         "name": "AFOX NVIDIA GeForce GT 730 2GB GDDR3 Low Profile Graphics Card",
         "price_bdt": 7300,
         "url": "https://www.startech.com.bd/afox-gt-730-2gb-low-profile-graphics-card"
@@ -199,11 +204,6 @@
         "name": "PELADN RX 580 8G 256Bit Dual Fans Gaming Graphics Card",
         "price_bdt": 16500,
         "url": "https://www.startech.com.bd/peladn-rx-580-8g-gaming-graphics-card"
-      },
-      {
-        "name": "GUNNIR Intel Arc A380 Index 6G GDDR6 Graphics Card",
-        "price_bdt": 15999,
-        "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-index-6g-graphics-card"
       }
     ],
     "motherboard": [
@@ -764,7 +764,7 @@
       },
       {
         "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 9700,
+        "price_bdt": 9450,
         "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
       },
       {
@@ -808,14 +808,14 @@
         "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
       },
       {
-        "name": "PC Power PCGM22 21.45\" IPS FHD 100Hz Borderless Monitor",
-        "price_bdt": 300,
-        "url": "https://www.startech.com.bd/pc-power-pcgm22-fhd-monitor"
-      },
-      {
         "name": "Lenovo D20-30 19.5 Inch HD+ HDMI VGA Monitor",
         "price_bdt": 10500,
         "url": "https://www.startech.com.bd/lenovo-d20-30-19-5-inch-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 9499,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
       }
     ],
     "keyboard": [
