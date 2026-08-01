@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T09:09:54.163973+00:00",
+  "updated_at": "2026-08-01T08:28:32.562159+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -187,7 +187,7 @@
       },
       {
         "name": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
-        "price_bdt": 15400,
+        "price_bdt": 15300,
         "url": "https://www.startech.com.bd/unika-radeon-rx-580-blizzards-8gd5-v2-graphics-card"
       },
       {
@@ -208,6 +208,11 @@
     ],
     "motherboard": [
       {
+        "name": "XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard",
+        "price_bdt": 7200,
+        "url": "https://www.startech.com.bd/xenthra-xn-b450m-vh-pro-motherboard"
+      },
+      {
         "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
         "price_bdt": 7200,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
@@ -219,7 +224,7 @@
       },
       {
         "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 7300,
+        "price_bdt": 6200,
         "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
       },
       {
@@ -233,6 +238,11 @@
         "url": "https://www.startech.com.bd/asus-prime-a520m-r-motherboard"
       },
       {
+        "name": "XENTHRA XN-H81M-VH 4th Gen mATX Motherboard",
+        "price_bdt": 4200,
+        "url": "https://www.startech.com.bd/xenthra-xn-h81m-vh-motherboard"
+      },
+      {
         "name": "GIGABYTE GA-H81M-H 4th Gen Micro ATX Motherboard",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
@@ -241,6 +251,11 @@
         "name": "MSI H310M PRO-VDH Intel 9th Gen Motherboard",
         "price_bdt": 8400,
         "url": "https://www.startech.com.bd/msi-h310m-pro-vdh-motherboard"
+      },
+      {
+        "name": "XENTHRA XN-H311M-VH-PRO Intel 9th Gen mATX Motherboard",
+        "price_bdt": 6550,
+        "url": "https://www.startech.com.bd/xenthra-xn-h311m-vh-pro-motherboard"
       },
       {
         "name": "ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard",
@@ -291,21 +306,6 @@
         "name": "MSI PRO H610M-S DDR4 m-ATX Motherboard",
         "price_bdt": 9700,
         "url": "https://www.startech.com.bd/msi-pro-h610m-s-motherboard"
-      },
-      {
-        "name": "ASUS PRIME H510M-F R3.0 LGA1200 Micro-ATX Motherboard",
-        "price_bdt": 10300,
-        "url": "https://www.startech.com.bd/asus-prime-h510m-f-r3-0-motherboard"
-      },
-      {
-        "name": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
-        "price_bdt": 9500,
-        "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard"
-      },
-      {
-        "name": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
-        "price_bdt": 10500,
-        "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard"
       }
     ],
     "ram": [
@@ -764,7 +764,7 @@
       },
       {
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 9500,
+        "price_bdt": 8999,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
