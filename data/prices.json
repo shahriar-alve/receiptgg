@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T08:28:32.562159+00:00",
+  "updated_at": "2026-08-02T08:31:35.825952+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -137,7 +137,7 @@
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 7500,
+        "price_bdt": 7950,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
@@ -157,7 +157,7 @@
       },
       {
         "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
-        "price_bdt": 9800,
+        "price_bdt": 10300,
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -182,7 +182,7 @@
       },
       {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 15900,
+        "price_bdt": 16500,
         "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -642,7 +642,7 @@
       },
       {
         "name": "Value-Top V200 Micro ATX Casing With PSU",
-        "price_bdt": 2400,
+        "price_bdt": 2300,
         "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
       },
       {
@@ -748,11 +748,6 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm19-a202y-monitor"
       },
       {
-        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor",
-        "price_bdt": 8199,
-        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor"
-      },
-      {
         "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor White",
         "price_bdt": 8199,
         "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor-white"
@@ -816,6 +811,11 @@
         "name": "Lenovo D20-30 19.5 Inch HD+ HDMI VGA Monitor",
         "price_bdt": 10500,
         "url": "https://www.startech.com.bd/lenovo-d20-30-19-5-inch-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 9499,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
       }
     ],
     "keyboard": [
