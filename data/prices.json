@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T08:31:35.825952+00:00",
+  "updated_at": "2026-08-03T09:57:04.641942+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -248,14 +248,14 @@
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
       },
       {
-        "name": "MSI H310M PRO-VDH Intel 9th Gen Motherboard",
-        "price_bdt": 8400,
-        "url": "https://www.startech.com.bd/msi-h310m-pro-vdh-motherboard"
-      },
-      {
         "name": "XENTHRA XN-H311M-VH-PRO Intel 9th Gen mATX Motherboard",
         "price_bdt": 6550,
         "url": "https://www.startech.com.bd/xenthra-xn-h311m-vh-pro-motherboard"
+      },
+      {
+        "name": "MSI H310M PRO-VDH Intel 9th Gen Motherboard",
+        "price_bdt": 8400,
+        "url": "https://www.startech.com.bd/msi-h310m-pro-vdh-motherboard"
       },
       {
         "name": "ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard",
@@ -271,11 +271,6 @@
         "name": "Gigabyte GA-H110M-H Micro ATX Motherboard",
         "price_bdt": 9300,
         "url": "https://www.startech.com.bd/gigabyte-ga-h110m-h-motherboard"
-      },
-      {
-        "name": "Intel Core i5-7640X Processor & Asus TUF X299 MARK 2 Motherboard Combo",
-        "price_bdt": 50000,
-        "url": "https://www.startech.com.bd/intel-core-i5-7640x-cpu-asus-tuf-x299-mark-2-motherboard-combo"
       },
       {
         "name": "Gigabyte H310M M.2 9th Gen Micro ATX Motherboard",
@@ -306,6 +301,11 @@
         "name": "MSI PRO H610M-S DDR4 m-ATX Motherboard",
         "price_bdt": 9700,
         "url": "https://www.startech.com.bd/msi-pro-h610m-s-motherboard"
+      },
+      {
+        "name": "ASUS PRIME H510M-F R3.0 LGA1200 Micro-ATX Motherboard",
+        "price_bdt": 10300,
+        "url": "https://www.startech.com.bd/asus-prime-h510m-f-r3-0-motherboard"
       }
     ],
     "ram": [
@@ -642,7 +642,7 @@
       },
       {
         "name": "Value-Top V200 Micro ATX Casing With PSU",
-        "price_bdt": 2300,
+        "price_bdt": 2550,
         "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
       },
       {
@@ -738,11 +738,6 @@
         "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
       },
       {
-        "name": "GEESUU CloudWing G20FM1 19.5\" 75Hz HD+ Monitor",
-        "price_bdt": 7500,
-        "url": "https://www.startech.com.bd/geesuu-cloudwing-g20fm1-monitor"
-      },
-      {
         "name": "Dahua DHI-LM19-A202Y 18.5\" HD Monitor",
         "price_bdt": 8600,
         "url": "https://www.startech.com.bd/dahua-dhi-lm19-a202y-monitor"
@@ -754,7 +749,7 @@
       },
       {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 9500,
+        "price_bdt": 8999,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
       },
       {
@@ -816,6 +811,11 @@
         "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
         "price_bdt": 9499,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
+      },
+      {
+        "name": "Hikvision DS-D5022F2-CBD 21.5\" 100Hz Full HD IPS Monitor",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/hikvision-ds-d5022f2-cbd-monitor"
       }
     ],
     "keyboard": [
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "A4TECH OP-620D 2X Click Optical Mouse",
-        "price_bdt": 500,
+        "price_bdt": 525,
         "url": "https://www.startech.com.bd/a4tech-op-620d"
       },
       {
