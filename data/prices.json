@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T09:57:04.641942+00:00",
+  "updated_at": "2026-08-04T08:47:29.711474+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -17,11 +17,6 @@
         "name": "AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics",
         "price_bdt": 6300,
         "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-processor"
-      },
-      {
-        "name": "Intel Pentium Gold G6400 10th gen Coffee Lake Processor",
-        "price_bdt": 7300,
-        "url": "https://www.startech.com.bd/intel-pentium-gold-g6400-processor"
       },
       {
         "name": "Intel Pentium Gold G6405 Coffee Lake Processor",
@@ -92,6 +87,11 @@
         "name": "Intel 10th Gen Core i5-10400 Processor",
         "price_bdt": 15300,
         "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
+      },
+      {
+        "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
+        "price_bdt": 15500,
+        "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
       },
       {
         "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
@@ -412,11 +412,6 @@
     ],
     "ssd": [
       {
-        "name": "Biostar S160 128GB 2.5-inch SATAIII SSD",
-        "price_bdt": 2899,
-        "url": "https://www.startech.com.bd/biostar-s160-128gb-ssd"
-      },
-      {
         "name": "Netac N5M 128GB mSATA SATAIII 2242 SSD",
         "price_bdt": 3200,
         "url": "https://www.startech.com.bd/netac-n5m-128gb-msata-ssd"
@@ -510,6 +505,11 @@
         "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
         "price_bdt": 5350,
         "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd"
+      },
+      {
+        "name": "Netac N600S 256GB 2.5-inch SATA III SSD",
+        "price_bdt": 5450,
+        "url": "https://www.startech.com.bd/netac-n600s-256gb-sata-ssd"
       }
     ],
     "power-supply": [
