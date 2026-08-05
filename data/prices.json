@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T08:47:29.711474+00:00",
+  "updated_at": "2026-08-05T08:45:02.536092+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -137,7 +137,7 @@
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 7950,
+        "price_bdt": 7700,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
@@ -157,7 +157,7 @@
       },
       {
         "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
-        "price_bdt": 10300,
+        "price_bdt": 10200,
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -182,7 +182,7 @@
       },
       {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 16500,
+        "price_bdt": 16300,
         "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -820,6 +820,26 @@
     ],
     "keyboard": [
       {
+        "name": "iMICE AN-800 Silent Wireless Keyboard",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
+      },
+      {
+        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
+      },
+      {
+        "name": "iMICE GK-170 Gaming Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
+      },
+      {
+        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
+      },
+      {
         "name": "Fantech GO K211 Bangla Keyboard",
         "price_bdt": 400,
         "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
@@ -898,26 +918,6 @@
         "name": "T-Wolf T20 Wired RGB Gaming Keyboard",
         "price_bdt": 650,
         "url": "https://www.startech.com.bd/t-wolf-t20-wired-rgb-gaming-keyboard"
-      },
-      {
-        "name": "PC Power PCK-161 Wired Keyboard with Bangla",
-        "price_bdt": 650,
-        "url": "https://www.startech.com.bd/pc-power-pck-161-wired-keyboard"
-      },
-      {
-        "name": "Meetion MT-K300 Wired Keyboard with Bangla",
-        "price_bdt": 660,
-        "url": "https://www.startech.com.bd/meetion-mt-k300-wired-keyboard"
-      },
-      {
-        "name": "T-WOLF T15 104 Keys USB Wired Keyboard",
-        "price_bdt": 549,
-        "url": "https://www.startech.com.bd/t-wolf-t15-wired-keyboard"
-      },
-      {
-        "name": "Redragon BK-7543 Keyboard with Bangla",
-        "price_bdt": 670,
-        "url": "https://www.startech.com.bd/redragon-bk-7543-keyboard-with-bangla"
       }
     ],
     "mouse": [
