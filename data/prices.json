@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:45:02.536092+00:00",
+  "updated_at": "2026-08-06T08:46:20.004147+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -84,14 +84,14 @@
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor"
       },
       {
-        "name": "Intel 10th Gen Core i5-10400 Processor",
-        "price_bdt": 15300,
-        "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
-      },
-      {
         "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
         "price_bdt": 15500,
         "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
+      },
+      {
+        "name": "Intel 10th Gen Core i5-10400 Processor",
+        "price_bdt": 15300,
+        "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
       },
       {
         "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
@@ -126,24 +126,19 @@
         "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card"
       },
       {
-        "name": "PELADN RX 5500 8G GDDR6 Dual Fan Gaming Graphics Card",
-        "price_bdt": 18800,
-        "url": "https://www.startech.com.bd/peladn-rx-5500-8gd6-black-gaming-graphics-card"
-      },
-      {
         "name": "AFOX NVIDIA GeForce GT 730 2GB GDDR3 Low Profile Graphics Card",
         "price_bdt": 7300,
         "url": "https://www.startech.com.bd/afox-gt-730-2gb-low-profile-graphics-card"
       },
       {
-        "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 7700,
-        "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
-      },
-      {
         "name": "OCPC GeForce GT 730 4GB DDR3 Graphics Card",
         "price_bdt": 7400,
         "url": "https://www.startech.com.bd/ocpc-geforce-gt-730-4gb-graphics-card"
+      },
+      {
+        "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
+        "price_bdt": 7700,
+        "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
         "name": "AFOX NVIDIA GeForce GT 710 4GB GDDR3 Graphics Card",
@@ -181,11 +176,6 @@
         "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
       },
       {
-        "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 16300,
-        "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
-      },
-      {
         "name": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
         "price_bdt": 15300,
         "url": "https://www.startech.com.bd/unika-radeon-rx-580-blizzards-8gd5-v2-graphics-card"
@@ -196,6 +186,11 @@
         "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card"
       },
       {
+        "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
+        "price_bdt": 16300,
+        "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
+      },
+      {
         "name": "GIGABYTE Intel Arc A310 WINDFORCE 4G GDDR6 Graphics Card",
         "price_bdt": 15400,
         "url": "https://www.startech.com.bd/gigabyte-intel-arc-a310-windforce-4g-graphics-card"
@@ -204,9 +199,29 @@
         "name": "PELADN RX 580 8G 256Bit Dual Fans Gaming Graphics Card",
         "price_bdt": 16500,
         "url": "https://www.startech.com.bd/peladn-rx-580-8g-gaming-graphics-card"
+      },
+      {
+        "name": "GUNNIR Intel Arc A380 Index 6G GDDR6 Graphics Card",
+        "price_bdt": 15999,
+        "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-index-6g-graphics-card"
       }
     ],
     "motherboard": [
+      {
+        "name": "XENTHRA XN-H81M-VH 4th Gen mATX Motherboard",
+        "price_bdt": 4200,
+        "url": "https://www.startech.com.bd/xenthra-xn-h81m-vh-motherboard"
+      },
+      {
+        "name": "XENTHRA XN-H311M-VH-PRO Intel 9th Gen mATX Motherboard",
+        "price_bdt": 6550,
+        "url": "https://www.startech.com.bd/xenthra-xn-h311m-vh-pro-motherboard"
+      },
+      {
+        "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
+        "price_bdt": 6200,
+        "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
+      },
       {
         "name": "XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard",
         "price_bdt": 7200,
@@ -223,11 +238,6 @@
         "url": "https://www.startech.com.bd/gigabyte-a520m-k-v2-motherboard"
       },
       {
-        "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 6200,
-        "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
-      },
-      {
         "name": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
         "price_bdt": 8200,
         "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
@@ -238,19 +248,9 @@
         "url": "https://www.startech.com.bd/asus-prime-a520m-r-motherboard"
       },
       {
-        "name": "XENTHRA XN-H81M-VH 4th Gen mATX Motherboard",
-        "price_bdt": 4200,
-        "url": "https://www.startech.com.bd/xenthra-xn-h81m-vh-motherboard"
-      },
-      {
         "name": "GIGABYTE GA-H81M-H 4th Gen Micro ATX Motherboard",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
-      },
-      {
-        "name": "XENTHRA XN-H311M-VH-PRO Intel 9th Gen mATX Motherboard",
-        "price_bdt": 6550,
-        "url": "https://www.startech.com.bd/xenthra-xn-h311m-vh-pro-motherboard"
       },
       {
         "name": "MSI H310M PRO-VDH Intel 9th Gen Motherboard",
@@ -641,11 +641,6 @@
         "url": "https://www.startech.com.bd/golden-field-2506b-micro-atx-casing"
       },
       {
-        "name": "Value-Top V200 Micro ATX Casing With PSU",
-        "price_bdt": 2550,
-        "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
-      },
-      {
         "name": "Antec ST6M ARGB Micro-ATX Mini Tower Casing",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/antec-st6m-argb-casing"
@@ -664,6 +659,11 @@
         "name": "Value-Top T862 Micro ATX Casing With PSU",
         "price_bdt": 2400,
         "url": "https://www.startech.com.bd/value-top-t862-casing"
+      },
+      {
+        "name": "Value-Top V200 Micro ATX Casing With PSU",
+        "price_bdt": 2550,
+        "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
       },
       {
         "name": "Value-Top V200H Micro ATX Casing With PSU",
@@ -758,6 +758,11 @@
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
+        "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
+      },
+      {
         "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
         "price_bdt": 9450,
         "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
@@ -811,33 +816,28 @@
         "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
         "price_bdt": 9499,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
-      },
-      {
-        "name": "Hikvision DS-D5022F2-CBD 21.5\" 100Hz Full HD IPS Monitor",
-        "price_bdt": 9500,
-        "url": "https://www.startech.com.bd/hikvision-ds-d5022f2-cbd-monitor"
       }
     ],
     "keyboard": [
-      {
-        "name": "iMICE AN-800 Silent Wireless Keyboard",
-        "price_bdt": 1850,
-        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
-      },
       {
         "name": "iMICE GK-150 Gaming Mechanical Keyboard",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
       },
       {
-        "name": "iMICE GK-170 Gaming Mechanical Keyboard",
-        "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
-      },
-      {
         "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
         "price_bdt": 1850,
         "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
+      },
+      {
+        "name": "iMICE AN-800 Silent Wireless Keyboard",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
+      },
+      {
+        "name": "iMICE GK-170 Gaming Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
@@ -853,6 +853,11 @@
         "name": "Havit KB376 USB Multimedia Keyboard",
         "price_bdt": 419,
         "url": "https://www.startech.com.bd/havit-kb376-usb-multimedia-keyboard"
+      },
+      {
+        "name": "M1 Pro Plus 5 in 1 Keyboard Mouse Combo For Mobile Gaming",
+        "price_bdt": 2490,
+        "url": "https://www.startech.com.bd/m1-pro-plus-combo"
       },
       {
         "name": "Meetion MT-K200 Wired Keyboard with Bangla",
@@ -913,11 +918,6 @@
         "name": "PC Power 603 Wired Keyboard with Bangla",
         "price_bdt": 549,
         "url": "https://www.startech.com.bd/pc-power-603-wired-office-keyboard"
-      },
-      {
-        "name": "T-Wolf T20 Wired RGB Gaming Keyboard",
-        "price_bdt": 650,
-        "url": "https://www.startech.com.bd/t-wolf-t20-wired-rgb-gaming-keyboard"
       }
     ],
     "mouse": [
