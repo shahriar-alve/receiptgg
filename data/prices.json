@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T08:46:20.004147+00:00",
+  "updated_at": "2026-08-07T07:25:27.499037+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -137,7 +137,7 @@
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 7700,
+        "price_bdt": 7950,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
@@ -152,7 +152,7 @@
       },
       {
         "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
-        "price_bdt": 10200,
+        "price_bdt": 10300,
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -187,7 +187,7 @@
       },
       {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 16300,
+        "price_bdt": 16500,
         "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -418,7 +418,7 @@
       },
       {
         "name": "Netac SA500 120GB 2.5-inch SATAIII SSD",
-        "price_bdt": 3300,
+        "price_bdt": 3200,
         "url": "https://www.startech.com.bd/netac-sa500-120-gb-ssd"
       },
       {
@@ -448,7 +448,7 @@
       },
       {
         "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
-        "price_bdt": 4399,
+        "price_bdt": 4950,
         "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
       },
       {
@@ -465,11 +465,6 @@
         "name": "Netac N930ES 128GB M.2 NVMe PCIe 2242 SSD",
         "price_bdt": 4500,
         "url": "https://www.startech.com.bd/netac-n930es-128gb-m-2-nvme-pcie-ssd"
-      },
-      {
-        "name": "OCPC MFL-300 128GB M.2 NVMe SSD",
-        "price_bdt": 4500,
-        "url": "https://www.startech.com.bd/ocpc-mfl-300-128gb-ssd"
       },
       {
         "name": "Netac N5M 256GB M.2 2242 SATA III 2242 SSD",
@@ -510,6 +505,11 @@
         "name": "Netac N600S 256GB 2.5-inch SATA III SSD",
         "price_bdt": 5450,
         "url": "https://www.startech.com.bd/netac-n600s-256gb-sata-ssd"
+      },
+      {
+        "name": "TwinMOS H2 Ultra 256GB SATA III SSD",
+        "price_bdt": 5550,
+        "url": "https://www.startech.com.bd/twinmos-h2-ultra-256gb-ssd"
       }
     ],
     "power-supply": [
@@ -820,14 +820,24 @@
     ],
     "keyboard": [
       {
-        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
-        "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
-      },
-      {
         "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
         "price_bdt": 1850,
         "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
+      },
+      {
+        "name": "iMICE WK-102 Dual Mode Wireless Keyboard Mouse Combo",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/imice-wk-102-dual-mode-wireless-combo"
+      },
+      {
+        "name": "iMICE AN-700 Wireless Keyboard Mouse Combo",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
+      },
+      {
+        "name": "iMICE GK-170 Gaming Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
       },
       {
         "name": "iMICE AN-800 Silent Wireless Keyboard",
@@ -835,9 +845,9 @@
         "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
       },
       {
-        "name": "iMICE GK-170 Gaming Mechanical Keyboard",
+        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
         "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
+        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
@@ -908,16 +918,6 @@
         "name": "Jedel K26 Wired Keyboard",
         "price_bdt": 399,
         "url": "https://www.startech.com.bd/jedel-k26-wired-keyboard"
-      },
-      {
-        "name": "Havit KB249 Wired Keyboard with Bangla",
-        "price_bdt": 600,
-        "url": "https://www.startech.com.bd/havit-kb249-wired-keyboard"
-      },
-      {
-        "name": "PC Power 603 Wired Keyboard with Bangla",
-        "price_bdt": 549,
-        "url": "https://www.startech.com.bd/pc-power-603-wired-office-keyboard"
       }
     ],
     "mouse": [
