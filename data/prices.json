@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:25:27.499037+00:00",
+  "updated_at": "2026-08-08T07:02:13.006466+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -234,12 +234,12 @@
       },
       {
         "name": "GIGABYTE A520M K V2 AM4 Micro ATX Motherboard",
-        "price_bdt": 8200,
+        "price_bdt": 8500,
         "url": "https://www.startech.com.bd/gigabyte-a520m-k-v2-motherboard"
       },
       {
         "name": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 8200,
+        "price_bdt": 8800,
         "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
       },
       {
@@ -666,11 +666,6 @@
         "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
       },
       {
-        "name": "Value-Top V200H Micro ATX Casing With PSU",
-        "price_bdt": 2550,
-        "url": "https://www.startech.com.bd/value-top-v200h-micro-atx-casing"
-      },
-      {
         "name": "PC Power PC401 Mini Tower Micro-ATX Casing With Power Supply",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/pc-power-pc401-micro-atx-casing"
@@ -714,6 +709,11 @@
         "name": "T-Wolf Ice Cooler X5 ARGB  M-ATX Mid Tower Gaming Casing White",
         "price_bdt": 2699,
         "url": "https://www.startech.com.bd/t-wolf-ice-cooler-x5-argb-gaming-casing-white"
+      },
+      {
+        "name": "T-Wolf NEOPULSE X3 RGB Mid Tower mATX Gaming Casing",
+        "price_bdt": 2750,
+        "url": "https://www.startech.com.bd/t-wolf-neopulse-x3-casing"
       }
     ],
     "monitor": [
@@ -820,9 +820,9 @@
     ],
     "keyboard": [
       {
-        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
+        "name": "iMICE AN-800 Silent Wireless Keyboard",
         "price_bdt": 1850,
-        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
+        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
       },
       {
         "name": "iMICE WK-102 Dual Mode Wireless Keyboard Mouse Combo",
@@ -835,19 +835,19 @@
         "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
       },
       {
+        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
+      },
+      {
         "name": "iMICE GK-170 Gaming Mechanical Keyboard",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
       },
       {
-        "name": "iMICE AN-800 Silent Wireless Keyboard",
+        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
         "price_bdt": 1850,
-        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
-      },
-      {
-        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
-        "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
+        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
