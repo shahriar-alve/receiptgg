@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:02:13.006466+00:00",
+  "updated_at": "2026-08-09T07:04:53.009132+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -177,12 +177,12 @@
       },
       {
         "name": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
-        "price_bdt": 15300,
+        "price_bdt": 15500,
         "url": "https://www.startech.com.bd/unika-radeon-rx-580-blizzards-8gd5-v2-graphics-card"
       },
       {
         "name": "ARKTEK AMD Radeon RX 550 8GB GDDR5 Graphics Card",
-        "price_bdt": 16000,
+        "price_bdt": 16900,
         "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card"
       },
       {
@@ -595,12 +595,12 @@
       },
       {
         "name": "MSI MAG A300N-H 300W 80 Plus Non Modular Power Supply",
-        "price_bdt": 2300,
+        "price_bdt": 2299,
         "url": "https://www.startech.com.bd/msi-mag-a300n-h-300w-power-supply"
       },
       {
         "name": "Gamdias AURA GP450 PRO 450W Power Supply Black",
-        "price_bdt": 2899,
+        "price_bdt": 2800,
         "url": "https://www.startech.com.bd/gamdias-aura-gp450-pro-450w-power-supply"
       },
       {
@@ -662,7 +662,7 @@
       },
       {
         "name": "Value-Top V200 Micro ATX Casing With PSU",
-        "price_bdt": 2550,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing"
       },
       {
@@ -825,14 +825,14 @@
         "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
       },
       {
-        "name": "iMICE WK-102 Dual Mode Wireless Keyboard Mouse Combo",
-        "price_bdt": 1600,
-        "url": "https://www.startech.com.bd/imice-wk-102-dual-mode-wireless-combo"
+        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
       },
       {
-        "name": "iMICE AN-700 Wireless Keyboard Mouse Combo",
-        "price_bdt": 1600,
-        "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
+        "name": "iMICE GK-900 Gaming Mechanical Keyboard",
+        "price_bdt": 1700,
+        "url": "https://www.startech.com.bd/imice-gk-900-mechanical-keyboard"
       },
       {
         "name": "iMICE GK-150 Gaming Mechanical Keyboard",
@@ -840,14 +840,24 @@
         "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
       },
       {
+        "name": "iMICE GK-300 Gaming Mechanical Keyboard",
+        "price_bdt": 2230,
+        "url": "https://www.startech.com.bd/imice-gk-300-mechanical-keyboard"
+      },
+      {
         "name": "iMICE GK-170 Gaming Mechanical Keyboard",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
       },
       {
-        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
-        "price_bdt": 1850,
-        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
+        "name": "iMICE AN-700 Wireless Keyboard Mouse Combo",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
+      },
+      {
+        "name": "iMICE WK-102 Dual Mode Wireless Keyboard Mouse Combo",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/imice-wk-102-dual-mode-wireless-combo"
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
@@ -908,16 +918,6 @@
         "name": "PC Power 602 Wired Keyboard with Bangla",
         "price_bdt": 549,
         "url": "https://www.startech.com.bd/pc-power-602-wired-office-keyboard"
-      },
-      {
-        "name": "T-WOLF TF500 Keyboard and Mouse Combo",
-        "price_bdt": 600,
-        "url": "https://www.startech.com.bd/t-wolf-tf500-keyboard-and-mouse-combo"
-      },
-      {
-        "name": "Jedel K26 Wired Keyboard",
-        "price_bdt": 399,
-        "url": "https://www.startech.com.bd/jedel-k26-wired-keyboard"
       }
     ],
     "mouse": [
