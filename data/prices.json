@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:04:53.009132+00:00",
+  "updated_at": "2026-08-10T07:51:54.093898+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -498,7 +498,7 @@
       },
       {
         "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
-        "price_bdt": 5350,
+        "price_bdt": 3200,
         "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd"
       },
       {
@@ -754,7 +754,7 @@
       },
       {
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 8999,
+        "price_bdt": 9500,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
@@ -820,29 +820,9 @@
     ],
     "keyboard": [
       {
-        "name": "iMICE AN-800 Silent Wireless Keyboard",
-        "price_bdt": 1850,
-        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
-      },
-      {
-        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
-        "price_bdt": 1850,
-        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
-      },
-      {
-        "name": "iMICE GK-900 Gaming Mechanical Keyboard",
-        "price_bdt": 1700,
-        "url": "https://www.startech.com.bd/imice-gk-900-mechanical-keyboard"
-      },
-      {
         "name": "iMICE GK-150 Gaming Mechanical Keyboard",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
-      },
-      {
-        "name": "iMICE GK-300 Gaming Mechanical Keyboard",
-        "price_bdt": 2230,
-        "url": "https://www.startech.com.bd/imice-gk-300-mechanical-keyboard"
       },
       {
         "name": "iMICE GK-170 Gaming Mechanical Keyboard",
@@ -853,6 +833,26 @@
         "name": "iMICE AN-700 Wireless Keyboard Mouse Combo",
         "price_bdt": 1600,
         "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
+      },
+      {
+        "name": "iMICE GK-300 Gaming Mechanical Keyboard",
+        "price_bdt": 2230,
+        "url": "https://www.startech.com.bd/imice-gk-300-mechanical-keyboard"
+      },
+      {
+        "name": "iMICE GK-900 Gaming Mechanical Keyboard",
+        "price_bdt": 1700,
+        "url": "https://www.startech.com.bd/imice-gk-900-mechanical-keyboard"
+      },
+      {
+        "name": "iMICE AN-800 Silent Wireless Keyboard",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
+      },
+      {
+        "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/imice-wk-101-wireless-keyboard"
       },
       {
         "name": "iMICE WK-102 Dual Mode Wireless Keyboard Mouse Combo",
@@ -1013,7 +1013,7 @@
       },
       {
         "name": "A4TECH OP-620D 2X Click Optical Mouse",
-        "price_bdt": 525,
+        "price_bdt": 25,
         "url": "https://www.startech.com.bd/a4tech-op-620d"
       },
       {
