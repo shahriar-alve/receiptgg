@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T07:16:45.978677+00:00",
+  "updated_at": "2026-08-12T07:40:49.294252+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -137,7 +137,7 @@
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 7950,
+        "price_bdt": 7700,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
@@ -539,6 +539,11 @@
         "url": "https://www.startech.com.bd/t-wolf-atx-350w-grey-power-supply"
       },
       {
+        "name": "MaxGreen Power Wave 230W Power Supply",
+        "price_bdt": 100,
+        "url": "https://www.startech.com.bd/maxgreen-power-wave-230w-power-supply"
+      },
+      {
         "name": "MaxGreen Standard Series 200W Power Supply",
         "price_bdt": 1500,
         "url": "https://www.startech.com.bd/maxgreen-standard-series-200w-power-supply"
@@ -607,11 +612,6 @@
         "name": "Ocypus BETA P400 400W Non Modular ATX Power Supply",
         "price_bdt": 2700,
         "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply"
-      },
-      {
-        "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
-        "price_bdt": 2950,
-        "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
       }
     ],
     "casing": [
