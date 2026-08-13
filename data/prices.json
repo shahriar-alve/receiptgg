@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T07:40:49.294252+00:00",
+  "updated_at": "2026-08-13T07:42:55.190139+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -152,7 +152,7 @@
       },
       {
         "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
-        "price_bdt": 10300,
+        "price_bdt": 10200,
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -162,7 +162,7 @@
       },
       {
         "name": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
-        "price_bdt": 13000,
+        "price_bdt": 12700,
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
       },
       {
@@ -176,6 +176,11 @@
         "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
       },
       {
+        "name": "AFOX Radeon R7 350 2GB GDDR5 Single Fan Graphics Card",
+        "price_bdt": 9700,
+        "url": "https://www.startech.com.bd/afox-radeon-r7-350-2gb-graphics-card"
+      },
+      {
         "name": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
         "price_bdt": 15500,
         "url": "https://www.startech.com.bd/unika-radeon-rx-580-blizzards-8gd5-v2-graphics-card"
@@ -187,7 +192,7 @@
       },
       {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 16500,
+        "price_bdt": 16300,
         "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -199,11 +204,6 @@
         "name": "PELADN RX 580 8G 256Bit Dual Fans Gaming Graphics Card",
         "price_bdt": 16500,
         "url": "https://www.startech.com.bd/peladn-rx-580-8g-gaming-graphics-card"
-      },
-      {
-        "name": "GUNNIR Intel Arc A380 Index 6G GDDR6 Graphics Card",
-        "price_bdt": 15999,
-        "url": "https://www.startech.com.bd/gunnir-intel-arc-a380-index-6g-graphics-card"
       }
     ],
     "motherboard": [
@@ -219,7 +219,7 @@
       },
       {
         "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 6200,
+        "price_bdt": 6800,
         "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
       },
       {
@@ -331,7 +331,7 @@
       },
       {
         "name": "Kimtigo WOLFRINE 8GB 3200MHz DDR4 UDIMM Desktop RAM White",
-        "price_bdt": 5500,
+        "price_bdt": 6000,
         "url": "https://www.startech.com.bd/kimtigo-wolfrine-8gb-3200mhz-ddr4-udimm-ram-white"
       },
       {
@@ -371,7 +371,7 @@
       },
       {
         "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 7500,
+        "price_bdt": 400,
         "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
       },
       {
@@ -820,24 +820,19 @@
     ],
     "keyboard": [
       {
-        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
-        "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
-      },
-      {
         "name": "iMICE WK-102 Dual Mode Wireless Keyboard Mouse Combo",
         "price_bdt": 1600,
         "url": "https://www.startech.com.bd/imice-wk-102-dual-mode-wireless-combo"
       },
       {
-        "name": "iMICE AN-700 Wireless Keyboard Mouse Combo",
-        "price_bdt": 1600,
-        "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
-      },
-      {
         "name": "iMICE GK-170 Gaming Mechanical Keyboard",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/imice-gk-170-mechanical-keyboard"
+      },
+      {
+        "name": "iMICE AN-700 Wireless Keyboard Mouse Combo",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/imice-an-700-wireless-keyboard-mouse-combo"
       },
       {
         "name": "iMICE GK-300 Gaming Mechanical Keyboard",
@@ -853,6 +848,11 @@
         "name": "iMICE AN-800 Silent Wireless Keyboard",
         "price_bdt": 1850,
         "url": "https://www.startech.com.bd/imice-an-800-wireless-keyboard"
+      },
+      {
+        "name": "iMICE GK-150 Gaming Mechanical Keyboard",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/imice-gk-150-mechanical-keyboard"
       },
       {
         "name": "iMICE WK-101 Rechargeable Wireless Keyboard",
