@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T07:42:55.190139+00:00",
+  "updated_at": "2026-08-14T07:45:20.036254+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -50,7 +50,7 @@
       },
       {
         "name": "AMD Ryzen 5 5500 Processor",
-        "price_bdt": 10600,
+        "price_bdt": 10500,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5500-processor"
       },
       {
@@ -80,7 +80,7 @@
       },
       {
         "name": "AMD Ryzen 5 5600 Processor",
-        "price_bdt": 14500,
+        "price_bdt": 14300,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor"
       },
       {
@@ -90,12 +90,12 @@
       },
       {
         "name": "Intel 10th Gen Core i5-10400 Processor",
-        "price_bdt": 15300,
+        "price_bdt": 14200,
         "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
       },
       {
         "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
-        "price_bdt": 16200,
+        "price_bdt": 16000,
         "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-alder-lake-processor"
       },
       {
@@ -162,7 +162,7 @@
       },
       {
         "name": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
-        "price_bdt": 12700,
+        "price_bdt": 12300,
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
       },
       {
@@ -171,18 +171,18 @@
         "url": "https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card"
       },
       {
-        "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
-        "price_bdt": 14500,
-        "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
-      },
-      {
         "name": "AFOX Radeon R7 350 2GB GDDR5 Single Fan Graphics Card",
         "price_bdt": 9700,
         "url": "https://www.startech.com.bd/afox-radeon-r7-350-2gb-graphics-card"
       },
       {
+        "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
+        "price_bdt": 14500,
+        "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
+      },
+      {
         "name": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
-        "price_bdt": 15500,
+        "price_bdt": 15999,
         "url": "https://www.startech.com.bd/unika-radeon-rx-580-blizzards-8gd5-v2-graphics-card"
       },
       {
@@ -371,7 +371,7 @@
       },
       {
         "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 400,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
       },
       {
@@ -739,7 +739,7 @@
       },
       {
         "name": "Dahua DHI-LM19-A202Y 18.5\" HD Monitor",
-        "price_bdt": 8600,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/dahua-dhi-lm19-a202y-monitor"
       },
       {
@@ -784,7 +784,7 @@
       },
       {
         "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 9200,
+        "price_bdt": 9000,
         "url": "https://www.startech.com.bd/pc-power-pcgm-king22-ips-fhd-monitor"
       },
       {
@@ -804,7 +804,7 @@
       },
       {
         "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
-        "price_bdt": 10400,
+        "price_bdt": 9500,
         "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
       },
       {
