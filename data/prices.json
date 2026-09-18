@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:23:25.029042+00:00",
+  "updated_at": "2026-09-18T10:57:07.159684+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -310,14 +310,69 @@
     ],
     "ram": [
       {
+        "name": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
+        "price_bdt": 7000,
+        "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2666mhz-desktop-ram"
+      },
+      {
         "name": "Netac Basic DDR3 8GB 1600MHZ Desktop RAM",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/netac-basic-ddr3-8gb-1600mhz-desktop-ram"
       },
       {
+        "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
+        "price_bdt": 8000,
+        "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
+      },
+      {
         "name": "Netac Basic 4GB DDR4 2666MHZ Desktop RAM",
         "price_bdt": 3900,
         "url": "https://www.startech.com.bd/netac-basic-4gb-ddr4-2666mhz-desktop-ram"
+      },
+      {
+        "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ram"
+      },
+      {
+        "name": "G.Skill RIPJAWS-V 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/g-skill-ripjaws-v-8gb-desktop-ram"
+      },
+      {
+        "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM White",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ddr4-3200mhz-ram-white"
+      },
+      {
+        "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
+        "price_bdt": 9000,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
+      },
+      {
+        "name": "G.Skill Trident Z 16GB DDR4 3200MHz Heatsink Desktop RAM",
+        "price_bdt": 16700,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-16gb-heatsink-desktop-ram"
+      },
+      {
+        "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
+        "price_bdt": 31500,
+        "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-5200mhz-ram-black"
+      },
+      {
+        "name": "G.Skill Ripjaws V 32GB DDR4 3200MHz Desktop RAM (Black)",
+        "price_bdt": 38000,
+        "url": "https://www.startech.com.bd/g-skill-ripjaws-v-32gb-3200mhz-desktop-ram"
+      },
+      {
+        "name": "G.Skill Trident Z5 RGB 32GB DDR5 5600MHz Desktop RAM",
+        "price_bdt": 64000,
+        "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-5600mhz-ram"
+      },
+      {
+        "name": "G.Skill Trident Z5 RGB 32GB DDR5 6000MHz Desktop RAM",
+        "price_bdt": 65000,
+        "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-6000mhz-ram"
       },
       {
         "name": "Kimtigo WOLFRINE 8GB 3200MHz DDR4 UDIMM Desktop RAM White",
@@ -335,19 +390,9 @@
         "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram"
       },
       {
-        "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
-        "price_bdt": 7000,
-        "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
-      },
-      {
         "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
         "price_bdt": 8500,
         "url": "https://www.startech.com.bd/team-t-force-vulcan-z-red-8gb-ddr4-3200mhz-ram"
-      },
-      {
-        "name": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
-        "price_bdt": 7000,
-        "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2666mhz-desktop-ram"
       },
       {
         "name": "AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black",
@@ -363,51 +408,6 @@
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
         "price_bdt": 7900,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
-      },
-      {
-        "name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
-        "price_bdt": 8300,
-        "url": "https://www.startech.com.bd/kingston-fury-beast-8gb-3200mhz-ddr4-desktop-ram"
-      },
-      {
-        "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM",
-        "price_bdt": 1400,
-        "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram"
-      },
-      {
-        "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM White",
-        "price_bdt": 1400,
-        "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram-white"
-      },
-      {
-        "name": "Netac Basic 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 6500,
-        "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-3200mhz-ram"
-      },
-      {
-        "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
-      },
-      {
-        "name": "AITC Kingsman RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/aitc-kingsman-rgb-8gb-ddr4-ram"
-      },
-      {
-        "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
-        "price_bdt": 8500,
-        "url": "https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz"
-      },
-      {
-        "name": "TEAM ELITE 8GB 3200MHz DDR4 RAM",
-        "price_bdt": 9000,
-        "url": "https://www.startech.com.bd/team-elite-8gb-3200mhz-ddr4-ram"
-      },
-      {
-        "name": "Netac Shadow Red 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8500,
-        "url": "https://www.startech.com.bd/netac-shadow-red-8gb-ddr4-ram"
       }
     ],
     "ssd": [
@@ -890,11 +890,6 @@
         "url": "https://www.startech.com.bd/pc-power-603-wired-office-keyboard"
       },
       {
-        "name": "M1 Pro Plus 5 in 1 Keyboard Mouse Combo For Mobile Gaming",
-        "price_bdt": 710,
-        "url": "https://www.startech.com.bd/m1-pro-plus-combo"
-      },
-      {
         "name": "PC Power PCK-161 Wired Keyboard with Bangla",
         "price_bdt": 650,
         "url": "https://www.startech.com.bd/pc-power-pck-161-wired-keyboard"
@@ -918,6 +913,11 @@
         "name": "Meetion MT-K410 Wired Ultra Thin Keyboard with Bangla",
         "price_bdt": 700,
         "url": "https://www.startech.com.bd/meetion-mt-k410-wired-keyboard"
+      },
+      {
+        "name": "IMICE AK-200 USB Wired Keyboard",
+        "price_bdt": 700,
+        "url": "https://www.startech.com.bd/imice-ak-200-keyboard"
       }
     ],
     "mouse": [
