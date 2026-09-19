@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:57:07.159684+00:00",
+  "updated_at": "2026-09-19T10:40:39.400845+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -132,7 +132,7 @@
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 7700,
+        "price_bdt": 8400,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
@@ -157,7 +157,7 @@
       },
       {
         "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
-        "price_bdt": 10200,
+        "price_bdt": 10700,
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -321,7 +321,7 @@
       },
       {
         "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
-        "price_bdt": 8000,
+        "price_bdt": 7999,
         "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
       },
       {
@@ -346,7 +346,7 @@
       },
       {
         "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
-        "price_bdt": 9000,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
       },
       {
@@ -361,7 +361,7 @@
       },
       {
         "name": "G.Skill Ripjaws V 32GB DDR4 3200MHz Desktop RAM (Black)",
-        "price_bdt": 38000,
+        "price_bdt": 37900,
         "url": "https://www.startech.com.bd/g-skill-ripjaws-v-32gb-3200mhz-desktop-ram"
       },
       {
@@ -373,11 +373,6 @@
         "name": "G.Skill Trident Z5 RGB 32GB DDR5 6000MHz Desktop RAM",
         "price_bdt": 65000,
         "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-6000mhz-ram"
-      },
-      {
-        "name": "Kimtigo WOLFRINE 8GB 3200MHz DDR4 UDIMM Desktop RAM White",
-        "price_bdt": 6000,
-        "url": "https://www.startech.com.bd/kimtigo-wolfrine-8gb-3200mhz-ddr4-udimm-ram-white"
       },
       {
         "name": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
@@ -408,6 +403,11 @@
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
         "price_bdt": 7900,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
+      },
+      {
+        "name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
+        "price_bdt": 8300,
+        "url": "https://www.startech.com.bd/kingston-fury-beast-8gb-3200mhz-ddr4-desktop-ram"
       }
     ],
     "ssd": [
@@ -467,11 +467,6 @@
         "url": "https://www.startech.com.bd/biostar-s160-256gb-ssd"
       },
       {
-        "name": "Netac N535S 240GB 2.5-inch SATAIII SSD",
-        "price_bdt": 4750,
-        "url": "https://www.startech.com.bd/netac-n535s-240gb-ssd"
-      },
-      {
         "name": "OSCOO OS001 256GB 2.5'' SATA III SSD",
         "price_bdt": 5600,
         "url": "https://www.startech.com.bd/oscoo-os001-256gb-ssd"
@@ -510,6 +505,11 @@
         "name": "Transcend 425S 250GB M.2 2242 SATA SSD",
         "price_bdt": 6300,
         "url": "https://www.startech.com.bd/transcend-425s-250gb-ssd"
+      },
+      {
+        "name": "AITC KINGSMAN SK350 256GB 2.5\" SATA III SSD",
+        "price_bdt": 6300,
+        "url": "https://www.startech.com.bd/aitc-kingsman-sk350-256gb-sata-ssd"
       }
     ],
     "power-supply": [
@@ -753,11 +753,6 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
       },
       {
-        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor White",
-        "price_bdt": 8199,
-        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor-white"
-      },
-      {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
         "price_bdt": 8999,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
@@ -816,6 +811,11 @@
         "name": "Philips 22E1N1100 21.5\" 120Hz FHD WLED Monitor",
         "price_bdt": 9800,
         "url": "https://www.startech.com.bd/philips-22e1n1100-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
+        "price_bdt": 8150,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
       }
     ],
     "keyboard": [
