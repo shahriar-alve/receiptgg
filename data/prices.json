@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T10:40:39.400845+00:00",
+  "updated_at": "2026-09-20T11:03:08.977640+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -197,7 +197,7 @@
       },
       {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 16500,
+        "price_bdt": 16400,
         "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -229,12 +229,12 @@
       },
       {
         "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
-        "price_bdt": 7200,
+        "price_bdt": 7800,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
         "name": "GIGABYTE A520M K V2 AM4 Micro ATX Motherboard",
-        "price_bdt": 8500,
+        "price_bdt": 8200,
         "url": "https://www.startech.com.bd/gigabyte-a520m-k-v2-motherboard"
       },
       {
@@ -279,7 +279,7 @@
       },
       {
         "name": "MSI H410M A Pro Intel 10th Gen Micro-ATX Motherboard",
-        "price_bdt": 9400,
+        "price_bdt": 10900,
         "url": "https://www.startech.com.bd/msi-h410m-a-pro-motherboard"
       },
       {
@@ -304,7 +304,7 @@
       },
       {
         "name": "MSI PRO H610M-S DDR4 II mATX Motherboard",
-        "price_bdt": 10200,
+        "price_bdt": 10900,
         "url": "https://www.startech.com.bd/msi-pro-h610m-s-ddr4-ii-matx-motherboard"
       }
     ],
@@ -380,11 +380,6 @@
         "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-2666mhz-desktop-ram"
       },
       {
-        "name": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 6800,
-        "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram"
-      },
-      {
         "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
         "price_bdt": 8500,
         "url": "https://www.startech.com.bd/team-t-force-vulcan-z-red-8gb-ddr4-3200mhz-ram"
@@ -408,6 +403,11 @@
         "name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
         "price_bdt": 8300,
         "url": "https://www.startech.com.bd/kingston-fury-beast-8gb-3200mhz-ddr4-desktop-ram"
+      },
+      {
+        "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM",
+        "price_bdt": 1400,
+        "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram"
       }
     ],
     "ssd": [
@@ -550,7 +550,7 @@
       },
       {
         "name": "MaxGreen Power Wave 230W Power Supply",
-        "price_bdt": 1650,
+        "price_bdt": 1350,
         "url": "https://www.startech.com.bd/maxgreen-power-wave-230w-power-supply"
       },
       {
@@ -585,7 +585,7 @@
       },
       {
         "name": "T-Wolf Phantom P500 ATX 500W Power Supply",
-        "price_bdt": 2499,
+        "price_bdt": 2400,
         "url": "https://www.startech.com.bd/t-wolf-phantom-p500-500w-power-supply"
       },
       {
@@ -682,7 +682,7 @@
       },
       {
         "name": "T-Wolf XPLENDER X5 BH ARGB M-ATX Portable Casing White",
-        "price_bdt": 2999,
+        "price_bdt": 2700,
         "url": "https://www.startech.com.bd/t-wolf-xplender-x5-wh-portable-casing-white"
       },
       {
@@ -836,7 +836,7 @@
       },
       {
         "name": "Meetion MT-K200 Wired Keyboard with Bangla",
-        "price_bdt": 500,
+        "price_bdt": 650,
         "url": "https://www.startech.com.bd/meetion-mt-k200-wired-keyboard"
       },
       {
