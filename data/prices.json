@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:30:42.793951+00:00",
+  "updated_at": "2026-09-22T11:19:30.504564+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -524,11 +524,6 @@
         "url": "https://www.startech.com.bd/xtreme-xps200b-200w-power-supply"
       },
       {
-        "name": "Solitine STN-SP230WB 230W Power Supply",
-        "price_bdt": 1360,
-        "url": "https://www.startech.com.bd/solitine-stn-sp230wb-230w-power-supply"
-      },
-      {
         "name": "T-Wolf ATX 350W Grey Power Supply With Cable",
         "price_bdt": 1400,
         "url": "https://www.startech.com.bd/t-wolf-atx-350w-grey-power-supply"
@@ -612,6 +607,11 @@
         "name": "Ocypus BETA P400 400W Non Modular ATX Power Supply",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply"
+      },
+      {
+        "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
+        "price_bdt": 2950,
+        "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
       }
     ],
     "casing": [
