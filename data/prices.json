@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:19:30.504564+00:00",
+  "updated_at": "2026-09-23T11:13:51.102141+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -253,11 +253,6 @@
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
       },
       {
-        "name": "MSI H310M PRO-VDH Intel 9th Gen Motherboard",
-        "price_bdt": 8400,
-        "url": "https://www.startech.com.bd/msi-h310m-pro-vdh-motherboard"
-      },
-      {
         "name": "ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard",
         "price_bdt": 9100,
         "url": "https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard"
@@ -306,6 +301,11 @@
         "name": "MSI PRO H610M-S DDR4 II mATX Motherboard",
         "price_bdt": 10900,
         "url": "https://www.startech.com.bd/msi-pro-h610m-s-ddr4-ii-matx-motherboard"
+      },
+      {
+        "name": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
+        "price_bdt": 9800,
+        "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard"
       }
     ],
     "ram": [
@@ -348,11 +348,6 @@
         "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
         "price_bdt": 8900,
         "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
-      },
-      {
-        "name": "G.Skill Trident Z 16GB DDR4 3200MHz Heatsink Desktop RAM",
-        "price_bdt": 16700,
-        "url": "https://www.startech.com.bd/g-skill-trident-z-16gb-heatsink-desktop-ram"
       },
       {
         "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
@@ -408,6 +403,11 @@
         "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM",
         "price_bdt": 1400,
         "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram"
+      },
+      {
+        "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM White",
+        "price_bdt": 1400,
+        "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram-white"
       }
     ],
     "ssd": [
@@ -738,6 +738,11 @@
         "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
       },
       {
+        "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
+      },
+      {
         "name": "Dahua DHI-LM22-A201Y 21.45\" IPS FHD 100Hz Monitor",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201y-monitor"
@@ -811,11 +816,6 @@
         "name": "Philips 22E1N1100 21.5\" 120Hz FHD WLED Monitor",
         "price_bdt": 9800,
         "url": "https://www.startech.com.bd/philips-22e1n1100-monitor"
-      },
-      {
-        "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 8150,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
       }
     ],
     "keyboard": [
