@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:13:51.102141+00:00",
+  "updated_at": "2026-09-24T11:28:55.430007+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -186,18 +186,18 @@
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
       },
       {
-        "name": "AFOX AMD Radeon RX 580 8GB GDDR5 Dual Fan Graphics Card",
-        "price_bdt": 19500,
-        "url": "https://www.startech.com.bd/afox-radeon-rx-580-8gb-graphics-card"
-      },
-      {
         "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
         "price_bdt": 14500,
         "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
       },
       {
+        "name": "AFOX AMD Radeon RX 580 8GB GDDR5 Dual Fan Graphics Card",
+        "price_bdt": 19500,
+        "url": "https://www.startech.com.bd/afox-radeon-rx-580-8gb-graphics-card"
+      },
+      {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
-        "price_bdt": 16400,
+        "price_bdt": 16300,
         "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -229,7 +229,7 @@
       },
       {
         "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
-        "price_bdt": 7800,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
@@ -365,14 +365,14 @@
         "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-5600mhz-ram"
       },
       {
-        "name": "G.Skill Trident Z5 RGB 32GB DDR5 6000MHz Desktop RAM",
-        "price_bdt": 65000,
-        "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-6000mhz-ram"
-      },
-      {
         "name": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
         "price_bdt": 6350,
         "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-2666mhz-desktop-ram"
+      },
+      {
+        "name": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 7800,
+        "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram"
       },
       {
         "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
