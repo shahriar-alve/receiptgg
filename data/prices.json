@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:28:55.430007+00:00",
+  "updated_at": "2026-09-25T11:34:41.939187+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -616,11 +616,6 @@
     ],
     "casing": [
       {
-        "name": "Antec ST10M Micro-ATX Mini Tower Casing",
-        "price_bdt": 1400,
-        "url": "https://www.startech.com.bd/antec-st10m-casing"
-      },
-      {
         "name": "Antec ST10M TG Micro-ATX Mini Tower Casing",
         "price_bdt": 1700,
         "url": "https://www.startech.com.bd/antec-st10m-tg-casing"
@@ -714,6 +709,11 @@
         "name": "Value-Top T881 ATX Casing With 200W PSU",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/value-top-t881-casing"
+      },
+      {
+        "name": "Golden Field 1715B Mid Tower Micro ATX Casing with PSU",
+        "price_bdt": 2800,
+        "url": "https://www.startech.com.bd/golden-field-1715b-micro-atx-casing-with-psu"
       }
     ],
     "monitor": [
