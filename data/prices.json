@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:34:41.939187+00:00",
+  "updated_at": "2026-09-26T11:09:11.591328+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -55,7 +55,7 @@
       },
       {
         "name": "Intel Core i5-10500T 10th Gen Processor",
-        "price_bdt": 12800,
+        "price_bdt": 12500,
         "url": "https://www.startech.com.bd/intel-core-i5-10500t-processor"
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "name": "Intel Core i5-11500T 11th Gen Processor",
-        "price_bdt": 15200,
+        "price_bdt": 14300,
         "url": "https://www.startech.com.bd/intel-core-i5-11500t-11th-gen-processor"
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
-        "price_bdt": 15500,
+        "price_bdt": 13900,
         "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
       },
       {
@@ -177,7 +177,7 @@
       },
       {
         "name": "AFOX NVIDIA GeForce GT 1030 2GB GDDR5 Graphics Card",
-        "price_bdt": 14000,
+        "price_bdt": 11500,
         "url": "https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card"
       },
       {
@@ -274,7 +274,7 @@
       },
       {
         "name": "MSI H410M A Pro Intel 10th Gen Micro-ATX Motherboard",
-        "price_bdt": 10900,
+        "price_bdt": 10500,
         "url": "https://www.startech.com.bd/msi-h410m-a-pro-motherboard"
       },
       {
@@ -299,7 +299,7 @@
       },
       {
         "name": "MSI PRO H610M-S DDR4 II mATX Motherboard",
-        "price_bdt": 10900,
+        "price_bdt": 9900,
         "url": "https://www.startech.com.bd/msi-pro-h610m-s-ddr4-ii-matx-motherboard"
       },
       {
@@ -585,7 +585,7 @@
       },
       {
         "name": "1STPlayer PS-400FK Non Modular Power Supply",
-        "price_bdt": 2500,
+        "price_bdt": 2700,
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
@@ -738,9 +738,9 @@
         "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
       },
       {
-        "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 9200,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
+        "name": "Dahua DHI-LM19-L200N 19.5\" 75Hz HD+ Monitor",
+        "price_bdt": 8200,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm19-l200n-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A201Y 21.45\" IPS FHD 100Hz Monitor",
@@ -748,14 +748,19 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201y-monitor"
       },
       {
-        "name": "Dahua DHI-LM19-A202Y 18.5\" HD Monitor",
-        "price_bdt": 8600,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm19-a202y-monitor"
+        "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8999,
+        "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
+      },
+      {
+        "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
@@ -811,215 +816,210 @@
         "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
         "price_bdt": 8700,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
-      },
-      {
-        "name": "Philips 22E1N1100 21.5\" 120Hz FHD WLED Monitor",
-        "price_bdt": 9800,
-        "url": "https://www.startech.com.bd/philips-22e1n1100-monitor"
       }
     ],
     "keyboard": [
+      {
+        "name": "Meetion MT-K9320 Waterproof Backlit Gaming Keyboard",
+        "price_bdt": 900,
+        "url": "https://www.startech.com.bd/meetion-mt-k9320-gaming-keyboard"
+      },
+      {
+        "name": "Havit KB866L Multi-function Backlit Membrane Gaming Keyboard",
+        "price_bdt": 950,
+        "url": "https://www.startech.com.bd/havit-kb866l-gaming-keyboard"
+      },
+      {
+        "name": "Fantech Shikari K515 Gaming Keyboard",
+        "price_bdt": 950,
+        "url": "https://www.startech.com.bd/fantech-shikari-k515-gaming-keyboard"
+      },
+      {
+        "name": "Inphic K2 RGB Gaming keyboard",
+        "price_bdt": 1100,
+        "url": "https://www.startech.com.bd/inphic-k2-gaming-keyboard"
+      },
+      {
+        "name": "Havit KB488L Multi-Function Backlit Gaming Keyboard",
+        "price_bdt": 1150,
+        "url": "https://www.startech.com.bd/havit-kb488l-multi-function-backlit-keyboard"
+      },
+      {
+        "name": "Xtrike Me KB-309 Wired Backlit Gaming Keyboard",
+        "price_bdt": 1170,
+        "url": "https://www.startech.com.bd/xtrike-me-kb-309-gaming-keyboard"
+      },
+      {
+        "name": "Havit KB838L Multi-function RGB Backlit Gaming Keyboard",
+        "price_bdt": 1149,
+        "url": "https://www.startech.com.bd/havit-kb838l-gaming-keyboard"
+      },
+      {
+        "name": "Havit KB876L USB Multi-Function Backlit Gaming Keyboard",
+        "price_bdt": 1199,
+        "url": "https://www.startech.com.bd/havit-kb876l-multi-function-backlit-gaming-keyboard"
+      },
+      {
+        "name": "Magegee TS91 RGB Gaming Keyboard",
+        "price_bdt": 1550,
+        "url": "https://www.startech.com.bd/magegee-ts91-gaming-keyboard"
+      },
+      {
+        "name": "Xtrike Me GK-916 Wired Mechanical Gaming Keyboard",
+        "price_bdt": 1780,
+        "url": "https://www.startech.com.bd/xtrike-me-gk-916-keyboard"
+      },
+      {
+        "name": "MSI FORGE GK100 Wired RGB Gaming Keyboard",
+        "price_bdt": 1800,
+        "url": "https://www.startech.com.bd/msi-forge-gk100-keyboard"
+      },
+      {
+        "name": "Rapoo V50S Wired Gaming Keyboard",
+        "price_bdt": 1800,
+        "url": "https://www.startech.com.bd/rapoo-v50s-gaming-keyboard"
+      },
+      {
+        "name": "Rapoo V50S-98 Wired Gaming Keyboard",
+        "price_bdt": 1800,
+        "url": "https://www.startech.com.bd/rapoo-v50s-98-gaming-keyboard"
+      },
+      {
+        "name": "Xtrike Me KB-512 A Wired Gaming Keyboard",
+        "price_bdt": 1800,
+        "url": "https://www.startech.com.bd/xtrike-me-kb-512-a-keyboard"
+      },
+      {
+        "name": "Redragon K522 RGB Gaming Keyboard",
+        "price_bdt": 1899,
+        "url": "https://www.startech.com.bd/redragon-k522-rgb-gaming-keyboard"
+      },
+      {
+        "name": "Thunderobot KG3089R Wired Mechanical Keyboard",
+        "price_bdt": 1999,
+        "url": "https://www.startech.com.bd/thunderobot-kg3089r-keyboard"
+      },
+      {
+        "name": "Thunderobot KG3089C Wired Mechanical Keyboard",
+        "price_bdt": 1999,
+        "url": "https://www.startech.com.bd/thunderobot-kg3089c-keyboard"
+      },
+      {
+        "name": "AJAZZ NK68 V2 Wired RGB Hot Swappable Mechanical Keyboard",
+        "price_bdt": 2000,
+        "url": "https://www.startech.com.bd/ajazz-nk68-v2-wired-keyboard"
+      },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
         "price_bdt": 400,
         "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
       },
       {
-        "name": "Havit KB271 USB Exquisite Keyboard with Bangla",
-        "price_bdt": 449,
-        "url": "https://www.startech.com.bd/havit-kb271-usb-exquisite-keyboard"
-      },
-      {
-        "name": "IMICE GK-480 4 In 1 Gaming Kit Combo",
-        "price_bdt": 3050,
-        "url": "https://www.startech.com.bd/imice-gk-480-4-in-1-gaming-kit-combo"
-      },
-      {
-        "name": "Meetion MT-K200 Wired Keyboard with Bangla",
-        "price_bdt": 650,
-        "url": "https://www.startech.com.bd/meetion-mt-k200-wired-keyboard"
-      },
-      {
-        "name": "PC Power PCGKY601 Wired Keyboard with Bangla",
-        "price_bdt": 449,
-        "url": "https://www.startech.com.bd/pc-power-pcgky601-office-keyboard"
-      },
-      {
-        "name": "PC Power 604 Wired Keyboard with Bangla",
-        "price_bdt": 449,
-        "url": "https://www.startech.com.bd/pc-power-604-office-keyboard"
-      },
-      {
-        "name": "Havit KB241 USB Wired Keyboard",
-        "price_bdt": 479,
-        "url": "https://www.startech.com.bd/havit-kb241-keyboard"
-      },
-      {
-        "name": "HAVIT KB224 USB Mini Keyboard",
-        "price_bdt": 550,
-        "url": "https://www.startech.com.bd/havit-kb224-usb-mini-keyboard"
-      },
-      {
-        "name": "T-WOLF K220 Wired Keyboard with Bangla",
-        "price_bdt": 499,
-        "url": "https://www.startech.com.bd/t-wolf-k220-wired-keyboard"
-      },
-      {
-        "name": "Havit KB2006 Pro USB Wired Keyboard",
-        "price_bdt": 550,
-        "url": "https://www.startech.com.bd/havit-kb2006-pro-usb-keyboard"
-      },
-      {
-        "name": "PC Power 602 Wired Keyboard with Bangla",
-        "price_bdt": 549,
-        "url": "https://www.startech.com.bd/pc-power-602-wired-office-keyboard"
-      },
-      {
-        "name": "Jedel K26 Wired Keyboard",
-        "price_bdt": 399,
-        "url": "https://www.startech.com.bd/jedel-k26-wired-keyboard"
-      },
-      {
-        "name": "Havit KB249 Wired Keyboard with Bangla",
-        "price_bdt": 600,
-        "url": "https://www.startech.com.bd/havit-kb249-wired-keyboard"
-      },
-      {
-        "name": "PC Power 603 Wired Keyboard with Bangla",
-        "price_bdt": 549,
-        "url": "https://www.startech.com.bd/pc-power-603-wired-office-keyboard"
-      },
-      {
-        "name": "PC Power PCK-161 Wired Keyboard with Bangla",
-        "price_bdt": 650,
-        "url": "https://www.startech.com.bd/pc-power-pck-161-wired-keyboard"
-      },
-      {
-        "name": "Meetion MT-K300 Wired Keyboard with Bangla",
-        "price_bdt": 660,
-        "url": "https://www.startech.com.bd/meetion-mt-k300-wired-keyboard"
-      },
-      {
-        "name": "T-WOLF T15 104 Keys USB Wired Keyboard",
-        "price_bdt": 549,
-        "url": "https://www.startech.com.bd/t-wolf-t15-wired-keyboard"
-      },
-      {
-        "name": "Redragon BK-7543 Keyboard with Bangla",
-        "price_bdt": 670,
-        "url": "https://www.startech.com.bd/redragon-bk-7543-keyboard-with-bangla"
-      },
-      {
-        "name": "Meetion MT-K410 Wired Ultra Thin Keyboard with Bangla",
-        "price_bdt": 700,
-        "url": "https://www.startech.com.bd/meetion-mt-k410-wired-keyboard"
-      },
-      {
-        "name": "IMICE AK-200 USB Wired Keyboard",
-        "price_bdt": 700,
-        "url": "https://www.startech.com.bd/imice-ak-200-keyboard"
+        "name": "AULA S500 Wired Gaming Mechanical Keyboard",
+        "price_bdt": 2100,
+        "url": "https://www.startech.com.bd/aula-s500-mechanical-keyboard"
       }
     ],
     "mouse": [
-      {
-        "name": "Havit HV-MS753 Optical Mouse",
-        "price_bdt": 280,
-        "url": "https://www.startech.com.bd/havit-hv-ms753-mouse"
-      },
-      {
-        "name": "T-WOLF V13 Wired Mouse",
-        "price_bdt": 300,
-        "url": "https://www.startech.com.bd/t-wolf-v13-wired-mouse"
-      },
-      {
-        "name": "Redragon BM-4125 Wired Mouse",
-        "price_bdt": 350,
-        "url": "https://www.startech.com.bd/redragon-bm-4125-wired-mouse"
-      },
-      {
-        "name": "Redragon BM-4062 Wired Mouse",
-        "price_bdt": 375,
-        "url": "https://www.startech.com.bd/redragon-bm-4062-wired-mouse"
-      },
-      {
-        "name": "Mofii M13S Wired Mouse",
-        "price_bdt": 375,
-        "url": "https://www.startech.com.bd/mofii-m13s-wired-mouse"
-      },
-      {
-        "name": "Havit MS70 Wired Optical Mouse",
-        "price_bdt": 349,
-        "url": "https://www.startech.com.bd/havit-ms70-wired-optical-mouse"
-      },
       {
         "name": "Xtrike Me GM-110 Wired RGB Gaming Mouse",
         "price_bdt": 400,
         "url": "https://www.startech.com.bd/xtrike-me-gm-110-gaming-mouse"
       },
       {
-        "name": "Pc Power PCM-315 Wired Mouse",
-        "price_bdt": 349,
-        "url": "https://www.startech.com.bd/pc-power-pcm-315-wired-mouse"
-      },
-      {
-        "name": "Pc Power PCM-316 Wired Mouse",
-        "price_bdt": 410,
-        "url": "https://www.startech.com.bd/pc-power-pcm-316-wired-mouse"
-      },
-      {
-        "name": "A4TECH OP-720 USB Wired Mouse",
-        "price_bdt": 425,
-        "url": "https://www.startech.com.bd/a4tech-op-720-usb-mouse"
-      },
-      {
-        "name": "A4TECH OP-330 USB Wired Mouse",
-        "price_bdt": 425,
-        "url": "https://www.startech.com.bd/a4tech-op-330-usb-wired-mouse"
-      },
-      {
-        "name": "A4tech OP-550S Silent Wired Optical Mouse",
-        "price_bdt": 425,
-        "url": "https://www.startech.com.bd/a4tech-op-550s-silent-wired-mouse"
-      },
-      {
-        "name": "Logitech B100 Optical USB Mouse",
-        "price_bdt": 449,
-        "url": "https://www.startech.com.bd/Logitech-B100-Optical-USB-Mouse-new"
-      },
-      {
-        "name": "Logitech M90 USB Mouse",
-        "price_bdt": 449,
-        "url": "https://www.startech.com.bd/Logitech-M90-USB-MOUSE"
-      },
-      {
-        "name": "Pc Power PCM-378 Wired Mouse",
-        "price_bdt": 450,
-        "url": "https://www.startech.com.bd/pc-power-pcm-378-wired-mouse"
-      },
-      {
-        "name": "Rapoo N100 Wired Optical Mouse",
-        "price_bdt": 475,
-        "url": "https://www.startech.com.bd/rapoo-n100wired-optical-mouse"
-      },
-      {
-        "name": "Rapoo N200 Wired Optical Mouse",
-        "price_bdt": 475,
-        "url": "https://www.startech.com.bd/rapoo-n200-wired-optical-mouse"
-      },
-      {
-        "name": "Havit HV-MS626GT Optical Wireless Mouse",
+        "name": "Inphic W1s Wired Office Mouse",
         "price_bdt": 500,
-        "url": "https://www.startech.com.bd/havit-hv-ms626gt-wireless-mouse"
+        "url": "https://www.startech.com.bd/inphic-w1s-mouse"
       },
       {
-        "name": "Meetion MT-R547 2.4G Wireless Optical Mouse",
-        "price_bdt": 500,
-        "url": "https://www.startech.com.bd/meetion-mt-r547-wireless-mouse"
+        "name": "Havit HV-MS1027 USB Gaming Mouse",
+        "price_bdt": 530,
+        "url": "https://www.startech.com.bd/havit-hv-ms1027-gaming-mouse"
       },
       {
-        "name": "Xtrike Me GW-113 RGB Rechargeable Wireless Mouse",
-        "price_bdt": 500,
-        "url": "https://www.startech.com.bd/xtrike-me-gw-113-wireless-mouse"
+        "name": "Havit HV-MS1010 RGB Backlit Gaming Mouse",
+        "price_bdt": 620,
+        "url": "https://www.startech.com.bd/havit-hv-ms1010-gaming-mouse"
+      },
+      {
+        "name": "Xtrike Me GM-217 RGB Gaming Mouse",
+        "price_bdt": 650,
+        "url": "https://www.startech.com.bd/xtrike-me-gm-217-gaming-mouse"
+      },
+      {
+        "name": "Xtrike Me GM-227 Wired Gaming Mouse",
+        "price_bdt": 650,
+        "url": "https://www.startech.com.bd/xtrike-me-gm-227-gaming-mouse"
+      },
+      {
+        "name": "Inphic M1 Wireless Mouse",
+        "price_bdt": 650,
+        "url": "https://www.startech.com.bd/inphic-m1-wireless-mouse"
+      },
+      {
+        "name": "Havit MS1029 RGB Wired Gaming Mouse",
+        "price_bdt": 680,
+        "url": "https://www.startech.com.bd/havit-ms1029-rgb-wired-gaming-mouse"
+      },
+      {
+        "name": "Fantech G13 Rhasta II Pro Gaming Mouse Black",
+        "price_bdt": 700,
+        "url": "https://www.startech.com.bd/fantech-g13-rhasta-ii-pro-gaming-mouse"
+      },
+      {
+        "name": "Gamdias AURA GS3 Gaming Mouse",
+        "price_bdt": 750,
+        "url": "https://www.startech.com.bd/gamdias-aura-gs3-mouse"
+      },
+      {
+        "name": "Gamdias AURA GS4 Gaming Mouse",
+        "price_bdt": 400,
+        "url": "https://www.startech.com.bd/gamdias-aura-gs4-mouse"
+      },
+      {
+        "name": "Xtrike Me GM-226 RGB Gaming Mouse",
+        "price_bdt": 800,
+        "url": "https://www.startech.com.bd/xtrike-me-gm-226-gaming-mouse"
+      },
+      {
+        "name": "Fantech Kanata VX9 Gaming Mouse",
+        "price_bdt": 699,
+        "url": "https://www.startech.com.bd/fantech-kanata-vx9-gaming-mouse"
+      },
+      {
+        "name": "Inphic B1 RGB Wired Gaming Mouse",
+        "price_bdt": 800,
+        "url": "https://www.startech.com.bd/inphic-b1-mouse"
+      },
+      {
+        "name": "Fantech Raigor III WG12 Gaming Mouse",
+        "price_bdt": 799,
+        "url": "https://www.startech.com.bd/fantech-raigor-iii-wg12-gaming-mouse"
+      },
+      {
+        "name": "Havit MS1014 Wired RGB Gaming Mouse",
+        "price_bdt": 850,
+        "url": "https://www.startech.com.bd/havit-ms1014-wired-gaming-mouse"
+      },
+      {
+        "name": "AULA S35 Wired Gaming Mouse",
+        "price_bdt": 850,
+        "url": "https://www.startech.com.bd/aula-s35-gaming-mouse"
+      },
+      {
+        "name": "Xtrike Me GW-322 RGB Wireless Gaming Mouse",
+        "price_bdt": 860,
+        "url": "https://www.startech.com.bd/xtrike-me-gw-322-mouse"
+      },
+      {
+        "name": "Fantech WG10 Raigor II Wirless Gaming Mouse",
+        "price_bdt": 849,
+        "url": "https://www.startech.com.bd/fantech-wg10-raigor-ii-mouse"
+      },
+      {
+        "name": "Inphic M8P Silent Wireless Mouse",
+        "price_bdt": 900,
+        "url": "https://www.startech.com.bd/inphic-m8p-wireless-mouse"
       }
     ]
   }
