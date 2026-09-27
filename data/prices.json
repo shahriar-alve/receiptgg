@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:09:11.591328+00:00",
+  "updated_at": "2026-09-27T11:47:35.806206+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -345,11 +345,6 @@
         "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ddr4-3200mhz-ram-white"
       },
       {
-        "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
-        "price_bdt": 8900,
-        "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
-      },
-      {
         "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
         "price_bdt": 31500,
         "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-5200mhz-ram-black"
@@ -408,6 +403,11 @@
         "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM White",
         "price_bdt": 1400,
         "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram-white"
+      },
+      {
+        "name": "Netac Basic 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 6500,
+        "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-3200mhz-ram"
       }
     ],
     "ssd": [
@@ -641,11 +641,6 @@
         "url": "https://www.startech.com.bd/antec-st6m-argb-casing"
       },
       {
-        "name": "Value-Top T860 Micro ATX Casing With PSU",
-        "price_bdt": 2400,
-        "url": "https://www.startech.com.bd/value-top-t860-casing"
-      },
-      {
         "name": "Value-Top T861 Micro ATX Casing With PSU",
         "price_bdt": 2400,
         "url": "https://www.startech.com.bd/value-top-t861-casing"
@@ -714,6 +709,11 @@
         "name": "Golden Field 1715B Mid Tower Micro ATX Casing with PSU",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/golden-field-1715b-micro-atx-casing-with-psu"
+      },
+      {
+        "name": "Golden Field A2 Casing with PSU",
+        "price_bdt": 2900,
+        "url": "https://www.startech.com.bd/golden-field-a2-casing"
       }
     ],
     "monitor": [
@@ -784,7 +784,7 @@
       },
       {
         "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8999,
+        "price_bdt": 8699,
         "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
       },
       {
