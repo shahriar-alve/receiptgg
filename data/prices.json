@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T11:47:35.806206+00:00",
+  "updated_at": "2026-09-28T13:29:20.491045+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -80,7 +80,7 @@
       },
       {
         "name": "AMD Ryzen 5 5600 Processor",
-        "price_bdt": 12400,
+        "price_bdt": 12300,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor"
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
-        "price_bdt": 13900,
+        "price_bdt": 14999,
         "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
       },
       {
@@ -219,7 +219,7 @@
       },
       {
         "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 6800,
+        "price_bdt": 6500,
         "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
       },
       {
@@ -304,7 +304,7 @@
       },
       {
         "name": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
-        "price_bdt": 9800,
+        "price_bdt": 9500,
         "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard"
       }
     ],
@@ -371,7 +371,7 @@
       },
       {
         "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
-        "price_bdt": 8500,
+        "price_bdt": 500,
         "url": "https://www.startech.com.bd/team-t-force-vulcan-z-red-8gb-ddr4-3200mhz-ram"
       },
       {
@@ -383,11 +383,6 @@
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
         "price_bdt": 300,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram"
-      },
-      {
-        "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
-        "price_bdt": 7900,
-        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
       },
       {
         "name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
@@ -408,6 +403,11 @@
         "name": "Netac Basic 8GB DDR4 3200MHz Desktop RAM",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-3200mhz-ram"
+      },
+      {
+        "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
       }
     ],
     "ssd": [
@@ -433,7 +433,7 @@
       },
       {
         "name": "Transcend 420S 120GB M.2 SSD",
-        "price_bdt": 4300,
+        "price_bdt": 100,
         "url": "https://www.startech.com.bd/transcend-420s-120gb-ssd"
       },
       {
@@ -637,7 +637,7 @@
       },
       {
         "name": "Antec ST6M ARGB Micro-ATX Mini Tower Casing",
-        "price_bdt": 2500,
+        "price_bdt": 2450,
         "url": "https://www.startech.com.bd/antec-st6m-argb-casing"
       },
       {
@@ -667,7 +667,7 @@
       },
       {
         "name": "MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply",
-        "price_bdt": 2600,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing"
       },
       {
