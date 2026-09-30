@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:32:24.986499+00:00",
+  "updated_at": "2026-09-30T12:21:24.190490+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -132,7 +132,7 @@
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
-        "price_bdt": 8400,
+        "price_bdt": 8500,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
       },
       {
@@ -147,7 +147,7 @@
       },
       {
         "name": "MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
-        "price_bdt": 9100,
+        "price_bdt": 8700,
         "url": "https://www.startech.com.bd/msi-gt-710-2gd3h-lp-graphics-card"
       },
       {
@@ -157,7 +157,7 @@
       },
       {
         "name": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
-        "price_bdt": 10700,
+        "price_bdt": 11600,
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
@@ -279,7 +279,7 @@
       },
       {
         "name": "Asus Prime A520M-K AM4 Micro-ATX AMD Motherboard",
-        "price_bdt": 9000,
+        "price_bdt": 9250,
         "url": "https://www.startech.com.bd/asus-prime-a520m-k-amd-motherboard"
       },
       {
@@ -487,11 +487,6 @@
         "url": "https://www.startech.com.bd/biostar-m760-256gb-ssd"
       },
       {
-        "name": "OCPC XTL-200 256GB SATA III SSD",
-        "price_bdt": 5600,
-        "url": "https://www.startech.com.bd/ocpc-xtl-200-256gb-ssd"
-      },
-      {
         "name": "MiPhi MP100 256GB 2.5'' SATA III SSD",
         "price_bdt": 5500,
         "url": "https://www.startech.com.bd/miphi-mp100-256gb-sata-iii-ssd"
@@ -510,6 +505,11 @@
         "name": "AITC KINGSMAN SK350 256GB 2.5\" SATA III SSD",
         "price_bdt": 6300,
         "url": "https://www.startech.com.bd/aitc-kingsman-sk350-256gb-sata-ssd"
+      },
+      {
+        "name": "Transcend 830S 128GB M.2 SSD",
+        "price_bdt": 6500,
+        "url": "https://www.startech.com.bd/transcend-830s-128gb-ssd"
       }
     ],
     "power-supply": [
@@ -779,7 +779,7 @@
       },
       {
         "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 9000,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
       },
       {
@@ -876,12 +876,12 @@
       },
       {
         "name": "Rapoo V50S Wired Gaming Keyboard",
-        "price_bdt": 1800,
+        "price_bdt": 1499,
         "url": "https://www.startech.com.bd/rapoo-v50s-gaming-keyboard"
       },
       {
         "name": "Rapoo V50S-98 Wired Gaming Keyboard",
-        "price_bdt": 1800,
+        "price_bdt": 1499,
         "url": "https://www.startech.com.bd/rapoo-v50s-98-gaming-keyboard"
       },
       {
@@ -948,7 +948,7 @@
       },
       {
         "name": "Xtrike Me GM-227 Wired Gaming Mouse",
-        "price_bdt": 650,
+        "price_bdt": 400,
         "url": "https://www.startech.com.bd/xtrike-me-gm-227-gaming-mouse"
       },
       {
