@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:21:24.190490+00:00",
+  "updated_at": "2026-10-01T12:52:13.716480+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -361,7 +361,7 @@
       },
       {
         "name": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
-        "price_bdt": 6350,
+        "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-2666mhz-desktop-ram"
       },
       {
@@ -590,7 +590,7 @@
       },
       {
         "name": "Value-Top Neo Q450 Real 450W Power Supply",
-        "price_bdt": 2590,
+        "price_bdt": 2700,
         "url": "https://www.startech.com.bd/value-top-neo-q450-450w-power-supply"
       },
       {
@@ -615,11 +615,6 @@
       }
     ],
     "casing": [
-      {
-        "name": "Antec ST10M TG Micro-ATX Mini Tower Casing",
-        "price_bdt": 1700,
-        "url": "https://www.startech.com.bd/antec-st10m-tg-casing"
-      },
       {
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
         "price_bdt": 2300,
@@ -714,6 +709,11 @@
         "name": "Golden Field A2 Casing with PSU",
         "price_bdt": 2900,
         "url": "https://www.startech.com.bd/golden-field-a2-casing"
+      },
+      {
+        "name": "Golden Field GF 116 Mid-Tower ATX Casing with PSU",
+        "price_bdt": 2900,
+        "url": "https://www.startech.com.bd/golden-field-gf-116-atx-casing-with-psu"
       }
     ],
     "monitor": [
@@ -895,12 +895,12 @@
         "url": "https://www.startech.com.bd/redragon-k522-rgb-gaming-keyboard"
       },
       {
-        "name": "Thunderobot KG3089R Wired Mechanical Keyboard",
+        "name": "Thunderobot KG3089R Red Switch Mechanical Gaming Keyboard",
         "price_bdt": 1999,
         "url": "https://www.startech.com.bd/thunderobot-kg3089r-keyboard"
       },
       {
-        "name": "Thunderobot KG3089C Wired Mechanical Keyboard",
+        "name": "Thunderobot KG3089C Blue Switch Mechanical Gaming Keyboard",
         "price_bdt": 1999,
         "url": "https://www.startech.com.bd/thunderobot-kg3089c-keyboard"
       },
