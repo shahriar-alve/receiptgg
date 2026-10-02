@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:52:13.716480+00:00",
+  "updated_at": "2026-10-02T12:15:10.734031+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -213,11 +213,6 @@
         "url": "https://www.startech.com.bd/xenthra-xn-h81m-vh-motherboard"
       },
       {
-        "name": "XENTHRA XN-H311M-VH-PRO Intel 9th Gen mATX Motherboard",
-        "price_bdt": 6550,
-        "url": "https://www.startech.com.bd/xenthra-xn-h311m-vh-pro-motherboard"
-      },
-      {
         "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
@@ -306,6 +301,11 @@
         "name": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
         "price_bdt": 9500,
         "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard"
+      },
+      {
+        "name": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
+        "price_bdt": 10500,
+        "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard"
       }
     ],
     "ram": [
