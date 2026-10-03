@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:15:10.734031+00:00",
+  "updated_at": "2026-10-03T11:26:00.259256+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -161,11 +161,6 @@
         "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card"
       },
       {
-        "name": "ARKTEK AMD Radeon RX 550 4GB GDDR5 Graphics Card",
-        "price_bdt": 12500,
-        "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-4gb-graphics-card"
-      },
-      {
         "name": "MSI GeForce GT 730 4GB DDR3 Graphics Card",
         "price_bdt": 12400,
         "url": "https://www.startech.com.bd/msi-gt-730-4gb-graphics-card"
@@ -186,14 +181,14 @@
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
       },
       {
-        "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
-        "price_bdt": 14500,
-        "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
-      },
-      {
         "name": "AFOX AMD Radeon RX 580 8GB GDDR5 Dual Fan Graphics Card",
         "price_bdt": 19500,
         "url": "https://www.startech.com.bd/afox-radeon-rx-580-8gb-graphics-card"
+      },
+      {
+        "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
+        "price_bdt": 14500,
+        "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
       },
       {
         "name": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
@@ -204,6 +199,11 @@
         "name": "ARKTEK AMD Radeon RX 550 8GB GDDR5 Graphics Card",
         "price_bdt": 16900,
         "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card"
+      },
+      {
+        "name": "GIGABYTE Intel Arc A310 WINDFORCE 4G GDDR6 Graphics Card",
+        "price_bdt": 15900,
+        "url": "https://www.startech.com.bd/gigabyte-intel-arc-a310-windforce-4g-graphics-card"
       }
     ],
     "motherboard": [
@@ -406,7 +406,7 @@
       },
       {
         "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8800,
+        "price_bdt": 8600,
         "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
       }
     ],
@@ -662,7 +662,7 @@
       },
       {
         "name": "MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply",
-        "price_bdt": 2500,
+        "price_bdt": 2650,
         "url": "https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing"
       },
       {
