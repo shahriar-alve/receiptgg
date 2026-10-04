@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:26:00.259256+00:00",
+  "updated_at": "2026-10-04T12:07:00.673841+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -177,7 +177,7 @@
       },
       {
         "name": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
-        "price_bdt": 12900,
+        "price_bdt": 12800,
         "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
       },
       {
@@ -224,7 +224,7 @@
       },
       {
         "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
-        "price_bdt": 8000,
+        "price_bdt": 7800,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
@@ -244,7 +244,7 @@
       },
       {
         "name": "GIGABYTE GA-H81M-H 4th Gen Micro ATX Motherboard",
-        "price_bdt": 8800,
+        "price_bdt": 9200,
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
       },
       {
@@ -311,7 +311,7 @@
     "ram": [
       {
         "name": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
-        "price_bdt": 7000,
+        "price_bdt": 7800,
         "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2666mhz-desktop-ram"
       },
       {
@@ -321,7 +321,7 @@
       },
       {
         "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
-        "price_bdt": 7999,
+        "price_bdt": 8300,
         "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
       },
       {
@@ -331,18 +331,23 @@
       },
       {
         "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8700,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ram"
       },
       {
         "name": "G.Skill RIPJAWS-V 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8500,
+        "price_bdt": 8700,
         "url": "https://www.startech.com.bd/g-skill-ripjaws-v-8gb-desktop-ram"
       },
       {
         "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM White",
-        "price_bdt": 8700,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ddr4-3200mhz-ram-white"
+      },
+      {
+        "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
+        "price_bdt": 9300,
+        "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
       },
       {
         "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
@@ -350,13 +355,8 @@
         "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-5200mhz-ram-black"
       },
       {
-        "name": "G.Skill Ripjaws V 32GB DDR4 3200MHz Desktop RAM (Black)",
-        "price_bdt": 37900,
-        "url": "https://www.startech.com.bd/g-skill-ripjaws-v-32gb-3200mhz-desktop-ram"
-      },
-      {
         "name": "G.Skill Trident Z5 RGB 32GB DDR5 5600MHz Desktop RAM",
-        "price_bdt": 64000,
+        "price_bdt": 65000,
         "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-5600mhz-ram"
       },
       {
@@ -366,13 +366,8 @@
       },
       {
         "name": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 7800,
+        "price_bdt": 7500,
         "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram"
-      },
-      {
-        "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
-        "price_bdt": 500,
-        "url": "https://www.startech.com.bd/team-t-force-vulcan-z-red-8gb-ddr4-3200mhz-ram"
       },
       {
         "name": "AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black",
@@ -408,6 +403,11 @@
         "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
         "price_bdt": 8600,
         "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
+      },
+      {
+        "name": "AITC Kingsman RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/aitc-kingsman-rgb-8gb-ddr4-ram"
       }
     ],
     "ssd": [
@@ -443,7 +443,7 @@
       },
       {
         "name": "Transcend SSD220S 2.5\" SSD SATA III 6Gb/s Internal 120GB SSD",
-        "price_bdt": 4500,
+        "price_bdt": 3450,
         "url": "https://www.startech.com.bd/transcend-ssd220s-120gb-ssd"
       },
       {
@@ -497,19 +497,19 @@
         "url": "https://www.startech.com.bd/team-cx2-256gb-ssd"
       },
       {
-        "name": "Transcend 425S 250GB M.2 2242 SATA SSD",
-        "price_bdt": 6300,
-        "url": "https://www.startech.com.bd/transcend-425s-250gb-ssd"
-      },
-      {
         "name": "AITC KINGSMAN SK350 256GB 2.5\" SATA III SSD",
         "price_bdt": 6300,
         "url": "https://www.startech.com.bd/aitc-kingsman-sk350-256gb-sata-ssd"
       },
       {
-        "name": "Transcend 830S 128GB M.2 SSD",
-        "price_bdt": 6500,
-        "url": "https://www.startech.com.bd/transcend-830s-128gb-ssd"
+        "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
+        "price_bdt": 5999,
+        "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
+      },
+      {
+        "name": "Netac N930ES 256GB M.2 NVMe PCIe 2242 SSD",
+        "price_bdt": 6300,
+        "url": "https://www.startech.com.bd/netac-n930es-256gb-m-2-nvme-pcie-ssd"
       }
     ],
     "power-supply": [
@@ -738,9 +738,49 @@
         "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
       },
       {
+        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 75Hz FHD IPS Gaming Monitor",
+        "price_bdt": 7500,
+        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-75hz-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
+        "price_bdt": 7999,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
+      },
+      {
+        "name": "Alimoto 22C 21.5\" 100Hz FHD IPS Monitor",
+        "price_bdt": 7999,
+        "url": "https://www.startech.com.bd/alimoto-22c-fhd-monitor"
+      },
+      {
+        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor",
+        "price_bdt": 8000,
+        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200A 21.45\" 100Hz FHD Monitor",
+        "price_bdt": 8199,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-22-inch-monitor"
+      },
+      {
         "name": "Dahua DHI-LM19-L200N 19.5\" 75Hz HD+ Monitor",
         "price_bdt": 8200,
         "url": "https://www.startech.com.bd/dahua-dhi-lm19-l200n-monitor"
+      },
+      {
+        "name": "Acer K202Q BI 19.5 Inch HD+ Monitor",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/acer-k202qbi-19-5-inch-monitor"
+      },
+      {
+        "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8699,
+        "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A201Y 21.45\" IPS FHD 100Hz Monitor",
@@ -748,19 +788,24 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201y-monitor"
       },
       {
-        "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8999,
-        "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
-      },
-      {
         "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
       },
       {
-        "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 9200,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
+        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+        "price_bdt": 8900,
+        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8900,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
+      },
+      {
+        "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8999,
+        "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
@@ -771,51 +816,6 @@
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
         "price_bdt": 8999,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
-      },
-      {
-        "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 9200,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
-      },
-      {
-        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 8900,
-        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
-      },
-      {
-        "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8699,
-        "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
-      },
-      {
-        "name": "Smart SM2225U 21.5\" 100Hz FHD Monitor",
-        "price_bdt": 9499,
-        "url": "https://www.startech.com.bd/smart-sm2225u-monitor"
-      },
-      {
-        "name": "Walton WD215I10 21.45\" 120Hz FHD IPS Monitor",
-        "price_bdt": 8999,
-        "url": "https://www.startech.com.bd/walton-wd215i10-120hz-monitor"
-      },
-      {
-        "name": "Dahua DHI-LM22-C201P 21.5\" FHD IPS 100Hz Monitor (Silver)",
-        "price_bdt": 9800,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-c201p-monitor"
-      },
-      {
-        "name": "Acer K202Q BI 19.5 Inch HD+ Monitor",
-        "price_bdt": 8500,
-        "url": "https://www.startech.com.bd/acer-k202qbi-19-5-inch-monitor"
-      },
-      {
-        "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 9000,
-        "url": "https://www.startech.com.bd/pc-power-pcgm-king22-ips-fhd-monitor"
-      },
-      {
-        "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8700,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
       }
     ],
     "keyboard": [
