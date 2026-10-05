@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:07:00.673841+00:00",
+  "updated_at": "2026-10-05T14:12:55.039711+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -223,7 +223,7 @@
         "url": "https://www.startech.com.bd/xenthra-xn-b450m-vh-pro-motherboard"
       },
       {
-        "name": "MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard",
+        "name": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
         "price_bdt": 7800,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
@@ -321,7 +321,7 @@
       },
       {
         "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
-        "price_bdt": 8300,
+        "price_bdt": 7999,
         "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
       },
       {
@@ -345,13 +345,8 @@
         "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ddr4-3200mhz-ram-white"
       },
       {
-        "name": "G.Skill Trident Z RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
-        "price_bdt": 9300,
-        "url": "https://www.startech.com.bd/g-skill-trident-z-rgb-8gb-ram"
-      },
-      {
         "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
-        "price_bdt": 31500,
+        "price_bdt": 31300,
         "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-5200mhz-ram-black"
       },
       {
@@ -408,6 +403,11 @@
         "name": "AITC Kingsman RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/aitc-kingsman-rgb-8gb-ddr4-ram"
+      },
+      {
+        "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz"
       }
     ],
     "ssd": [
@@ -440,11 +440,6 @@
         "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
         "price_bdt": 4400,
         "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
-      },
-      {
-        "name": "Transcend SSD220S 2.5\" SSD SATA III 6Gb/s Internal 120GB SSD",
-        "price_bdt": 3450,
-        "url": "https://www.startech.com.bd/transcend-ssd220s-120gb-ssd"
       },
       {
         "name": "Netac N930ES 128GB M.2 NVMe PCIe 2242 SSD",
@@ -510,6 +505,11 @@
         "name": "Netac N930ES 256GB M.2 NVMe PCIe 2242 SSD",
         "price_bdt": 6300,
         "url": "https://www.startech.com.bd/netac-n930es-256gb-m-2-nvme-pcie-ssd"
+      },
+      {
+        "name": "Lexar NS100 256GB 2.5 inch Gray SATA III SSD",
+        "price_bdt": 6400,
+        "url": "https://www.startech.com.bd/lexar-ns100-256gb-ssd"
       }
     ],
     "power-supply": [
@@ -564,11 +564,6 @@
         "url": "https://www.startech.com.bd/solitine-stn-sp350wb-350w-power-supply"
       },
       {
-        "name": "1stPlayer FK 300W Power Supply",
-        "price_bdt": 2000,
-        "url": "https://www.startech.com.bd/1stplayer-fk-300w-power-supply"
-      },
-      {
         "name": "1STPlayer PS-300FK Non Modular Power Supply",
         "price_bdt": 2000,
         "url": "https://www.startech.com.bd/1stplayer-ps-300fk-power-supply"
@@ -612,6 +607,11 @@
         "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
         "price_bdt": 2950,
         "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
+      },
+      {
+        "name": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
+        "price_bdt": 2500,
+        "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
       }
     ],
     "casing": [
@@ -662,7 +662,7 @@
       },
       {
         "name": "MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply",
-        "price_bdt": 2650,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing"
       },
       {
@@ -779,7 +779,7 @@
       },
       {
         "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8700,
+        "price_bdt": 8100,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
       },
       {
@@ -799,7 +799,7 @@
       },
       {
         "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8900,
+        "price_bdt": 8399,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
       },
       {
@@ -809,7 +809,7 @@
       },
       {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 8999,
+        "price_bdt": 8600,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
       },
       {
@@ -937,6 +937,11 @@
         "url": "https://www.startech.com.bd/havit-hv-ms1027-gaming-mouse"
       },
       {
+        "name": "Dareu A950 Air Dual-Mode Ultralight Wireless Gaming Mouse",
+        "price_bdt": 4900,
+        "url": "https://www.startech.com.bd/dareu-a950-air-wireless-gaming-mouse"
+      },
+      {
         "name": "Havit HV-MS1010 RGB Backlit Gaming Mouse",
         "price_bdt": 620,
         "url": "https://www.startech.com.bd/havit-hv-ms1010-gaming-mouse"
@@ -1015,11 +1020,6 @@
         "name": "Fantech WG10 Raigor II Wirless Gaming Mouse",
         "price_bdt": 849,
         "url": "https://www.startech.com.bd/fantech-wg10-raigor-ii-mouse"
-      },
-      {
-        "name": "Inphic M8P Silent Wireless Mouse",
-        "price_bdt": 900,
-        "url": "https://www.startech.com.bd/inphic-m8p-wireless-mouse"
       }
     ]
   }
