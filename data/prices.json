@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-10-06T13:08:16.369966+00:00",
+  "updated_at": "2026-10-07T13:03:03.687884+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
+      {
+        "name": "AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics",
+        "price_bdt": 3999,
+        "url": "https://www.startech.com.bd/amd-ryzen-3-2200g-processor"
+      },
       {
         "name": "AMD Athlon PRO 300GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics (Rebox)",
         "price_bdt": 3990,
@@ -59,6 +64,11 @@
         "url": "https://www.startech.com.bd/intel-core-i5-10500t-processor"
       },
       {
+        "name": "AMD Ryzen 5 5600X Processor",
+        "price_bdt": 14200,
+        "url": "https://www.startech.com.bd/amd-ryzen-5-5600x-processor"
+      },
+      {
         "name": "AMD Ryzen 5 8400F Processor",
         "price_bdt": 11200,
         "url": "https://www.startech.com.bd/amd-ryzen-5-8400f-processor"
@@ -80,7 +90,7 @@
       },
       {
         "name": "AMD Ryzen 5 5600 Processor",
-        "price_bdt": 12300,
+        "price_bdt": 12200,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor"
       },
       {
@@ -92,16 +102,6 @@
         "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
         "price_bdt": 14999,
         "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
-      },
-      {
-        "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
-        "price_bdt": 13900,
-        "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-alder-lake-processor"
-      },
-      {
-        "name": "Intel 11th Gen Core i5-11500 Rocket Lake Processor",
-        "price_bdt": 15500,
-        "url": "https://www.startech.com.bd/intel-core-i5-11500-11th-gen-processor"
       }
     ],
     "graphics-card": [
@@ -321,7 +321,7 @@
       },
       {
         "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
-        "price_bdt": 7999,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
       },
       {
@@ -447,11 +447,6 @@
         "url": "https://www.startech.com.bd/netac-n930es-128gb-m-2-nvme-pcie-ssd"
       },
       {
-        "name": "OCPC MFL-300 128GB M.2 NVMe SSD",
-        "price_bdt": 4600,
-        "url": "https://www.startech.com.bd/ocpc-mfl-300-128gb-ssd"
-      },
-      {
         "name": "Netac SA500 240GB 2.5-inch SATAIII SSD",
         "price_bdt": 250,
         "url": "https://www.startech.com.bd/netac-sa500-240-gb-ssd"
@@ -498,7 +493,7 @@
       },
       {
         "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
-        "price_bdt": 5999,
+        "price_bdt": 6390,
         "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
       },
       {
@@ -510,6 +505,11 @@
         "name": "Lexar NS100 256GB 2.5 inch Gray SATA III SSD",
         "price_bdt": 6400,
         "url": "https://www.startech.com.bd/lexar-ns100-256gb-ssd"
+      },
+      {
+        "name": "MiPhi MP300G3 256GB M.2 PCIe Gen3 NVMe SSD",
+        "price_bdt": 6899,
+        "url": "https://www.startech.com.bd/miphi-mp300g3-256gb-gen3-nvme-ssd"
       }
     ],
     "power-supply": [
@@ -743,9 +743,9 @@
         "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-75hz-monitor"
       },
       {
-        "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 7999,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
+        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 75Hz FHD IPS Gaming Monitor White",
+        "price_bdt": 7500,
+        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-75hz-monitor-white"
       },
       {
         "name": "Alimoto 22C 21.5\" 100Hz FHD IPS Monitor",
@@ -753,59 +753,14 @@
         "url": "https://www.startech.com.bd/alimoto-22c-fhd-monitor"
       },
       {
-        "name": "Gigasonic GS-21.5FHD500S9 21.5\" 100Hz FHD IPS Gaming Monitor",
-        "price_bdt": 8000,
-        "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor"
-      },
-      {
-        "name": "Eurovision EV-GT2200A 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 8199,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-22-inch-monitor"
-      },
-      {
         "name": "Dahua DHI-LM19-L200N 19.5\" 75Hz HD+ Monitor",
         "price_bdt": 8200,
         "url": "https://www.startech.com.bd/dahua-dhi-lm19-l200n-monitor"
       },
       {
-        "name": "Acer K202Q BI 19.5 Inch HD+ Monitor",
-        "price_bdt": 8500,
-        "url": "https://www.startech.com.bd/acer-k202qbi-19-5-inch-monitor"
-      },
-      {
-        "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8699,
-        "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
-      },
-      {
-        "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8100,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
-      },
-      {
-        "name": "Dahua DHI-LM22-A201Y 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201y-monitor"
-      },
-      {
-        "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
-      },
-      {
-        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 8900,
-        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
-      },
-      {
-        "name": "Eurovision EV-GT2200A-W 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8399,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor"
-      },
-      {
-        "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8999,
-        "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
+        "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
+        "price_bdt": 7999,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
@@ -813,9 +768,54 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
       },
       {
+        "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8999,
+        "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
+      },
+      {
+        "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
+      },
+      {
+        "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
+      },
+      {
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
         "price_bdt": 8999,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
+      },
+      {
+        "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
+      },
+      {
+        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+        "price_bdt": 8900,
+        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
+      },
+      {
+        "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8699,
+        "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
+      },
+      {
+        "name": "Smart SM2225U 21.5\" 100Hz FHD Monitor",
+        "price_bdt": 9499,
+        "url": "https://www.startech.com.bd/smart-sm2225u-monitor"
+      },
+      {
+        "name": "Walton WD215I10 21.45\" 120Hz FHD IPS Monitor",
+        "price_bdt": 8999,
+        "url": "https://www.startech.com.bd/walton-wd215i10-120hz-monitor"
+      },
+      {
+        "name": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor"
       }
     ],
     "keyboard": [
@@ -905,14 +905,14 @@
         "url": "https://www.startech.com.bd/thunderobot-kg3089c-keyboard"
       },
       {
-        "name": "AJAZZ NK68 V2 Wired RGB Hot Swappable Mechanical Keyboard",
-        "price_bdt": 2000,
-        "url": "https://www.startech.com.bd/ajazz-nk68-v2-wired-keyboard"
-      },
-      {
         "name": "Fantech GO K211 Bangla Keyboard",
         "price_bdt": 400,
         "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
+      },
+      {
+        "name": "T-Wolf T40 Tri-Mode RGB Wireless Mechanical Keyboard",
+        "price_bdt": 5000,
+        "url": "https://www.startech.com.bd/t-wolf-t40-wireless-mechanical-keyboard"
       },
       {
         "name": "AULA S500 Wired Gaming Mechanical Keyboard",
@@ -938,7 +938,7 @@
       },
       {
         "name": "Dareu A950 Air Dual-Mode Ultralight Wireless Gaming Mouse",
-        "price_bdt": 4900,
+        "price_bdt": 3590,
         "url": "https://www.startech.com.bd/dareu-a950-air-wireless-gaming-mouse"
       },
       {
