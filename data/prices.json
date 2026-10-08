@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T13:03:03.687884+00:00",
+  "updated_at": "2026-10-08T13:10:18.120736+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -224,7 +224,7 @@
       },
       {
         "name": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
-        "price_bdt": 7800,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
@@ -243,7 +243,7 @@
         "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
       },
       {
-        "name": "GIGABYTE GA-H81M-H 4th Gen Micro ATX Motherboard",
+        "name": "Gigabyte GA-H81M-H M.2 DDR3 Micro ATX Motherboard",
         "price_bdt": 8900,
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
       },
@@ -905,19 +905,19 @@
         "url": "https://www.startech.com.bd/thunderobot-kg3089c-keyboard"
       },
       {
+        "name": "AJAZZ AK820 Mechanical Gaming Keyboard",
+        "price_bdt": 2600,
+        "url": "https://www.startech.com.bd/ajazz-ak820-mechanical-keyboard"
+      },
+      {
+        "name": "AJAZZ NK68 V2 Wired RGB Hot Swappable Mechanical Keyboard",
+        "price_bdt": 2000,
+        "url": "https://www.startech.com.bd/ajazz-nk68-v2-wired-keyboard"
+      },
+      {
         "name": "Fantech GO K211 Bangla Keyboard",
         "price_bdt": 400,
         "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
-      },
-      {
-        "name": "T-Wolf T40 Tri-Mode RGB Wireless Mechanical Keyboard",
-        "price_bdt": 5000,
-        "url": "https://www.startech.com.bd/t-wolf-t40-wireless-mechanical-keyboard"
-      },
-      {
-        "name": "AULA S500 Wired Gaming Mechanical Keyboard",
-        "price_bdt": 2100,
-        "url": "https://www.startech.com.bd/aula-s500-mechanical-keyboard"
       }
     ],
     "mouse": [
