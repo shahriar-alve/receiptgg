@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:10:18.120736+00:00",
+  "updated_at": "2026-10-09T12:56:57.644904+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -514,16 +514,6 @@
     ],
     "power-supply": [
       {
-        "name": "Value-Top S200i Real 200W Power Supply",
-        "price_bdt": 1129,
-        "url": "https://www.startech.com.bd/value-top-s200i-200w-power-supply"
-      },
-      {
-        "name": "Xtreme XPS200B 200W ATX Non-Modular Power Supply",
-        "price_bdt": 1350,
-        "url": "https://www.startech.com.bd/xtreme-xps200b-200w-power-supply"
-      },
-      {
         "name": "T-Wolf ATX 350W Grey Power Supply With Cable",
         "price_bdt": 1400,
         "url": "https://www.startech.com.bd/t-wolf-atx-350w-grey-power-supply"
@@ -534,24 +524,9 @@
         "url": "https://www.startech.com.bd/maxgreen-standard-series-200w-power-supply"
       },
       {
-        "name": "Golden Field GF500 500W Power Supply",
-        "price_bdt": 1600,
-        "url": "https://www.startech.com.bd/golden-field-gf500-500w-power-supply"
-      },
-      {
-        "name": "Value-Top GRID 300 Real 300W Power Supply",
-        "price_bdt": 1550,
-        "url": "https://www.startech.com.bd/value-top-grid-300-power-supply"
-      },
-      {
         "name": "MaxGreen Power Wave 230W Power Supply",
         "price_bdt": 1350,
         "url": "https://www.startech.com.bd/maxgreen-power-wave-230w-power-supply"
-      },
-      {
-        "name": "Value-Top GRID 400 Real 400W Power Supply",
-        "price_bdt": 1900,
-        "url": "https://www.startech.com.bd/value-top-grid-400-power-supply"
       },
       {
         "name": "Huntkey CP3000 300W Power Supply",
@@ -584,16 +559,6 @@
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
-        "name": "Value-Top Neo Q450 Real 450W Power Supply",
-        "price_bdt": 2590,
-        "url": "https://www.startech.com.bd/value-top-neo-q450-450w-power-supply"
-      },
-      {
-        "name": "MSI MAG A300N-H 300W 80 Plus Non Modular Power Supply",
-        "price_bdt": 2299,
-        "url": "https://www.startech.com.bd/msi-mag-a300n-h-300w-power-supply"
-      },
-      {
         "name": "Gamdias AURA GP450 PRO 450W Power Supply Black",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/gamdias-aura-gp450-pro-450w-power-supply"
@@ -612,6 +577,41 @@
         "name": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
+      },
+      {
+        "name": "Antec META V350 350W Power Supply",
+        "price_bdt": 2800,
+        "url": "https://www.startech.com.bd/antec-meta-v350-power-supply"
+      },
+      {
+        "name": "Antec META V550 550W Power Supply",
+        "price_bdt": 3350,
+        "url": "https://www.startech.com.bd/antec-meta-v550-power-supply"
+      },
+      {
+        "name": "Ocypus BETA P500 500W Non Modular ATX Power Supply",
+        "price_bdt": 3450,
+        "url": "https://www.startech.com.bd/ocypus-beta-p500-500w-power-supply"
+      },
+      {
+        "name": "Gamdias AURA GP550 550W Power Supply",
+        "price_bdt": 3400,
+        "url": "https://www.startech.com.bd/gamdias-aura-gp550-550w-power-supply"
+      },
+      {
+        "name": "1STPLAYER FK 5.0 PS-500FK 500W Non-Modular ATX Power Supply",
+        "price_bdt": 3100,
+        "url": "https://www.startech.com.bd/1stplayer-fk-5-0-500w-power-supply"
+      },
+      {
+        "name": "Corsair CX-M Series CX650M 650W 80 PLUS Bronze Semi-Modular ATX Power Supply",
+        "price_bdt": 7800,
+        "url": "https://www.startech.com.bd/corsair-cx650m-atx-power-supply"
+      },
+      {
+        "name": "Corsair CX-M Series CX750M 750W 80 PLUS Bronze Semi-Modular ATX Power Supply",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/corsair-cx-m-series-cx750m-750w-power-supply"
       }
     ],
     "casing": [
@@ -768,14 +768,34 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
       },
       {
+        "name": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor"
+      },
+      {
+        "name": "Eurovision EV-GT2200A 21.45\" 100Hz FHD Monitor",
+        "price_bdt": 8199,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-22-inch-monitor"
+      },
+      {
         "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
         "price_bdt": 8999,
         "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
       },
       {
+        "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
+        "price_bdt": 8100,
+        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
+      },
+      {
         "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
         "price_bdt": 8800,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
+      },
+      {
+        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+        "price_bdt": 8900,
+        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
       },
       {
         "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
@@ -788,82 +808,17 @@
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
+        "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
+        "price_bdt": 9500,
+        "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
+      },
+      {
         "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
         "price_bdt": 9200,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
-      },
-      {
-        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 8900,
-        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
-      },
-      {
-        "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8699,
-        "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
-      },
-      {
-        "name": "Smart SM2225U 21.5\" 100Hz FHD Monitor",
-        "price_bdt": 9499,
-        "url": "https://www.startech.com.bd/smart-sm2225u-monitor"
-      },
-      {
-        "name": "Walton WD215I10 21.45\" 120Hz FHD IPS Monitor",
-        "price_bdt": 8999,
-        "url": "https://www.startech.com.bd/walton-wd215i10-120hz-monitor"
-      },
-      {
-        "name": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor"
       }
     ],
     "keyboard": [
-      {
-        "name": "Meetion MT-K9320 Waterproof Backlit Gaming Keyboard",
-        "price_bdt": 900,
-        "url": "https://www.startech.com.bd/meetion-mt-k9320-gaming-keyboard"
-      },
-      {
-        "name": "Havit KB866L Multi-function Backlit Membrane Gaming Keyboard",
-        "price_bdt": 950,
-        "url": "https://www.startech.com.bd/havit-kb866l-gaming-keyboard"
-      },
-      {
-        "name": "Fantech Shikari K515 Gaming Keyboard",
-        "price_bdt": 950,
-        "url": "https://www.startech.com.bd/fantech-shikari-k515-gaming-keyboard"
-      },
-      {
-        "name": "Inphic K2 RGB Gaming keyboard",
-        "price_bdt": 1100,
-        "url": "https://www.startech.com.bd/inphic-k2-gaming-keyboard"
-      },
-      {
-        "name": "Havit KB488L Multi-Function Backlit Gaming Keyboard",
-        "price_bdt": 1150,
-        "url": "https://www.startech.com.bd/havit-kb488l-multi-function-backlit-keyboard"
-      },
-      {
-        "name": "Xtrike Me KB-309 Wired Backlit Gaming Keyboard",
-        "price_bdt": 1170,
-        "url": "https://www.startech.com.bd/xtrike-me-kb-309-gaming-keyboard"
-      },
-      {
-        "name": "Havit KB838L Multi-function RGB Backlit Gaming Keyboard",
-        "price_bdt": 1149,
-        "url": "https://www.startech.com.bd/havit-kb838l-gaming-keyboard"
-      },
-      {
-        "name": "Havit KB876L USB Multi-Function Backlit Gaming Keyboard",
-        "price_bdt": 1199,
-        "url": "https://www.startech.com.bd/havit-kb876l-multi-function-backlit-gaming-keyboard"
-      },
-      {
-        "name": "Magegee TS91 RGB Gaming Keyboard",
-        "price_bdt": 1550,
-        "url": "https://www.startech.com.bd/magegee-ts91-gaming-keyboard"
-      },
       {
         "name": "Xtrike Me GK-916 Wired Mechanical Gaming Keyboard",
         "price_bdt": 1780,
@@ -875,19 +830,14 @@
         "url": "https://www.startech.com.bd/msi-forge-gk100-keyboard"
       },
       {
-        "name": "Rapoo V50S Wired Gaming Keyboard",
-        "price_bdt": 1499,
-        "url": "https://www.startech.com.bd/rapoo-v50s-gaming-keyboard"
-      },
-      {
-        "name": "Rapoo V50S-98 Wired Gaming Keyboard",
-        "price_bdt": 1499,
-        "url": "https://www.startech.com.bd/rapoo-v50s-98-gaming-keyboard"
-      },
-      {
         "name": "Xtrike Me KB-512 A Wired Gaming Keyboard",
         "price_bdt": 1800,
         "url": "https://www.startech.com.bd/xtrike-me-kb-512-a-keyboard"
+      },
+      {
+        "name": "Fantech GO K211 Bangla Keyboard",
+        "price_bdt": 400,
+        "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
       },
       {
         "name": "Redragon K522 RGB Gaming Keyboard",
@@ -915,111 +865,161 @@
         "url": "https://www.startech.com.bd/ajazz-nk68-v2-wired-keyboard"
       },
       {
-        "name": "Fantech GO K211 Bangla Keyboard",
-        "price_bdt": 400,
-        "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
+        "name": "T-Wolf T40 Tri-Mode RGB Wireless Mechanical Keyboard",
+        "price_bdt": 5000,
+        "url": "https://www.startech.com.bd/t-wolf-t40-wireless-mechanical-keyboard"
+      },
+      {
+        "name": "AULA S500 Wired Gaming Mechanical Keyboard",
+        "price_bdt": 2100,
+        "url": "https://www.startech.com.bd/aula-s500-mechanical-keyboard"
+      },
+      {
+        "name": "Redragon K517 Varro RGB Gaming Keyboard",
+        "price_bdt": 1949,
+        "url": "https://www.startech.com.bd/redragon-k517-varro-gaming-keyboard"
+      },
+      {
+        "name": "Havit HV-KB501CM 4 in 1 Gaming Combo",
+        "price_bdt": 2049,
+        "url": "https://www.startech.com.bd/havit-hv-kb501cm-gaming-combo"
+      },
+      {
+        "name": "Asus AC02 ROG Gaming Keycap Set",
+        "price_bdt": 2049,
+        "url": "https://www.startech.com.bd/asus-ac02-rog-keycap-set"
+      },
+      {
+        "name": "PC Power K98 RGB Mechanical Keyboard",
+        "price_bdt": 2200,
+        "url": "https://www.startech.com.bd/pc-power-k98-mechanical-keyboard"
+      },
+      {
+        "name": "Zifriend KA646 RGB Hot-Swappable Gaming Mechanical Keyboard",
+        "price_bdt": 2200,
+        "url": "https://www.startech.com.bd/zifriend-ka646-keyboard"
+      },
+      {
+        "name": "AJAZZ AK820 RGB Wired Mechanical Keyboard",
+        "price_bdt": 3500,
+        "url": "https://www.startech.com.bd/ajazz-ak820-rgb-mechanical-keyboard"
+      },
+      {
+        "name": "Xtrike Me GK-803 Wired Mechanical Gaming Keyboard",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/xtrike-me-gk-803-mechanical-keyboard"
+      },
+      {
+        "name": "Furycube IP98 RGB Gaming Keyboard",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/furycube-ip98-gaming-keyboard"
+      },
+      {
+        "name": "T-Wolf ZK82 LED Wired Mechanical Keyboard",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/t-wolf-zk82-wired-mechanical-keyboard"
       }
     ],
     "mouse": [
-      {
-        "name": "Xtrike Me GM-110 Wired RGB Gaming Mouse",
-        "price_bdt": 400,
-        "url": "https://www.startech.com.bd/xtrike-me-gm-110-gaming-mouse"
-      },
-      {
-        "name": "Inphic W1s Wired Office Mouse",
-        "price_bdt": 500,
-        "url": "https://www.startech.com.bd/inphic-w1s-mouse"
-      },
-      {
-        "name": "Havit HV-MS1027 USB Gaming Mouse",
-        "price_bdt": 530,
-        "url": "https://www.startech.com.bd/havit-hv-ms1027-gaming-mouse"
-      },
       {
         "name": "Dareu A950 Air Dual-Mode Ultralight Wireless Gaming Mouse",
         "price_bdt": 3590,
         "url": "https://www.startech.com.bd/dareu-a950-air-wireless-gaming-mouse"
       },
       {
-        "name": "Havit HV-MS1010 RGB Backlit Gaming Mouse",
-        "price_bdt": 620,
-        "url": "https://www.startech.com.bd/havit-hv-ms1010-gaming-mouse"
-      },
-      {
-        "name": "Xtrike Me GM-217 RGB Gaming Mouse",
-        "price_bdt": 650,
-        "url": "https://www.startech.com.bd/xtrike-me-gm-217-gaming-mouse"
+        "name": "Dareu A950GM Tri-mode Wireless Gaming Mouse",
+        "price_bdt": 2999,
+        "url": "https://www.startech.com.bd/dareu-a950gm-mouse"
       },
       {
         "name": "Xtrike Me GM-227 Wired Gaming Mouse",
-        "price_bdt": 400,
+        "price_bdt": 1310,
         "url": "https://www.startech.com.bd/xtrike-me-gm-227-gaming-mouse"
       },
       {
-        "name": "Inphic M1 Wireless Mouse",
-        "price_bdt": 650,
-        "url": "https://www.startech.com.bd/inphic-m1-wireless-mouse"
-      },
-      {
-        "name": "Havit MS1029 RGB Wired Gaming Mouse",
-        "price_bdt": 680,
-        "url": "https://www.startech.com.bd/havit-ms1029-rgb-wired-gaming-mouse"
-      },
-      {
-        "name": "Fantech G13 Rhasta II Pro Gaming Mouse Black",
-        "price_bdt": 700,
-        "url": "https://www.startech.com.bd/fantech-g13-rhasta-ii-pro-gaming-mouse"
-      },
-      {
-        "name": "Gamdias AURA GS3 Gaming Mouse",
-        "price_bdt": 750,
-        "url": "https://www.startech.com.bd/gamdias-aura-gs3-mouse"
-      },
-      {
         "name": "Gamdias AURA GS4 Gaming Mouse",
-        "price_bdt": 400,
+        "price_bdt": 1310,
         "url": "https://www.startech.com.bd/gamdias-aura-gs4-mouse"
       },
       {
-        "name": "Xtrike Me GM-226 RGB Gaming Mouse",
-        "price_bdt": 800,
-        "url": "https://www.startech.com.bd/xtrike-me-gm-226-gaming-mouse"
+        "name": "Havit HV-MS753 Optical Mouse",
+        "price_bdt": 280,
+        "url": "https://www.startech.com.bd/havit-hv-ms753-mouse"
       },
       {
-        "name": "Fantech Kanata VX9 Gaming Mouse",
-        "price_bdt": 699,
-        "url": "https://www.startech.com.bd/fantech-kanata-vx9-gaming-mouse"
+        "name": "Meetion MT-M360 USB Wired Mouse",
+        "price_bdt": 300,
+        "url": "https://www.startech.com.bd/meetion-mt-m360-usb-wired-mouse"
       },
       {
-        "name": "Inphic B1 RGB Wired Gaming Mouse",
-        "price_bdt": 800,
-        "url": "https://www.startech.com.bd/inphic-b1-mouse"
+        "name": "AJAZZ NJ08 Ultra Tri-Mode Wireless Gaming Mouse",
+        "price_bdt": 4000,
+        "url": "https://www.startech.com.bd/ajazz-nj08-ultra-wireless-gaming-mouse"
       },
       {
-        "name": "Fantech Raigor III WG12 Gaming Mouse",
-        "price_bdt": 799,
-        "url": "https://www.startech.com.bd/fantech-raigor-iii-wg12-gaming-mouse"
+        "name": "AJAZZ NJ07 Ultra Tri-Mode Wireless Gaming Mouse",
+        "price_bdt": 4000,
+        "url": "https://www.startech.com.bd/ajazz-nj07-ultra-wireless-gaming-mouse"
       },
       {
-        "name": "Havit MS1014 Wired RGB Gaming Mouse",
-        "price_bdt": 850,
-        "url": "https://www.startech.com.bd/havit-ms1014-wired-gaming-mouse"
+        "name": "T-WOLF V13 Wired Mouse",
+        "price_bdt": 300,
+        "url": "https://www.startech.com.bd/t-wolf-v13-wired-mouse"
       },
       {
-        "name": "AULA S35 Wired Gaming Mouse",
-        "price_bdt": 850,
-        "url": "https://www.startech.com.bd/aula-s35-gaming-mouse"
+        "name": "Redragon BM-4125 Wired Mouse",
+        "price_bdt": 350,
+        "url": "https://www.startech.com.bd/redragon-bm-4125-wired-mouse"
       },
       {
-        "name": "Xtrike Me GW-322 RGB Wireless Gaming Mouse",
-        "price_bdt": 860,
-        "url": "https://www.startech.com.bd/xtrike-me-gw-322-mouse"
+        "name": "Redragon BM-4062 Wired Mouse",
+        "price_bdt": 375,
+        "url": "https://www.startech.com.bd/redragon-bm-4062-wired-mouse"
       },
       {
-        "name": "Fantech WG10 Raigor II Wirless Gaming Mouse",
-        "price_bdt": 849,
-        "url": "https://www.startech.com.bd/fantech-wg10-raigor-ii-mouse"
+        "name": "Mofii M13S Wired Mouse",
+        "price_bdt": 375,
+        "url": "https://www.startech.com.bd/mofii-m13s-wired-mouse"
+      },
+      {
+        "name": "Xtrike Me GW-610 RGB Dual-Mode Wireless Gaming Mouse",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/xtrike-me-gw-610-wireless-gaming-mouse"
+      },
+      {
+        "name": "Inphic F9 Wireless Gaming Mouse",
+        "price_bdt": 1600,
+        "url": "https://www.startech.com.bd/inphic-f9-gaming-mouse"
+      },
+      {
+        "name": "Havit MS72 Cool RGB LED USB Gaming Mouse Black",
+        "price_bdt": 368,
+        "url": "https://www.startech.com.bd/havit-ms72-cool-mouse"
+      },
+      {
+        "name": "Inphic Calo Dual Mode Wireless Gaming Mouse",
+        "price_bdt": 1650,
+        "url": "https://www.startech.com.bd/inphic-calo-wireless-mouse"
+      },
+      {
+        "name": "Xtrike Me GW-325 Tri-Mode Wireless Gaming Mouse",
+        "price_bdt": 1650,
+        "url": "https://www.startech.com.bd/xtrike-me-gw-325-gaming-mouse"
+      },
+      {
+        "name": "Dareu A950 Wing Dual-Mode Ultralight Wireless Gaming Mouse",
+        "price_bdt": 4500,
+        "url": "https://www.startech.com.bd/dareu-a950-wing-wireless-gaming-mouse"
+      },
+      {
+        "name": "Inphic PG9 Wired RGB Gaming Mouse",
+        "price_bdt": 1700,
+        "url": "https://www.startech.com.bd/inphic-pg9-gaming-mouse"
+      },
+      {
+        "name": "AJAZZ AJ039 V2 Tri-Mode Wireless Gaming Mouse",
+        "price_bdt": 1700,
+        "url": "https://www.startech.com.bd/ajazz-aj039-v2-wireless-gaming-mouse"
       }
     ]
   }
