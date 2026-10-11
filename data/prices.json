@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:14:42.071177+00:00",
+  "updated_at": "2026-10-11T12:29:37.411988+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -131,6 +131,11 @@
         "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card"
       },
       {
+        "name": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card with Fan",
+        "price_bdt": 6500,
+        "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card-with-fan"
+      },
+      {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
         "price_bdt": 8500,
         "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card"
@@ -199,11 +204,6 @@
         "name": "ARKTEK AMD Radeon RX 550 8GB GDDR5 Graphics Card",
         "price_bdt": 16900,
         "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card"
-      },
-      {
-        "name": "GIGABYTE Intel Arc A310 WINDFORCE 4G GDDR6 Graphics Card",
-        "price_bdt": 15900,
-        "url": "https://www.startech.com.bd/gigabyte-intel-arc-a310-windforce-4g-graphics-card"
       }
     ],
     "motherboard": [
@@ -219,12 +219,12 @@
       },
       {
         "name": "XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard",
-        "price_bdt": 6200,
+        "price_bdt": 7200,
         "url": "https://www.startech.com.bd/xenthra-xn-b450m-vh-pro-motherboard"
       },
       {
         "name": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
-        "price_bdt": 7500,
+        "price_bdt": 7499,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
@@ -234,12 +234,12 @@
       },
       {
         "name": "Asus PRIME A520M-R AM4 micro ATX Motherboard",
-        "price_bdt": 8000,
+        "price_bdt": 8700,
         "url": "https://www.startech.com.bd/asus-prime-a520m-r-motherboard"
       },
       {
         "name": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 7800,
+        "price_bdt": 8800,
         "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
       },
       {
@@ -249,7 +249,7 @@
       },
       {
         "name": "ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard",
-        "price_bdt": 7999,
+        "price_bdt": 9100,
         "url": "https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard"
       },
       {
@@ -326,7 +326,7 @@
       },
       {
         "name": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
-        "price_bdt": 8000,
+        "price_bdt": 7999,
         "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram"
       },
       {
@@ -335,24 +335,19 @@
         "url": "https://www.startech.com.bd/netac-basic-4gb-ddr4-2666mhz-desktop-ram"
       },
       {
-        "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8900,
-        "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ram"
+        "name": "Silicon Power XPOWER ZENITH RGB 16GB DDR5 6000MHz CL36 Desktop RAM White",
+        "price_bdt": 36000,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-zenith-rgb-16gb-6000mhz-cl36-ram-white"
       },
       {
-        "name": "G.Skill RIPJAWS-V 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8700,
-        "url": "https://www.startech.com.bd/g-skill-ripjaws-v-8gb-desktop-ram"
+        "name": "Silicon Power XPOWER ZENITH RGB 16GB DDR5 6000MHz CL36 Desktop RAM",
+        "price_bdt": 35500,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-zenith-rgb-16gb-6000mhz-cl36-ram"
       },
       {
-        "name": "G.Skill Trident Z 8GB DDR4 3200MHz Desktop RAM White",
-        "price_bdt": 8900,
-        "url": "https://www.startech.com.bd/g-skill-trident-z-8gb-ddr4-3200mhz-ram-white"
-      },
-      {
-        "name": "Silicon Power XPOWER STORM RGB 16GB DDR5 6000Mhz CL36 Gaming Desktop RAM White",
-        "price_bdt": 200,
-        "url": "https://www.startech.com.bd/silicon-power-xpower-storm-rgb-16gb-6000mhz-cl36-ram-white"
+        "name": "Silicon Power XPOWER Pulse 16GB DDR5 6000MHz CL36 Desktop RAM",
+        "price_bdt": 34500,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-pulse-16gb-6000mhz-cl36-ram"
       },
       {
         "name": "Silicon Power XPOWER Pulse 16GB DDR4 3200MHz Desktop RAM",
@@ -366,28 +361,33 @@
       },
       {
         "name": "Silicon Power XPOWER STORM RGB 16GB DDR5 6000Mhz CL36 Gaming Desktop RAM",
-        "price_bdt": 200,
+        "price_bdt": 35500,
         "url": "https://www.startech.com.bd/silicon-power-xpower-storm-rgb-16gb-6000mhz-cl36-ram"
       },
       {
-        "name": "Silicon Power XPOWER STORM RGB 16GB DDR5 6000Mhz CL28 Gaming Desktop RAM",
-        "price_bdt": 200,
-        "url": "https://www.startech.com.bd/silicon-power-xpower-storm-rgb-16gb-6000mhz-cl28-ram"
-      },
-      {
         "name": "Silicon Power XPOWER STORM RGB 16GB DDR5 6000Mhz CL28 Gaming Desktop RAM White",
-        "price_bdt": 200,
+        "price_bdt": 39500,
         "url": "https://www.startech.com.bd/silicon-power-xpower-storm-rgb-16gb-6000mhz-cl28-ram-white"
       },
       {
-        "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM White",
-        "price_bdt": 16300,
-        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-16gb-ram-white"
+        "name": "Silicon Power XPOWER STORM RGB 16GB DDR5 6000Mhz CL28 Gaming Desktop RAM",
+        "price_bdt": 38500,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-storm-rgb-16gb-6000mhz-cl28-ram"
+      },
+      {
+        "name": "Silicon Power XPOWER Pulse 32GB DDR5 6000MHz CL36 Desktop RAM",
+        "price_bdt": 69000,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-pulse-32gb-6000mhz-cl36-ram"
       },
       {
         "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM",
-        "price_bdt": 16300,
+        "price_bdt": 15999,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-16gb-ram"
+      },
+      {
+        "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM White",
+        "price_bdt": 16199,
+        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-16gb-ram-white"
       },
       {
         "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
@@ -412,6 +412,11 @@
     ],
     "ssd": [
       {
+        "name": "Silicon Power P34A60 128GB M.2 PCIe Gen3 NVMe SSD",
+        "price_bdt": 4800,
+        "url": "https://www.startech.com.bd/silicon-power-p34a60-128gb-gen3-ssd"
+      },
+      {
         "name": "Netac N535S 120GB 2.5-inch SATAIII SSD",
         "price_bdt": 3450,
         "url": "https://www.startech.com.bd/netac-n535s-120gb-ssd"
@@ -428,12 +433,12 @@
       },
       {
         "name": "OCPC XTL-200 128GB SATA III SSD",
-        "price_bdt": 3600,
+        "price_bdt": 3400,
         "url": "https://www.startech.com.bd/ocpc-xtl-200-128gb-ssd"
       },
       {
         "name": "OCPC MFL-300 256GB M.2 NVMe SSD",
-        "price_bdt": 7000,
+        "price_bdt": 6800,
         "url": "https://www.startech.com.bd/ocpc-mfl-300-256gb-ssd"
       },
       {
@@ -483,7 +488,7 @@
       },
       {
         "name": "OCPC XTL-200 256GB SATA III SSD",
-        "price_bdt": 5600,
+        "price_bdt": 5400,
         "url": "https://www.startech.com.bd/ocpc-xtl-200-256gb-ssd"
       },
       {
@@ -505,11 +510,6 @@
         "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
         "price_bdt": 6390,
         "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
-      },
-      {
-        "name": "Netac N930ES 256GB M.2 NVMe PCIe 2242 SSD",
-        "price_bdt": 6300,
-        "url": "https://www.startech.com.bd/netac-n930es-256gb-m-2-nvme-pcie-ssd"
       }
     ],
     "power-supply": [
@@ -535,7 +535,7 @@
       },
       {
         "name": "1STPlayer PS-300FK Non Modular Power Supply",
-        "price_bdt": 1700,
+        "price_bdt": 2000,
         "url": "https://www.startech.com.bd/1stplayer-ps-300fk-power-supply"
       },
       {
@@ -550,7 +550,7 @@
       },
       {
         "name": "1STPlayer PS-400FK Non Modular Power Supply",
-        "price_bdt": 2299,
+        "price_bdt": 2499,
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
@@ -575,7 +575,7 @@
       },
       {
         "name": "Antec META V350 350W Power Supply",
-        "price_bdt": 2399,
+        "price_bdt": 2700,
         "url": "https://www.startech.com.bd/antec-meta-v350-power-supply"
       },
       {
@@ -590,12 +590,12 @@
       },
       {
         "name": "Gamdias AURA GP550 550W Power Supply",
-        "price_bdt": 2899,
+        "price_bdt": 3400,
         "url": "https://www.startech.com.bd/gamdias-aura-gp550-550w-power-supply"
       },
       {
         "name": "1STPLAYER FK 5.0 PS-500FK 500W Non-Modular ATX Power Supply",
-        "price_bdt": 2799,
+        "price_bdt": 3100,
         "url": "https://www.startech.com.bd/1stplayer-fk-5-0-500w-power-supply"
       },
       {
@@ -754,7 +754,7 @@
       },
       {
         "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 7799,
+        "price_bdt": 7999,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
       },
       {
@@ -764,22 +764,22 @@
       },
       {
         "name": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8350,
+        "price_bdt": 8800,
         "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor"
       },
       {
         "name": "Eurovision EV-GT2200A 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 7899,
+        "price_bdt": 8199,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-22-inch-monitor"
       },
       {
         "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 7999,
+        "price_bdt": 8999,
         "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
       },
       {
         "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 7999,
+        "price_bdt": 8100,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
       },
       {
@@ -789,7 +789,7 @@
       },
       {
         "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 8350,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
       },
       {
@@ -799,7 +799,7 @@
       },
       {
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 8499,
+        "price_bdt": 8999,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
@@ -809,7 +809,7 @@
       },
       {
         "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 8499,
+        "price_bdt": 9200,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
       },
       {
@@ -821,7 +821,7 @@
     "keyboard": [
       {
         "name": "Xtrike Me GK-916 Wired Mechanical Gaming Keyboard",
-        "price_bdt": 1280,
+        "price_bdt": 1780,
         "url": "https://www.startech.com.bd/xtrike-me-gk-916-keyboard"
       },
       {
@@ -831,7 +831,7 @@
       },
       {
         "name": "Xtrike Me KB-512 A Wired Gaming Keyboard",
-        "price_bdt": 1250,
+        "price_bdt": 1800,
         "url": "https://www.startech.com.bd/xtrike-me-kb-512-a-keyboard"
       },
       {
@@ -906,7 +906,7 @@
       },
       {
         "name": "Xtrike Me GK-803 Wired Mechanical Gaming Keyboard",
-        "price_bdt": 1550,
+        "price_bdt": 2300,
         "url": "https://www.startech.com.bd/xtrike-me-gk-803-mechanical-keyboard"
       },
       {
@@ -953,12 +953,17 @@
       },
       {
         "name": "AJAZZ NJ07 Ultra Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 3300,
+        "price_bdt": 4000,
         "url": "https://www.startech.com.bd/ajazz-nj07-ultra-wireless-gaming-mouse"
       },
       {
+        "name": "AJAZZ NJ08 Tri-Mode Wireless Gaming Mouse",
+        "price_bdt": 1200,
+        "url": "https://www.startech.com.bd/ajazz-nj08-wireless-gaming-mouse"
+      },
+      {
         "name": "AJAZZ NJ08 Ultra Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 3300,
+        "price_bdt": 4000,
         "url": "https://www.startech.com.bd/ajazz-nj08-ultra-wireless-gaming-mouse"
       },
       {
@@ -998,7 +1003,7 @@
       },
       {
         "name": "Xtrike Me GW-325 Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 1350,
+        "price_bdt": 1650,
         "url": "https://www.startech.com.bd/xtrike-me-gw-325-gaming-mouse"
       },
       {
@@ -1008,18 +1013,13 @@
       },
       {
         "name": "Inphic PG9 Wired RGB Gaming Mouse",
-        "price_bdt": 1450,
+        "price_bdt": 1700,
         "url": "https://www.startech.com.bd/inphic-pg9-gaming-mouse"
       },
       {
         "name": "AJAZZ AJ039 V2 Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 1499,
+        "price_bdt": 1700,
         "url": "https://www.startech.com.bd/ajazz-aj039-v2-wireless-gaming-mouse"
-      },
-      {
-        "name": "Pc Power PCM-315 Wired Mouse",
-        "price_bdt": 349,
-        "url": "https://www.startech.com.bd/pc-power-pcm-315-wired-mouse"
       }
     ]
   }
