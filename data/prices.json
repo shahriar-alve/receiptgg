@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T12:29:37.411988+00:00",
+  "updated_at": "2026-10-12T15:01:45.034132+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -126,14 +126,14 @@
         "url": "https://www.startech.com.bd/colorful-geforce-gt710-2gd3-v-graphics-card"
       },
       {
-        "name": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card",
-        "price_bdt": 6500,
-        "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card"
-      },
-      {
         "name": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card with Fan",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card-with-fan"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card",
+        "price_bdt": 6500,
+        "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card"
       },
       {
         "name": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
@@ -380,14 +380,14 @@
         "url": "https://www.startech.com.bd/silicon-power-xpower-pulse-32gb-6000mhz-cl36-ram"
       },
       {
-        "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM",
-        "price_bdt": 15999,
-        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-16gb-ram"
-      },
-      {
         "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM White",
         "price_bdt": 16199,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-16gb-ram-white"
+      },
+      {
+        "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM",
+        "price_bdt": 15999,
+        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-16gb-ram"
       },
       {
         "name": "G.Skill Ripjaws S5 16GB DDR5 5200MHz CL40 Desktop RAM Black",
@@ -395,14 +395,14 @@
         "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-5200mhz-ram-black"
       },
       {
-        "name": "G.Skill Trident Z5 RGB 32GB DDR5 5600MHz Desktop RAM",
-        "price_bdt": 65000,
-        "url": "https://www.startech.com.bd/g-skill-trident-z5-rgb-32gb-ddr5-5600mhz-ram"
-      },
-      {
         "name": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-2666mhz-desktop-ram"
+      },
+      {
+        "name": "Netac Shadow III 16GB DDR4 3200MHz Desktop RAM",
+        "price_bdt": 15900,
+        "url": "https://www.startech.com.bd/netac-shadow-iii-16gb-ddr4-ram"
       },
       {
         "name": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
@@ -411,6 +411,36 @@
       }
     ],
     "ssd": [
+      {
+        "name": "Silicon Power XPOWER XS90 2TB M.2 PCIe Gen5 NVMe SSD with DRAM and Heatsink",
+        "price_bdt": 68500,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-xs90-2tb-gen5-ssd"
+      },
+      {
+        "name": "Silicon Power XPOWER XS70 1TB M.2 PCIe Gen4 NVMe SSD with DRAM and Heatsink",
+        "price_bdt": 32500,
+        "url": "https://www.startech.com.bd/silicon-power-xpower-xs70-1tb-gen4-ssd"
+      },
+      {
+        "name": "Silicon Power US75 2TB M.2 PCIe Gen4 NVMe SSD",
+        "price_bdt": 42500,
+        "url": "https://www.startech.com.bd/silicon-power-us75-2tb-gen4-ssd"
+      },
+      {
+        "name": "Silicon Power US75 1TB M.2 PCIe Gen4 NVMe SSD",
+        "price_bdt": 25500,
+        "url": "https://www.startech.com.bd/silicon-power-us75-1tb-gen4-ssd"
+      },
+      {
+        "name": "Silicon Power UD90 500GB M.2 PCIe Gen4 NVMe SSD",
+        "price_bdt": 14500,
+        "url": "https://www.startech.com.bd/silicon-power-ud90-500gb-gen4-ssd"
+      },
+      {
+        "name": "Silicon Power UD90 250GB M.2 PCIe Gen4 NVMe SSD",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/silicon-power-ud90-250gb-gen4-ssd"
+      },
       {
         "name": "Silicon Power P34A60 128GB M.2 PCIe Gen3 NVMe SSD",
         "price_bdt": 4800,
@@ -448,7 +478,7 @@
       },
       {
         "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
-        "price_bdt": 4400,
+        "price_bdt": 4000,
         "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
       },
       {
@@ -480,42 +510,12 @@
         "name": "OSCOO OS002 256GB 2.5'' SATA III SSD",
         "price_bdt": 5700,
         "url": "https://www.startech.com.bd/oscoo-os002-256gb-ssd"
-      },
-      {
-        "name": "Biostar M760 256GB Gen3 M.2 NVMe SSD",
-        "price_bdt": 5999,
-        "url": "https://www.startech.com.bd/biostar-m760-256gb-ssd"
-      },
-      {
-        "name": "OCPC XTL-200 256GB SATA III SSD",
-        "price_bdt": 5400,
-        "url": "https://www.startech.com.bd/ocpc-xtl-200-256gb-ssd"
-      },
-      {
-        "name": "MiPhi MP100 256GB 2.5'' SATA III SSD",
-        "price_bdt": 5500,
-        "url": "https://www.startech.com.bd/miphi-mp100-256gb-sata-iii-ssd"
-      },
-      {
-        "name": "TEAM CX2 2.5\" SATA 256GB SSD",
-        "price_bdt": 6200,
-        "url": "https://www.startech.com.bd/team-cx2-256gb-ssd"
-      },
-      {
-        "name": "AITC KINGSMAN SK350 256GB 2.5\" SATA III SSD",
-        "price_bdt": 6300,
-        "url": "https://www.startech.com.bd/aitc-kingsman-sk350-256gb-sata-ssd"
-      },
-      {
-        "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
-        "price_bdt": 6390,
-        "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
       }
     ],
     "power-supply": [
       {
         "name": "T-Wolf ATX 350W Grey Power Supply With Cable",
-        "price_bdt": 1400,
+        "price_bdt": 1250,
         "url": "https://www.startech.com.bd/t-wolf-atx-350w-grey-power-supply"
       },
       {
@@ -540,7 +540,7 @@
       },
       {
         "name": "Gamdias AURA GP300 300W Power Supply",
-        "price_bdt": 1900,
+        "price_bdt": 2400,
         "url": "https://www.startech.com.bd/gamdias-aura-gp300-power-supply"
       },
       {
@@ -599,14 +599,14 @@
         "url": "https://www.startech.com.bd/1stplayer-fk-5-0-500w-power-supply"
       },
       {
-        "name": "Corsair CX-M Series CX750M 750W 80 PLUS Bronze Semi-Modular ATX Power Supply",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/corsair-cx-m-series-cx750m-750w-power-supply"
-      },
-      {
         "name": "Corsair CX-M Series CX650M 650W 80 PLUS Bronze Semi-Modular ATX Power Supply",
         "price_bdt": 7800,
         "url": "https://www.startech.com.bd/corsair-cx650m-atx-power-supply"
+      },
+      {
+        "name": "Corsair CX-M Series CX750M 750W 80 PLUS Bronze Semi-Modular ATX Power Supply",
+        "price_bdt": 8800,
+        "url": "https://www.startech.com.bd/corsair-cx-m-series-cx750m-750w-power-supply"
       },
       {
         "name": "Solitine STN-RP450BZ 450W 80 Plus Bronze Power Supply",
@@ -759,7 +759,7 @@
       },
       {
         "name": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 8600,
+        "price_bdt": 8599,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor"
       },
       {
@@ -840,9 +840,19 @@
         "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
       },
       {
+        "name": "Havit KB889CM RGB Gaming Keyboard, Mouse & Mouse Pad 3-IN-1 Combo",
+        "price_bdt": 1549,
+        "url": "https://www.startech.com.bd/havit-kb889cm-rgb-gaming-combo"
+      },
+      {
         "name": "Redragon K522 RGB Gaming Keyboard",
         "price_bdt": 1899,
         "url": "https://www.startech.com.bd/redragon-k522-rgb-gaming-keyboard"
+      },
+      {
+        "name": "Fantech P31 Keyboard, Mouse & Mousepad Combo",
+        "price_bdt": 1799,
+        "url": "https://www.startech.com.bd/fantech-p31-keyboard-mouse-mousepad-combo"
       },
       {
         "name": "Thunderobot KG3089R Red Switch Mechanical Gaming Keyboard",
@@ -855,14 +865,39 @@
         "url": "https://www.startech.com.bd/thunderobot-kg3089c-keyboard"
       },
       {
+        "name": "Fantech P31 HERO Keyboard, Mouse & Mousepad Combo",
+        "price_bdt": 1850,
+        "url": "https://www.startech.com.bd/fantech-p31-hero-keyboard-mouse-mousepad-combo"
+      },
+      {
         "name": "AJAZZ AK820 Mechanical Gaming Keyboard",
         "price_bdt": 2600,
         "url": "https://www.startech.com.bd/ajazz-ak820-mechanical-keyboard"
       },
       {
+        "name": "Havit KB894CM 4-in-1 Combo",
+        "price_bdt": 1949,
+        "url": "https://www.startech.com.bd/havit-kb894cm-combo"
+      },
+      {
+        "name": "Havit HV-KB501CM 4 in 1 Gaming Combo",
+        "price_bdt": 2049,
+        "url": "https://www.startech.com.bd/havit-hv-kb501cm-gaming-combo"
+      },
+      {
         "name": "AJAZZ NK68 V2 Wired RGB Hot Swappable Mechanical Keyboard",
         "price_bdt": 2000,
         "url": "https://www.startech.com.bd/ajazz-nk68-v2-wired-keyboard"
+      },
+      {
+        "name": "Havit KB907CM 4-in-1 Combo",
+        "price_bdt": 2050,
+        "url": "https://www.startech.com.bd/havit-kb907cm-combo"
+      },
+      {
+        "name": "PC Power PGC4IN1 Gaming Combo",
+        "price_bdt": 2100,
+        "url": "https://www.startech.com.bd/pc-power-pgc4in1-gaming-combo"
       },
       {
         "name": "T-Wolf T40 Tri-Mode RGB Wireless Mechanical Keyboard",
@@ -875,49 +910,14 @@
         "url": "https://www.startech.com.bd/aula-s500-mechanical-keyboard"
       },
       {
+        "name": "PC Power PGC900 4 in 1 Gaming Combo",
+        "price_bdt": 2300,
+        "url": "https://www.startech.com.bd/pc-power-pgc900-4-in-1-gaming-combo"
+      },
+      {
         "name": "Redragon K517 Varro RGB Gaming Keyboard",
         "price_bdt": 1949,
         "url": "https://www.startech.com.bd/redragon-k517-varro-gaming-keyboard"
-      },
-      {
-        "name": "Havit HV-KB501CM 4 in 1 Gaming Combo",
-        "price_bdt": 2049,
-        "url": "https://www.startech.com.bd/havit-hv-kb501cm-gaming-combo"
-      },
-      {
-        "name": "Asus AC02 ROG Gaming Keycap Set",
-        "price_bdt": 2049,
-        "url": "https://www.startech.com.bd/asus-ac02-rog-keycap-set"
-      },
-      {
-        "name": "PC Power K98 RGB Mechanical Keyboard",
-        "price_bdt": 2200,
-        "url": "https://www.startech.com.bd/pc-power-k98-mechanical-keyboard"
-      },
-      {
-        "name": "Zifriend KA646 RGB Hot-Swappable Gaming Mechanical Keyboard",
-        "price_bdt": 2200,
-        "url": "https://www.startech.com.bd/zifriend-ka646-keyboard"
-      },
-      {
-        "name": "AJAZZ AK820 RGB Wired Mechanical Keyboard",
-        "price_bdt": 3500,
-        "url": "https://www.startech.com.bd/ajazz-ak820-rgb-mechanical-keyboard"
-      },
-      {
-        "name": "Xtrike Me GK-803 Wired Mechanical Gaming Keyboard",
-        "price_bdt": 2300,
-        "url": "https://www.startech.com.bd/xtrike-me-gk-803-mechanical-keyboard"
-      },
-      {
-        "name": "Furycube IP98 RGB Gaming Keyboard",
-        "price_bdt": 2300,
-        "url": "https://www.startech.com.bd/furycube-ip98-gaming-keyboard"
-      },
-      {
-        "name": "T-Wolf ZK82 LED Wired Mechanical Keyboard",
-        "price_bdt": 2300,
-        "url": "https://www.startech.com.bd/t-wolf-zk82-wired-mechanical-keyboard"
       }
     ],
     "mouse": [
@@ -952,11 +952,6 @@
         "url": "https://www.startech.com.bd/meetion-mt-m360-usb-wired-mouse"
       },
       {
-        "name": "AJAZZ NJ07 Ultra Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 4000,
-        "url": "https://www.startech.com.bd/ajazz-nj07-ultra-wireless-gaming-mouse"
-      },
-      {
         "name": "AJAZZ NJ08 Tri-Mode Wireless Gaming Mouse",
         "price_bdt": 1200,
         "url": "https://www.startech.com.bd/ajazz-nj08-wireless-gaming-mouse"
@@ -965,6 +960,11 @@
         "name": "AJAZZ NJ08 Ultra Tri-Mode Wireless Gaming Mouse",
         "price_bdt": 4000,
         "url": "https://www.startech.com.bd/ajazz-nj08-ultra-wireless-gaming-mouse"
+      },
+      {
+        "name": "AJAZZ NJ07 Ultra Tri-Mode Wireless Gaming Mouse",
+        "price_bdt": 4000,
+        "url": "https://www.startech.com.bd/ajazz-nj07-ultra-wireless-gaming-mouse"
       },
       {
         "name": "T-WOLF V13 Wired Mouse",
