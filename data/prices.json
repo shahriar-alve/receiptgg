@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:01:45.034132+00:00",
+  "updated_at": "2026-10-13T13:56:39.393386+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -60,12 +60,12 @@
       },
       {
         "name": "Intel Core i5-10500T 10th Gen Processor",
-        "price_bdt": 12500,
+        "price_bdt": 12100,
         "url": "https://www.startech.com.bd/intel-core-i5-10500t-processor"
       },
       {
         "name": "AMD Ryzen 5 5600X Processor",
-        "price_bdt": 14200,
+        "price_bdt": 13700,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600x-processor"
       },
       {
@@ -85,7 +85,7 @@
       },
       {
         "name": "Intel Core i5-11500T 11th Gen Processor",
-        "price_bdt": 14300,
+        "price_bdt": 14000,
         "url": "https://www.startech.com.bd/intel-core-i5-11500t-11th-gen-processor"
       },
       {
@@ -100,7 +100,7 @@
       },
       {
         "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
-        "price_bdt": 14999,
+        "price_bdt": 13500,
         "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
       }
     ],
@@ -224,7 +224,7 @@
       },
       {
         "name": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
-        "price_bdt": 7499,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
@@ -375,9 +375,9 @@
         "url": "https://www.startech.com.bd/silicon-power-xpower-storm-rgb-16gb-6000mhz-cl28-ram"
       },
       {
-        "name": "Silicon Power XPOWER Pulse 32GB DDR5 6000MHz CL36 Desktop RAM",
+        "name": "Silicon Power XPOWER Pulse 32GB DDR5 6000MHz CL30 Desktop RAM",
         "price_bdt": 69000,
-        "url": "https://www.startech.com.bd/silicon-power-xpower-pulse-32gb-6000mhz-cl36-ram"
+        "url": "https://www.startech.com.bd/silicon-power-xpower-pulse-32gb-6000mhz-cl30-ram"
       },
       {
         "name": "OCPC X3 RGB DDR4 3200MHz 16GB Desktop RAM White",
@@ -589,19 +589,9 @@
         "url": "https://www.startech.com.bd/ocypus-beta-p500-500w-power-supply"
       },
       {
-        "name": "Gamdias AURA GP550 550W Power Supply",
-        "price_bdt": 3400,
-        "url": "https://www.startech.com.bd/gamdias-aura-gp550-550w-power-supply"
-      },
-      {
         "name": "1STPLAYER FK 5.0 PS-500FK 500W Non-Modular ATX Power Supply",
         "price_bdt": 3100,
         "url": "https://www.startech.com.bd/1stplayer-fk-5-0-500w-power-supply"
-      },
-      {
-        "name": "Corsair CX-M Series CX650M 650W 80 PLUS Bronze Semi-Modular ATX Power Supply",
-        "price_bdt": 7800,
-        "url": "https://www.startech.com.bd/corsair-cx650m-atx-power-supply"
       },
       {
         "name": "Corsair CX-M Series CX750M 750W 80 PLUS Bronze Semi-Modular ATX Power Supply",
@@ -609,9 +599,19 @@
         "url": "https://www.startech.com.bd/corsair-cx-m-series-cx750m-750w-power-supply"
       },
       {
+        "name": "Corsair CX-M Series CX650M 650W 80 PLUS Bronze Semi-Modular ATX Power Supply",
+        "price_bdt": 7800,
+        "url": "https://www.startech.com.bd/corsair-cx650m-atx-power-supply"
+      },
+      {
         "name": "Solitine STN-RP450BZ 450W 80 Plus Bronze Power Supply",
         "price_bdt": 4140,
         "url": "https://www.startech.com.bd/solitine-stn-rp450bz-450w-power-supply"
+      },
+      {
+        "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
+        "price_bdt": 4000,
+        "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
       }
     ],
     "casing": [
@@ -814,7 +814,7 @@
       },
       {
         "name": "Walton WD215I10 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8699,
+        "price_bdt": 8499,
         "url": "https://www.startech.com.bd/walton-wd215i10-100hz-monitor"
       }
     ],
