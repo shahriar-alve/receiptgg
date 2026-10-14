@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-10-13T13:56:39.393386+00:00",
+  "updated_at": "2026-10-14T11:33:44.720758+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
+      {
+        "name": "Intel 10th Gen Core i7-10700 Processor",
+        "price_bdt": 21900,
+        "url": "https://www.startech.com.bd/intel-core-i7-10700-processor"
+      },
       {
         "name": "AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics",
         "price_bdt": 3999,
@@ -65,7 +70,7 @@
       },
       {
         "name": "AMD Ryzen 5 5600X Processor",
-        "price_bdt": 13700,
+        "price_bdt": 13999,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600x-processor"
       },
       {
@@ -97,11 +102,6 @@
         "name": "Intel 10th Gen Core i5-10400 Processor",
         "price_bdt": 14000,
         "url": "https://www.startech.com.bd/intel-core-i5-10400-processor"
-      },
-      {
-        "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
-        "price_bdt": 13500,
-        "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
       }
     ],
     "graphics-card": [
@@ -540,7 +540,7 @@
       },
       {
         "name": "Gamdias AURA GP300 300W Power Supply",
-        "price_bdt": 2400,
+        "price_bdt": 1900,
         "url": "https://www.startech.com.bd/gamdias-aura-gp300-power-supply"
       },
       {
@@ -619,11 +619,6 @@
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
         "price_bdt": 2300,
         "url": "https://www.startech.com.bd/t-wolf-ironcore-office-matx-casing"
-      },
-      {
-        "name": "T-Wolf SHADOWCORE OFFICE mATX Mid Tower Casing With 200W PSU",
-        "price_bdt": 2200,
-        "url": "https://www.startech.com.bd/t-wolf-shadowcore-office-casing"
       },
       {
         "name": "Golden Field 2506B Micro-ATX Casing",
@@ -714,6 +709,11 @@
         "name": "Golden Field GF 116 Mid-Tower ATX Casing with PSU",
         "price_bdt": 2900,
         "url": "https://www.startech.com.bd/golden-field-gf-116-atx-casing-with-psu"
+      },
+      {
+        "name": "MaxGreen S275-33 Mid-Tower M-ATX Casing",
+        "price_bdt": 2950,
+        "url": "https://www.startech.com.bd/maxgreen-s275-33-mid-tower-casing"
       }
     ],
     "monitor": [
@@ -754,7 +754,7 @@
       },
       {
         "name": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 7999,
+        "price_bdt": 7799,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
       },
       {
@@ -764,22 +764,22 @@
       },
       {
         "name": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8800,
+        "price_bdt": 8350,
         "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor"
       },
       {
         "name": "Eurovision EV-GT2200A 21.45\" 100Hz FHD Monitor",
-        "price_bdt": 8199,
+        "price_bdt": 7899,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-22-inch-monitor"
       },
       {
         "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8999,
+        "price_bdt": 7999,
         "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
       },
       {
         "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 8100,
+        "price_bdt": 7999,
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
       },
       {
@@ -799,7 +799,7 @@
       },
       {
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 8999,
+        "price_bdt": 8499,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
@@ -821,7 +821,7 @@
     "keyboard": [
       {
         "name": "Xtrike Me GK-916 Wired Mechanical Gaming Keyboard",
-        "price_bdt": 1780,
+        "price_bdt": 1280,
         "url": "https://www.startech.com.bd/xtrike-me-gk-916-keyboard"
       },
       {
@@ -831,7 +831,7 @@
       },
       {
         "name": "Xtrike Me KB-512 A Wired Gaming Keyboard",
-        "price_bdt": 1800,
+        "price_bdt": 1250,
         "url": "https://www.startech.com.bd/xtrike-me-kb-512-a-keyboard"
       },
       {
@@ -1003,7 +1003,7 @@
       },
       {
         "name": "Xtrike Me GW-325 Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 1650,
+        "price_bdt": 1350,
         "url": "https://www.startech.com.bd/xtrike-me-gw-325-gaming-mouse"
       },
       {
@@ -1013,12 +1013,12 @@
       },
       {
         "name": "Inphic PG9 Wired RGB Gaming Mouse",
-        "price_bdt": 1700,
+        "price_bdt": 1450,
         "url": "https://www.startech.com.bd/inphic-pg9-gaming-mouse"
       },
       {
         "name": "AJAZZ AJ039 V2 Tri-Mode Wireless Gaming Mouse",
-        "price_bdt": 1700,
+        "price_bdt": 1499,
         "url": "https://www.startech.com.bd/ajazz-aj039-v2-wireless-gaming-mouse"
       }
     ]
