@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:11:54.096266+00:00",
+  "updated_at": "2026-10-16T11:06:47.152601+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -554,11 +554,6 @@
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
-        "name": "Gamdias AURA GP450 PRO 450W Power Supply Black",
-        "price_bdt": 2800,
-        "url": "https://www.startech.com.bd/gamdias-aura-gp450-pro-450w-power-supply"
-      },
-      {
         "name": "Ocypus BETA P400 400W Non Modular ATX Power Supply",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply"
@@ -612,6 +607,11 @@
         "name": "Xigmatek Odin 500W 80 Plus Power Supply",
         "price_bdt": 4200,
         "url": "https://www.startech.com.bd/xigmatek-odin-500w-80-plus-power-supply"
+      },
+      {
+        "name": "DeepCool PF500X 500W 80 Plus Bronze Non-Modular ATX Power Supply",
+        "price_bdt": 4499,
+        "url": "https://www.startech.com.bd/deepcool-pf500x-500w-power-supply"
       }
     ],
     "casing": [
@@ -621,9 +621,24 @@
         "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing"
       },
       {
+        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display White",
+        "price_bdt": 7200,
+        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing-white"
+      },
+      {
         "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
         "price_bdt": 6600,
         "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
+      },
+      {
+        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display Black",
+        "price_bdt": 7000,
+        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing"
+      },
+      {
+        "name": "T-Wolf AKUMA ARGB Curved ATX Gaming Casing with Display",
+        "price_bdt": 16500,
+        "url": "https://www.startech.com.bd/t-wolf-akuma-argb-curved-gaming-casing"
       },
       {
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
@@ -699,21 +714,6 @@
         "name": "T-Wolf XPLENDER X5 BH ARGB M-ATX Portable Casing White",
         "price_bdt": 2700,
         "url": "https://www.startech.com.bd/t-wolf-xplender-x5-wh-portable-casing-white"
-      },
-      {
-        "name": "MaxGreen 190B Mid-Tower mATX Casing",
-        "price_bdt": 2700,
-        "url": "https://www.startech.com.bd/maxgreen-190b-mid-tower-casing"
-      },
-      {
-        "name": "PC Power 180D-1U Mid Tower ATX Case With PSU",
-        "price_bdt": 2550,
-        "url": "https://www.startech.com.bd/pc-power-180d-1u-atx-case"
-      },
-      {
-        "name": "Golden Field Q21B Mid Tower ATX Case",
-        "price_bdt": 2800,
-        "url": "https://www.startech.com.bd/golden-field-q21b-mid-tower-case"
       }
     ],
     "monitor": [
@@ -841,7 +841,7 @@
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
-        "price_bdt": 400,
+        "price_bdt": 49,
         "url": "https://www.startech.com.bd/fantech-go-k211-bangla-keyboard"
       },
       {
