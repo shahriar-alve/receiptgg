@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:06:47.152601+00:00",
+  "updated_at": "2026-10-17T10:26:10.399306+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -258,11 +258,6 @@
         "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard"
       },
       {
-        "name": "Gigabyte GA-H110M-H Micro ATX Motherboard",
-        "price_bdt": 9300,
-        "url": "https://www.startech.com.bd/gigabyte-ga-h110m-h-motherboard"
-      },
-      {
         "name": "Gigabyte H310M M.2 9th Gen Micro ATX Motherboard",
         "price_bdt": 9500,
         "url": "https://www.startech.com.bd/gigabyte-h310m-m2-motherboard"
@@ -306,6 +301,11 @@
         "name": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
         "price_bdt": 9500,
         "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard"
+      },
+      {
+        "name": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
+        "price_bdt": 10499,
+        "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard"
       }
     ],
     "ram": [
@@ -366,12 +366,12 @@
       },
       {
         "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM",
-        "price_bdt": 7799,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram"
       },
       {
         "name": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM White",
-        "price_bdt": 7799,
+        "price_bdt": 8000,
         "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram-white"
       },
       {
@@ -396,12 +396,12 @@
       },
       {
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
-        "price_bdt": 8499,
+        "price_bdt": 8700,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram"
       },
       {
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
-        "price_bdt": 8499,
+        "price_bdt": 8700,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
       },
       {
@@ -433,7 +433,7 @@
       },
       {
         "name": "OCPC XTL-200 128GB SATA III SSD",
-        "price_bdt": 3400,
+        "price_bdt": 3600,
         "url": "https://www.startech.com.bd/ocpc-xtl-200-128gb-ssd"
       },
       {
@@ -483,7 +483,7 @@
       },
       {
         "name": "OCPC XTL-200 256GB SATA III SSD",
-        "price_bdt": 5400,
+        "price_bdt": 5600,
         "url": "https://www.startech.com.bd/ocpc-xtl-200-256gb-ssd"
       },
       {
@@ -616,19 +616,9 @@
     ],
     "casing": [
       {
-        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing Black",
-        "price_bdt": 6000,
-        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing"
-      },
-      {
-        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display White",
-        "price_bdt": 7200,
-        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing-white"
-      },
-      {
-        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
-        "price_bdt": 6600,
-        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
+        "name": "MSI MEG MAESTRO 900R ARGB EATX Full Tower Gaming Casing",
+        "price_bdt": 130000,
+        "url": "https://www.startech.com.bd/msi-meg-maestro-900r-casing"
       },
       {
         "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display Black",
@@ -639,6 +629,21 @@
         "name": "T-Wolf AKUMA ARGB Curved ATX Gaming Casing with Display",
         "price_bdt": 16500,
         "url": "https://www.startech.com.bd/t-wolf-akuma-argb-curved-gaming-casing"
+      },
+      {
+        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
+        "price_bdt": 6600,
+        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
+      },
+      {
+        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing Black",
+        "price_bdt": 6000,
+        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing"
+      },
+      {
+        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display White",
+        "price_bdt": 7200,
+        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing-white"
       },
       {
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
@@ -709,11 +714,6 @@
         "name": "MaxGreen H12 Mid-Tower m-ATX Casing With PSU",
         "price_bdt": 2600,
         "url": "https://www.startech.com.bd/maxgreen-h12-m-atx-casing"
-      },
-      {
-        "name": "T-Wolf XPLENDER X5 BH ARGB M-ATX Portable Casing White",
-        "price_bdt": 2700,
-        "url": "https://www.startech.com.bd/t-wolf-xplender-x5-wh-portable-casing-white"
       }
     ],
     "monitor": [
@@ -942,6 +942,26 @@
         "url": "https://www.startech.com.bd/imice-an-500-wireless-combo"
       },
       {
+        "name": "Hoco GM29 Mysterious Dual-Mode Wireless Mouse",
+        "price_bdt": 3050,
+        "url": "https://www.startech.com.bd/hoco-gm29-mouse"
+      },
+      {
+        "name": "Hoco GM41 Dual-Mode Wireless Mouse",
+        "price_bdt": 3050,
+        "url": "https://www.startech.com.bd/hoco-gm41-mouse"
+      },
+      {
+        "name": "Hoco GM42 Platino Wireless Mouse",
+        "price_bdt": 3050,
+        "url": "https://www.startech.com.bd/hoco-gm42-mouse"
+      },
+      {
+        "name": "Hoco GM28 Wireless Mouse",
+        "price_bdt": 3050,
+        "url": "https://www.startech.com.bd/hoco-gm28-mouse"
+      },
+      {
         "name": "Havit HV-MS753 Optical Mouse",
         "price_bdt": 280,
         "url": "https://www.startech.com.bd/havit-hv-ms753-mouse"
@@ -1000,26 +1020,6 @@
         "name": "A4TECH OP-720 USB Wired Mouse",
         "price_bdt": 425,
         "url": "https://www.startech.com.bd/a4tech-op-720-usb-mouse"
-      },
-      {
-        "name": "A4TECH OP-330 USB Wired Mouse",
-        "price_bdt": 425,
-        "url": "https://www.startech.com.bd/a4tech-op-330-usb-wired-mouse"
-      },
-      {
-        "name": "HAVIT HV-MS989GT Wireless Mouse",
-        "price_bdt": 450,
-        "url": "https://www.startech.com.bd/havit-hv-ms989gt-wireless-mouse"
-      },
-      {
-        "name": "Pc Power PCM-378 Wired Mouse",
-        "price_bdt": 450,
-        "url": "https://www.startech.com.bd/pc-power-pcm-378-wired-mouse"
-      },
-      {
-        "name": "Havit MS40 Mouse",
-        "price_bdt": 450,
-        "url": "https://www.startech.com.bd/havit-ms40-mouse"
       }
     ]
   }
