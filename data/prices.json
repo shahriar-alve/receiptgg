@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:26:10.399306+00:00",
+  "updated_at": "2026-10-18T10:45:05.327640+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -20,7 +20,7 @@
       },
       {
         "name": "AMD Ryzen 5 Pro 2400GE Desktop Processor with Radeon RX Vega 11 Graphics",
-        "price_bdt": 6200,
+        "price_bdt": 5900,
         "url": "https://www.startech.com.bd/amd-ryzen-5-pro-2400ge-processor"
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "name": "Intel 10th Gen Core i3 10100 Processor",
-        "price_bdt": 9500,
+        "price_bdt": 9400,
         "url": "https://www.startech.com.bd/intel-core-i3-10100-processor"
       },
       {
@@ -55,7 +55,7 @@
       },
       {
         "name": "AMD Ryzen 5 5500 Processor",
-        "price_bdt": 10500,
+        "price_bdt": 10200,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5500-processor"
       },
       {
@@ -65,12 +65,12 @@
       },
       {
         "name": "Intel Core i5-10500T 10th Gen Processor",
-        "price_bdt": 12100,
+        "price_bdt": 12000,
         "url": "https://www.startech.com.bd/intel-core-i5-10500t-processor"
       },
       {
         "name": "AMD Ryzen 5 5600 Processor",
-        "price_bdt": 12200,
+        "price_bdt": 12100,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor"
       },
       {
@@ -80,27 +80,27 @@
       },
       {
         "name": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
-        "price_bdt": 13500,
+        "price_bdt": 13400,
         "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor"
       },
       {
         "name": "AMD Ryzen 5 5600X Processor",
-        "price_bdt": 13999,
+        "price_bdt": 13700,
         "url": "https://www.startech.com.bd/amd-ryzen-5-5600x-processor"
       },
       {
         "name": "AMD Ryzen 5 7500F Processor",
-        "price_bdt": 13800,
+        "price_bdt": 13700,
         "url": "https://www.startech.com.bd/amd-ryzen-5-7500f-processor"
       },
       {
         "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
-        "price_bdt": 13900,
+        "price_bdt": 13800,
         "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-alder-lake-processor"
       },
       {
         "name": "Intel Core i3 14100 14th Gen Raptor Lake Processor",
-        "price_bdt": 13500,
+        "price_bdt": 13400,
         "url": "https://www.startech.com.bd/intel-core-i3-14100-14th-gen-processor"
       }
     ],
@@ -386,7 +386,7 @@
       },
       {
         "name": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 8600,
+        "price_bdt": 8550,
         "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram"
       },
       {
@@ -621,21 +621,6 @@
         "url": "https://www.startech.com.bd/msi-meg-maestro-900r-casing"
       },
       {
-        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display Black",
-        "price_bdt": 7000,
-        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing"
-      },
-      {
-        "name": "T-Wolf AKUMA ARGB Curved ATX Gaming Casing with Display",
-        "price_bdt": 16500,
-        "url": "https://www.startech.com.bd/t-wolf-akuma-argb-curved-gaming-casing"
-      },
-      {
-        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
-        "price_bdt": 6600,
-        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
-      },
-      {
         "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing Black",
         "price_bdt": 6000,
         "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing"
@@ -644,6 +629,21 @@
         "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display White",
         "price_bdt": 7200,
         "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing-white"
+      },
+      {
+        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
+        "price_bdt": 6600,
+        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
+      },
+      {
+        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display Black",
+        "price_bdt": 7000,
+        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing"
+      },
+      {
+        "name": "T-Wolf AKUMA ARGB Curved ATX Gaming Casing with Display",
+        "price_bdt": 16500,
+        "url": "https://www.startech.com.bd/t-wolf-akuma-argb-curved-gaming-casing"
       },
       {
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
