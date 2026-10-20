@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:44:59.900990+00:00",
+  "updated_at": "2026-10-20T11:15:41.347932+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -224,7 +224,7 @@
       },
       {
         "name": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
-        "price_bdt": 7999,
+        "price_bdt": 7800,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
       },
       {
@@ -264,12 +264,12 @@
       },
       {
         "name": "MSI PRO H610M-S DDR4 II mATX Motherboard",
-        "price_bdt": 9900,
+        "price_bdt": 9700,
         "url": "https://www.startech.com.bd/msi-pro-h610m-s-ddr4-ii-matx-motherboard"
       },
       {
         "name": "MSI H410M A Pro Intel 10th Gen Micro-ATX Motherboard",
-        "price_bdt": 10500,
+        "price_bdt": 10200,
         "url": "https://www.startech.com.bd/msi-h410m-a-pro-motherboard"
       },
       {
@@ -311,7 +311,7 @@
     "ram": [
       {
         "name": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
-        "price_bdt": 3200,
+        "price_bdt": 3150,
         "url": "https://www.startech.com.bd/ocpc-vs-8gb-ddr3-ram"
       },
       {
@@ -396,7 +396,7 @@
       },
       {
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
-        "price_bdt": 8699,
+        "price_bdt": 9440,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram"
       },
       {
@@ -565,7 +565,7 @@
       },
       {
         "name": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
-        "price_bdt": 2500,
+        "price_bdt": 2300,
         "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
       },
       {
@@ -594,11 +594,6 @@
         "url": "https://www.startech.com.bd/gamdias-aura-gp650-power-supply"
       },
       {
-        "name": "Gamdias HELIOS M1-500B 500W 80 Plus Bronze Power Supply",
-        "price_bdt": 3800,
-        "url": "https://www.startech.com.bd/gamdias-helios-m1-500b-power-supply"
-      },
-      {
         "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
         "price_bdt": 4000,
         "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
@@ -612,6 +607,11 @@
         "name": "DeepCool PF500X 500W 80 Plus Bronze Non-Modular ATX Power Supply",
         "price_bdt": 4499,
         "url": "https://www.startech.com.bd/deepcool-pf500x-500w-power-supply"
+      },
+      {
+        "name": "Cougar SC550 550W 80+ EU Standard Certified Power Supply",
+        "price_bdt": 4800,
+        "url": "https://www.startech.com.bd/cougar-sc550-550w-power-supply"
       }
     ],
     "casing": [
@@ -814,7 +814,7 @@
       },
       {
         "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 9200,
+        "price_bdt": 8299,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
       }
     ],
@@ -983,12 +983,12 @@
       },
       {
         "name": "Logitech B100 Optical USB Mouse",
-        "price_bdt": 370,
+        "price_bdt": 430,
         "url": "https://www.startech.com.bd/Logitech-B100-Optical-USB-Mouse-new"
       },
       {
         "name": "Logitech M90 USB Mouse",
-        "price_bdt": 370,
+        "price_bdt": 430,
         "url": "https://www.startech.com.bd/Logitech-M90-USB-MOUSE"
       },
       {
