@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:31:38.847237+00:00",
+  "updated_at": "2026-10-22T11:31:26.960987+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -213,11 +213,6 @@
         "url": "https://www.startech.com.bd/xenthra-xn-h81m-vh-motherboard"
       },
       {
-        "name": "ASRock A520M-HVS AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 6500,
-        "url": "https://www.startech.com.bd/asrock-a520m-hvs-motherboard"
-      },
-      {
         "name": "XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard",
         "price_bdt": 7200,
         "url": "https://www.startech.com.bd/xenthra-xn-b450m-vh-pro-motherboard"
@@ -226,11 +221,6 @@
         "name": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
         "price_bdt": 7800,
         "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard"
-      },
-      {
-        "name": "GIGABYTE A520M K V2 AM4 Micro ATX Motherboard",
-        "price_bdt": 8200,
-        "url": "https://www.startech.com.bd/gigabyte-a520m-k-v2-motherboard"
       },
       {
         "name": "Asus PRIME A520M-R AM4 micro ATX Motherboard",
@@ -306,6 +296,16 @@
         "name": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
         "price_bdt": 10499,
         "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard"
+      },
+      {
+        "name": "GIGABYTE H610M H DDR4 Micro ATX Motherboard",
+        "price_bdt": 10499,
+        "url": "https://www.startech.com.bd/gigabyte-h610m-h-ddr4-motherboard"
+      },
+      {
+        "name": "ASUS PRIME H610M-R D4 DDR4 LGA1700 mATX Motherboard",
+        "price_bdt": 10700,
+        "url": "https://www.startech.com.bd/asus-prime-h610m-r-d4-motherboard"
       }
     ],
     "ram": [
@@ -437,11 +437,6 @@
         "url": "https://www.startech.com.bd/ocpc-xtl-200-128gb-ssd"
       },
       {
-        "name": "Netac N930E Pro 128GB NVMe M.2 2280 SSD",
-        "price_bdt": 4000,
-        "url": "https://www.startech.com.bd/netac-n930e-pro-128gb-ssd"
-      },
-      {
         "name": "Netac N930ES 128GB M.2 NVMe PCIe 2242 SSD",
         "price_bdt": 3800,
         "url": "https://www.startech.com.bd/netac-n930es-128gb-m-2-nvme-pcie-ssd"
@@ -510,6 +505,11 @@
         "name": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd"
+      },
+      {
+        "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
+        "price_bdt": 6390,
+        "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
       }
     ],
     "power-supply": [
