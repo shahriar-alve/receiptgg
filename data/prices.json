@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T11:31:26.960987+00:00",
+  "updated_at": "2026-10-23T11:21:05.172565+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -463,7 +463,7 @@
       },
       {
         "name": "TwinMOS H2 Ultra 256GB SATA III SSD",
-        "price_bdt": 5650,
+        "price_bdt": 6400,
         "url": "https://www.startech.com.bd/twinmos-h2-ultra-256gb-ssd"
       },
       {
@@ -783,11 +783,6 @@
         "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
       },
       {
-        "name": "Eurovision EV-GT2200-F 21.45\" 100Hz FHD IPS Monitor",
-        "price_bdt": 7900,
-        "url": "https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor"
-      },
-      {
         "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
         "price_bdt": 8499,
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
@@ -808,14 +803,19 @@
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
+        "name": "PC Power PCGMX22F120B 21.45\" IPS FHD 120Hz Monitor",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120b-monitor"
+      },
+      {
+        "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
+        "price_bdt": 9200,
+        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
+      },
+      {
         "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
         "price_bdt": 9500,
         "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
-      },
-      {
-        "name": "Dahua DHI-LM22-A201YFW 21.5\" IPS Full HD 100Hz Monitor",
-        "price_bdt": 8299,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yfw-21-ips-fhd-monitor"
       }
     ],
     "keyboard": [
@@ -876,7 +876,7 @@
       },
       {
         "name": "T-WOLF K220 Wired Keyboard with Bangla",
-        "price_bdt": 499,
+        "price_bdt": 489,
         "url": "https://www.startech.com.bd/t-wolf-k220-wired-keyboard"
       },
       {
