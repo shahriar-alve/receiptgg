@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:21:05.172565+00:00",
+  "updated_at": "2026-10-24T10:40:41.824992+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -310,6 +310,11 @@
     ],
     "ram": [
       {
+        "name": "Corsair VENGEANCE RGB 16GB DDR5 7200MHz Desktop RAM",
+        "price_bdt": 35500,
+        "url": "https://www.startech.com.bd/corsair-vengeance-rgb-16gb-ddr5-7200mhz-desktop-ram"
+      },
+      {
         "name": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
         "price_bdt": 3150,
         "url": "https://www.startech.com.bd/ocpc-vs-8gb-ddr3-ram"
@@ -403,14 +408,14 @@
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
         "price_bdt": 8700,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
-      },
-      {
-        "name": "AITC Kingsman RGB 8GB DDR4 3200MHz Gaming Desktop RAM",
-        "price_bdt": 8800,
-        "url": "https://www.startech.com.bd/aitc-kingsman-rgb-8gb-ddr4-ram"
       }
     ],
     "ssd": [
+      {
+        "name": "OSCOO ON1000X 1TB PCIe Gen4 M.2 NVMe SSD",
+        "price_bdt": 21300,
+        "url": "https://www.startech.com.bd/oscoo-on1000x-1tb-ssd"
+      },
       {
         "name": "Netac SA500 128GB 2.5-inch SATAIII SSD",
         "price_bdt": 3400,
@@ -505,11 +510,6 @@
         "name": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd"
-      },
-      {
-        "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
-        "price_bdt": 6390,
-        "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
       }
     ],
     "power-supply": [
@@ -559,6 +559,16 @@
         "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply"
       },
       {
+        "name": "Ocypus BETA P350S 350W Non Modular ATX Power Supply",
+        "price_bdt": 1300,
+        "url": "https://www.startech.com.bd/ocypus-beta-p350s-350w-power-supply"
+      },
+      {
+        "name": "Ocypus BETA P600S 600W Non Modular ATX Power Supply",
+        "price_bdt": 1300,
+        "url": "https://www.startech.com.bd/ocypus-beta-p600s-600w-power-supply"
+      },
+      {
         "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
         "price_bdt": 2950,
         "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply"
@@ -602,38 +612,23 @@
         "name": "Xigmatek Odin 500W 80 Plus Power Supply",
         "price_bdt": 4200,
         "url": "https://www.startech.com.bd/xigmatek-odin-500w-80-plus-power-supply"
-      },
-      {
-        "name": "DeepCool PF500X 500W 80 Plus Bronze Non-Modular ATX Power Supply",
-        "price_bdt": 4499,
-        "url": "https://www.startech.com.bd/deepcool-pf500x-500w-power-supply"
-      },
-      {
-        "name": "Cougar SC550 550W 80+ EU Standard Certified Power Supply",
-        "price_bdt": 4800,
-        "url": "https://www.startech.com.bd/cougar-sc550-550w-power-supply"
       }
     ],
     "casing": [
       {
-        "name": "MSI MEG MAESTRO 900R ARGB EATX Full Tower Gaming Casing",
-        "price_bdt": 130000,
-        "url": "https://www.startech.com.bd/msi-meg-maestro-900r-casing"
+        "name": "MSI PAG PANO M110A Micro-ATX Mid Tower Gaming Casing",
+        "price_bdt": 3800,
+        "url": "https://www.startech.com.bd/msi-pag-pano-m110a-casing"
       },
       {
-        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing Black",
-        "price_bdt": 6400,
-        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing"
+        "name": "MSI MAG FORGE 321R AIRFLOW Mid-Tower ATX Gaming Case",
+        "price_bdt": 7700,
+        "url": "https://www.startech.com.bd/msi-mag-forge-321r-airflow-gaming-case"
       },
       {
-        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display White",
-        "price_bdt": 7200,
-        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing-white"
-      },
-      {
-        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
-        "price_bdt": 6600,
-        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
+        "name": "T-Wolf AKUMA ARGB Curved ATX Gaming Casing with Display",
+        "price_bdt": 16500,
+        "url": "https://www.startech.com.bd/t-wolf-akuma-argb-curved-gaming-casing"
       },
       {
         "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display Black",
@@ -641,9 +636,19 @@
         "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing"
       },
       {
-        "name": "T-Wolf AKUMA ARGB Curved ATX Gaming Casing with Display",
-        "price_bdt": 16500,
-        "url": "https://www.startech.com.bd/t-wolf-akuma-argb-curved-gaming-casing"
+        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing Black",
+        "price_bdt": 6400,
+        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing"
+      },
+      {
+        "name": "T-Wolf YORU ARGB Mid-Tower ATX Gaming Casing White",
+        "price_bdt": 6600,
+        "url": "https://www.startech.com.bd/t-wolf-yoru-argb-gaming-casing-white"
+      },
+      {
+        "name": "T-Wolf Spector ARGB Curved ATX Gaming Casing with Display White",
+        "price_bdt": 7200,
+        "url": "https://www.startech.com.bd/t-wolf-spector-argb-curved-gaming-casing-white"
       },
       {
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
@@ -709,11 +714,6 @@
         "name": "MaxGreen Entice G4 Pro Mid-Tower m-ATX Casing With PSU",
         "price_bdt": 2600,
         "url": "https://www.startech.com.bd/maxgreen-entice-g4-pro-casing"
-      },
-      {
-        "name": "MaxGreen H12 Mid-Tower m-ATX Casing With PSU",
-        "price_bdt": 2600,
-        "url": "https://www.startech.com.bd/maxgreen-h12-m-atx-casing"
       }
     ],
     "monitor": [
@@ -808,14 +808,14 @@
         "url": "https://www.startech.com.bd/pc-power-pcgmx22f120b-monitor"
       },
       {
-        "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
-        "price_bdt": 9200,
-        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
-      },
-      {
         "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
         "price_bdt": 9500,
         "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
+      },
+      {
+        "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
       }
     ],
     "keyboard": [
