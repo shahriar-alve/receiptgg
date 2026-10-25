@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24T10:40:41.824992+00:00",
+  "updated_at": "2026-10-25T11:05:12.649246+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
       {
         "name": "AMD Athlon PRO 300GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics (Rebox)",
-        "price_bdt": 3990,
+        "price_bdt": 3499,
         "url": "https://www.startech.com.bd/amd-athlon-pro-300ge-processor"
       },
       {
@@ -554,6 +554,11 @@
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
+        "name": "Ocypus BETA P600S 600W Non Modular ATX Power Supply",
+        "price_bdt": 1300,
+        "url": "https://www.startech.com.bd/ocypus-beta-p600s-600w-power-supply"
+      },
+      {
         "name": "Ocypus BETA P400 400W Non Modular ATX Power Supply",
         "price_bdt": 2800,
         "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply"
@@ -562,11 +567,6 @@
         "name": "Ocypus BETA P350S 350W Non Modular ATX Power Supply",
         "price_bdt": 1300,
         "url": "https://www.startech.com.bd/ocypus-beta-p350s-350w-power-supply"
-      },
-      {
-        "name": "Ocypus BETA P600S 600W Non Modular ATX Power Supply",
-        "price_bdt": 1300,
-        "url": "https://www.startech.com.bd/ocypus-beta-p600s-600w-power-supply"
       },
       {
         "name": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
@@ -763,6 +763,11 @@
         "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor"
       },
       {
+        "name": "PC Power PCGMX22F120B 21.45\" IPS FHD 120Hz Monitor",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120b-monitor"
+      },
+      {
         "name": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
         "price_bdt": 8699,
         "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor"
@@ -798,24 +803,19 @@
         "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
       },
       {
+        "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
+        "price_bdt": 8700,
+        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
+      },
+      {
         "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
         "price_bdt": 8999,
         "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
       },
       {
-        "name": "PC Power PCGMX22F120B 21.45\" IPS FHD 120Hz Monitor",
-        "price_bdt": 8500,
-        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120b-monitor"
-      },
-      {
         "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
         "price_bdt": 9500,
         "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
-      },
-      {
-        "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
-        "price_bdt": 8700,
-        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
       }
     ],
     "keyboard": [
@@ -838,6 +838,11 @@
         "name": "IMICE AN-500 Wireless Keyboard Mouse Combo",
         "price_bdt": 1700,
         "url": "https://www.startech.com.bd/imice-an-500-wireless-combo"
+      },
+      {
+        "name": "M1 Pro Plus 5 in 1 Keyboard Mouse Combo For Mobile Gaming",
+        "price_bdt": 710,
+        "url": "https://www.startech.com.bd/m1-pro-plus-combo"
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
@@ -913,11 +918,6 @@
         "name": "Meetion MT-K400 Mini Wired Keyboard with Bangla",
         "price_bdt": 650,
         "url": "https://www.startech.com.bd/meetion-mt-k400-mini-keyboard"
-      },
-      {
-        "name": "Meetion MT-K300 Wired Keyboard with Bangla",
-        "price_bdt": 660,
-        "url": "https://www.startech.com.bd/meetion-mt-k300-wired-keyboard"
       }
     ],
     "mouse": [
