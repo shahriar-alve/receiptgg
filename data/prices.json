@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:05:12.649246+00:00",
+  "updated_at": "2026-10-26T12:38:14.077756+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -452,11 +452,6 @@
         "url": "https://www.startech.com.bd/silicon-power-p34a60-128gb-gen3-ssd"
       },
       {
-        "name": "Biostar S160 256GB 2.5-inch SATAIII SSD",
-        "price_bdt": 5199,
-        "url": "https://www.startech.com.bd/biostar-s160-256gb-ssd"
-      },
-      {
         "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
         "price_bdt": 5450,
         "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd"
@@ -510,6 +505,11 @@
         "name": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
         "price_bdt": 6500,
         "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd"
+      },
+      {
+        "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
+        "price_bdt": 6390,
+        "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
       }
     ],
     "power-supply": [
@@ -540,7 +540,7 @@
       },
       {
         "name": "Gamdias AURA GP300 300W Power Supply",
-        "price_bdt": 1900,
+        "price_bdt": 2300,
         "url": "https://www.startech.com.bd/gamdias-aura-gp300-power-supply"
       },
       {
@@ -555,7 +555,7 @@
       },
       {
         "name": "Ocypus BETA P600S 600W Non Modular ATX Power Supply",
-        "price_bdt": 1300,
+        "price_bdt": 2650,
         "url": "https://www.startech.com.bd/ocypus-beta-p600s-600w-power-supply"
       },
       {
@@ -565,7 +565,7 @@
       },
       {
         "name": "Ocypus BETA P350S 350W Non Modular ATX Power Supply",
-        "price_bdt": 1300,
+        "price_bdt": 1600,
         "url": "https://www.startech.com.bd/ocypus-beta-p350s-350w-power-supply"
       },
       {
@@ -702,17 +702,17 @@
       },
       {
         "name": "MaxGreen Entice G1 Pro m-ATX Mid Tower Casing With PSU",
-        "price_bdt": 2600,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-entice-g1-pro-casing"
       },
       {
         "name": "MaxGreen Entice G2 Pro Mid-Tower mATX Casing With PSU",
-        "price_bdt": 2600,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-entice-g2-pro-casing"
       },
       {
         "name": "MaxGreen Entice G4 Pro Mid-Tower m-ATX Casing With PSU",
-        "price_bdt": 2600,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-entice-g4-pro-casing"
       }
     ],
