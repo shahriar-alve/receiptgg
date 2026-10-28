@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:54:34.559026+00:00",
+  "updated_at": "2026-10-28T12:30:47.053637+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -922,13 +922,18 @@
     ],
     "mouse": [
       {
+        "name": "Xtrike Me GM-322 RGB Gaming Mouse",
+        "price_bdt": 600,
+        "url": "https://www.startech.com.bd/xtrike-me-gm-322-mouse"
+      },
+      {
         "name": "IMICE GK-480 4 In 1 Gaming Kit Combo",
         "price_bdt": 3050,
         "url": "https://www.startech.com.bd/imice-gk-480-4-in-1-gaming-kit-combo"
       },
       {
         "name": "IMICE GK-450 4 In 1 Gaming Combo",
-        "price_bdt": 3050,
+        "price_bdt": 600,
         "url": "https://www.startech.com.bd/imice-gk-450-gaming-combo"
       },
       {
@@ -942,24 +947,24 @@
         "url": "https://www.startech.com.bd/imice-an-500-wireless-combo"
       },
       {
-        "name": "Hoco GM29 Mysterious Dual-Mode Wireless Mouse",
-        "price_bdt": 3050,
-        "url": "https://www.startech.com.bd/hoco-gm29-mouse"
+        "name": "Hoco GM28 Wireless Mouse",
+        "price_bdt": 600,
+        "url": "https://www.startech.com.bd/hoco-gm28-mouse"
       },
       {
         "name": "Hoco GM41 Dual-Mode Wireless Mouse",
-        "price_bdt": 3050,
+        "price_bdt": 600,
         "url": "https://www.startech.com.bd/hoco-gm41-mouse"
       },
       {
-        "name": "Hoco GM42 Platino Wireless Mouse",
-        "price_bdt": 3050,
-        "url": "https://www.startech.com.bd/hoco-gm42-mouse"
+        "name": "Hoco GM29 Mysterious Dual-Mode Wireless Mouse",
+        "price_bdt": 600,
+        "url": "https://www.startech.com.bd/hoco-gm29-mouse"
       },
       {
-        "name": "Hoco GM28 Wireless Mouse",
-        "price_bdt": 3050,
-        "url": "https://www.startech.com.bd/hoco-gm28-mouse"
+        "name": "Hoco GM42 Platino Wireless Mouse",
+        "price_bdt": 600,
+        "url": "https://www.startech.com.bd/hoco-gm42-mouse"
       },
       {
         "name": "Havit HV-MS753 Optical Mouse",
@@ -1015,11 +1020,6 @@
         "name": "Pc Power PCM-316 Wired Mouse",
         "price_bdt": 410,
         "url": "https://www.startech.com.bd/pc-power-pcm-316-wired-mouse"
-      },
-      {
-        "name": "A4TECH OP-720 USB Wired Mouse",
-        "price_bdt": 425,
-        "url": "https://www.startech.com.bd/a4tech-op-720-usb-mouse"
       }
     ]
   }
