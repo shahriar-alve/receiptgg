@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:30:47.053637+00:00",
+  "updated_at": "2026-10-29T12:41:52.243372+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -201,9 +201,9 @@
         "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card"
       },
       {
-        "name": "GIGABYTE Intel Arc A310 WINDFORCE 4G GDDR6 Graphics Card",
-        "price_bdt": 15900,
-        "url": "https://www.startech.com.bd/gigabyte-intel-arc-a310-windforce-4g-graphics-card"
+        "name": "Abit Radeon RX 580 8GB GDDR5 Graphics Card",
+        "price_bdt": 16700,
+        "url": "https://www.startech.com.bd/abit-radeon-rx-580-8gb-graphics-card"
       }
     ],
     "motherboard": [
@@ -519,11 +519,6 @@
         "url": "https://www.startech.com.bd/maxgreen-power-wave-230w-power-supply"
       },
       {
-        "name": "T-Wolf ATX 350W Grey Power Supply With Cable",
-        "price_bdt": 1250,
-        "url": "https://www.startech.com.bd/t-wolf-atx-350w-grey-power-supply"
-      },
-      {
         "name": "MaxGreen Standard Series 200W Power Supply",
         "price_bdt": 1200,
         "url": "https://www.startech.com.bd/maxgreen-standard-series-200w-power-supply"
@@ -612,6 +607,11 @@
         "name": "Xigmatek Odin 500W 80 Plus Power Supply",
         "price_bdt": 4200,
         "url": "https://www.startech.com.bd/xigmatek-odin-500w-80-plus-power-supply"
+      },
+      {
+        "name": "DeepCool PF500X 500W 80 Plus Bronze Non-Modular ATX Power Supply",
+        "price_bdt": 4499,
+        "url": "https://www.startech.com.bd/deepcool-pf500x-500w-power-supply"
       }
     ],
     "casing": [
