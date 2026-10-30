@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:41:52.243372+00:00",
+  "updated_at": "2026-10-30T12:33:25.728758+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -696,6 +696,11 @@
         "url": "https://www.startech.com.bd/pc-power-pc401-micro-atx-casing"
       },
       {
+        "name": "PC Power PC400+ BK Mini Tower Casing With PSU",
+        "price_bdt": 2850,
+        "url": "https://www.startech.com.bd/pc-power-pc400-plus-bk-casing"
+      },
+      {
         "name": "Golden Field 1718B Mid Tower Micro-ATX Casing with PSU",
         "price_bdt": 2600,
         "url": "https://www.startech.com.bd/golden-field-1718b-casing-with-psu"
@@ -709,11 +714,6 @@
         "name": "MaxGreen Entice G2 Pro Mid-Tower mATX Casing With PSU",
         "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-entice-g2-pro-casing"
-      },
-      {
-        "name": "MaxGreen Entice G4 Pro Mid-Tower m-ATX Casing With PSU",
-        "price_bdt": 2500,
-        "url": "https://www.startech.com.bd/maxgreen-entice-g4-pro-casing"
       }
     ],
     "monitor": [
