@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:33:25.728758+00:00",
+  "updated_at": "2026-10-31T11:59:30.360400+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -535,7 +535,7 @@
       },
       {
         "name": "Gamdias AURA GP300 300W Power Supply",
-        "price_bdt": 2300,
+        "price_bdt": 1900,
         "url": "https://www.startech.com.bd/gamdias-aura-gp300-power-supply"
       },
       {
@@ -594,11 +594,6 @@
         "url": "https://www.startech.com.bd/solitine-stn-rp450bz-450w-power-supply"
       },
       {
-        "name": "Gamdias AURA GP650 650W Power Supply",
-        "price_bdt": 3900,
-        "url": "https://www.startech.com.bd/gamdias-aura-gp650-power-supply"
-      },
-      {
         "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
         "price_bdt": 4000,
         "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
@@ -612,6 +607,11 @@
         "name": "DeepCool PF500X 500W 80 Plus Bronze Non-Modular ATX Power Supply",
         "price_bdt": 4499,
         "url": "https://www.startech.com.bd/deepcool-pf500x-500w-power-supply"
+      },
+      {
+        "name": "Cougar SC550 550W 80+ EU Standard Certified Power Supply",
+        "price_bdt": 4800,
+        "url": "https://www.startech.com.bd/cougar-sc550-550w-power-supply"
       }
     ],
     "casing": [
