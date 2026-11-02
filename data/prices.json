@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T12:59:46.964792+00:00",
+  "updated_at": "2026-11-02T15:21:08.031421+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -239,7 +239,7 @@
       },
       {
         "name": "Gigabyte H410M H 10th Gen Micro ATX Motherboard",
-        "price_bdt": 9800,
+        "price_bdt": 9200,
         "url": "https://www.startech.com.bd/gigabyte-h410m-h-motherboard"
       },
       {
@@ -336,7 +336,7 @@
       },
       {
         "name": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 7500,
+        "price_bdt": 7200,
         "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram"
       },
       {
@@ -401,7 +401,7 @@
       },
       {
         "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
-        "price_bdt": 9440,
+        "price_bdt": 8699,
         "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram"
       },
       {
@@ -498,17 +498,17 @@
       },
       {
         "name": "AITC KINGSMAN SK350 256GB 2.5\" SATA III SSD",
-        "price_bdt": 6300,
+        "price_bdt": 1000,
         "url": "https://www.startech.com.bd/aitc-kingsman-sk350-256gb-sata-ssd"
       },
       {
         "name": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
-        "price_bdt": 6500,
+        "price_bdt": 6300,
         "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd"
       },
       {
         "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
-        "price_bdt": 6390,
+        "price_bdt": 6200,
         "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
       }
     ],
@@ -922,9 +922,19 @@
     ],
     "mouse": [
       {
+        "name": "Xtrike Me GM-326 Wired RGB Gaming Mouse",
+        "price_bdt": 800,
+        "url": "https://www.startech.com.bd/xtrike-me-gm-326-wired-rgb-gaming-mouse"
+      },
+      {
         "name": "Xtrike Me GM-322 RGB Gaming Mouse",
         "price_bdt": 600,
         "url": "https://www.startech.com.bd/xtrike-me-gm-322-mouse"
+      },
+      {
+        "name": "Xtrike Me GM-325 Wired RGB Gaming Mouse",
+        "price_bdt": 950,
+        "url": "https://www.startech.com.bd/xtrike-me-gm-325-wired-rgb-gaming-mouse"
       },
       {
         "name": "IMICE GK-480 4 In 1 Gaming Kit Combo",
@@ -933,7 +943,7 @@
       },
       {
         "name": "IMICE GK-450 4 In 1 Gaming Combo",
-        "price_bdt": 600,
+        "price_bdt": 800,
         "url": "https://www.startech.com.bd/imice-gk-450-gaming-combo"
       },
       {
@@ -948,22 +958,22 @@
       },
       {
         "name": "Hoco GM28 Wireless Mouse",
-        "price_bdt": 600,
+        "price_bdt": 800,
         "url": "https://www.startech.com.bd/hoco-gm28-mouse"
       },
       {
         "name": "Hoco GM41 Dual-Mode Wireless Mouse",
-        "price_bdt": 600,
+        "price_bdt": 800,
         "url": "https://www.startech.com.bd/hoco-gm41-mouse"
       },
       {
         "name": "Hoco GM29 Mysterious Dual-Mode Wireless Mouse",
-        "price_bdt": 600,
+        "price_bdt": 800,
         "url": "https://www.startech.com.bd/hoco-gm29-mouse"
       },
       {
         "name": "Hoco GM42 Platino Wireless Mouse",
-        "price_bdt": 600,
+        "price_bdt": 800,
         "url": "https://www.startech.com.bd/hoco-gm42-mouse"
       },
       {
@@ -1010,16 +1020,6 @@
         "name": "Havit MS72 Cool RGB LED USB Gaming Mouse Black",
         "price_bdt": 365,
         "url": "https://www.startech.com.bd/havit-ms72-cool-mouse"
-      },
-      {
-        "name": "Pc Power PCM-315 Wired Mouse",
-        "price_bdt": 349,
-        "url": "https://www.startech.com.bd/pc-power-pcm-315-wired-mouse"
-      },
-      {
-        "name": "Pc Power PCM-316 Wired Mouse",
-        "price_bdt": 410,
-        "url": "https://www.startech.com.bd/pc-power-pcm-316-wired-mouse"
       }
     ]
   }
