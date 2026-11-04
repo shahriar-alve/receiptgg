@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:56:05.734499+00:00",
+  "updated_at": "2026-11-04T14:09:16.472452+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -311,7 +311,7 @@
     "ram": [
       {
         "name": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
-        "price_bdt": 3150,
+        "price_bdt": 3200,
         "url": "https://www.startech.com.bd/ocpc-vs-8gb-ddr3-ram"
       },
       {
@@ -447,11 +447,6 @@
         "url": "https://www.startech.com.bd/silicon-power-p34a60-128gb-gen3-ssd"
       },
       {
-        "name": "Netac N535S 240GB 2.5-inch SATAIII SSD",
-        "price_bdt": 4000,
-        "url": "https://www.startech.com.bd/netac-n535s-240gb-ssd"
-      },
-      {
         "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
         "price_bdt": 5450,
         "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd"
@@ -510,6 +505,11 @@
         "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
         "price_bdt": 6200,
         "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
+      },
+      {
+        "name": "Netac N535N 256GB M.2 2280 SSD",
+        "price_bdt": 5500,
+        "url": "https://www.startech.com.bd/netac-n535n-256gb-ssd"
       }
     ],
     "power-supply": [
@@ -622,7 +622,7 @@
       },
       {
         "name": "MaxGreen H6 M-ATX Case with 200W Standard PSU",
-        "price_bdt": 2399,
+        "price_bdt": 2390,
         "url": "https://www.startech.com.bd/maxgreen-h6-mid-tower-atx-case"
       },
       {
@@ -637,7 +637,7 @@
       },
       {
         "name": "MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply",
-        "price_bdt": 2500,
+        "price_bdt": 2490,
         "url": "https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing"
       },
       {
@@ -697,7 +697,7 @@
       },
       {
         "name": "MaxGreen 190B Mid-Tower mATX Casing",
-        "price_bdt": 2700,
+        "price_bdt": 2600,
         "url": "https://www.startech.com.bd/maxgreen-190b-mid-tower-casing"
       },
       {
