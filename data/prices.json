@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T14:09:16.472452+00:00",
+  "updated_at": "2026-11-05T14:25:45.826150+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -605,7 +605,7 @@
       },
       {
         "name": "Gigabyte P450B 450W 80 Plus Bronze Certified Power Supply",
-        "price_bdt": 3900,
+        "price_bdt": 4200,
         "url": "https://www.startech.com.bd/gigabyte-p450b-power-supply"
       },
       {
@@ -1007,11 +1007,6 @@
         "url": "https://www.startech.com.bd/havit-ms1014-wired-gaming-mouse"
       },
       {
-        "name": "Xtrike Me GW-322 RGB Wireless Gaming Mouse",
-        "price_bdt": 860,
-        "url": "https://www.startech.com.bd/xtrike-me-gw-322-mouse"
-      },
-      {
         "name": "Fantech WG10 Raigor II Wirless Gaming Mouse",
         "price_bdt": 849,
         "url": "https://www.startech.com.bd/fantech-wg10-raigor-ii-mouse"
@@ -1020,6 +1015,11 @@
         "name": "Xtrike Me GM-226 RGB Gaming Mouse",
         "price_bdt": 900,
         "url": "https://www.startech.com.bd/xtrike-me-gm-226-gaming-mouse"
+      },
+      {
+        "name": "Inphic M8P Silent Wireless Mouse",
+        "price_bdt": 900,
+        "url": "https://www.startech.com.bd/inphic-m8p-wireless-mouse"
       }
     ]
   }
