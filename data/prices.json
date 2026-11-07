@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:01:51.142126+00:00",
+  "updated_at": "2026-11-07T12:45:41.208485+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -401,7 +401,7 @@
       },
       {
         "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
-        "price_bdt": 8300,
+        "price_bdt": 8700,
         "url": "https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz"
       },
       {
@@ -585,7 +585,7 @@
       },
       {
         "name": "Antec META V350 350W Power Supply",
-        "price_bdt": 2700,
+        "price_bdt": 3100,
         "url": "https://www.startech.com.bd/antec-meta-v350-power-supply"
       },
       {
@@ -723,9 +723,19 @@
         "url": "https://www.startech.com.bd/gigasonic-rda-1707w-monitor"
       },
       {
+        "name": "KTC H15F9 15.6\" 60Hz FHD IPS Monitor",
+        "price_bdt": 12250,
+        "url": "https://www.startech.com.bd/ktc-h15f9-monitor"
+      },
+      {
         "name": "Gigasonic RB-G185S-300C 18.5\" HD LED Monitor",
         "price_bdt": 4999,
         "url": "https://www.startech.com.bd/gigasonic-rb-g185s-300c-monitor"
+      },
+      {
+        "name": "KTC H24F7 23.8\" 240Hz FHD Fast IPS Gaming Monitor",
+        "price_bdt": 15400,
+        "url": "https://www.startech.com.bd/ktc-h24f7-gaming-monitor"
       },
       {
         "name": "Gigasonic RB-G20S-400C 20 Inch HD LED Monitor",
@@ -733,9 +743,24 @@
         "url": "https://www.startech.com.bd/gigasonic-rb-g20s-400c-monitor"
       },
       {
+        "name": "KTC H27F7 27\" 240Hz FHD Fast IPS Gaming Monitor",
+        "price_bdt": 19500,
+        "url": "https://www.startech.com.bd/ktc-h27f7-27-inch-gaming-monitor"
+      },
+      {
         "name": "Gigasonic RB-G215S-400C 21.5\" FHD LED Monitor",
         "price_bdt": 6400,
         "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor"
+      },
+      {
+        "name": "KTC H27T7P 27\" 2K 200Hz QHD Fast IPS Gaming Monitor",
+        "price_bdt": 24750,
+        "url": "https://www.startech.com.bd/ktc-h27t7p-27-inch-gaming-monitor"
+      },
+      {
+        "name": "KTC M27E6S 27\" 2K 240Hz QHD Fast IPS Gaming Monitor",
+        "price_bdt": 42500,
+        "url": "https://www.startech.com.bd/ktc-m27e6s-27-inch-240hz-gaming-monitor"
       },
       {
         "name": "Gigasonic GS-21.5FHD500S9 21.5\" 75Hz FHD IPS Gaming Monitor",
@@ -746,6 +771,11 @@
         "name": "Gigasonic GS-21.5FHD500S9 21.5\" 75Hz FHD IPS Gaming Monitor White",
         "price_bdt": 7500,
         "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-75hz-monitor-white"
+      },
+      {
+        "name": "KTC H34S5 34\" 2K 180Hz WQHD HVA Curved Gaming Monitor",
+        "price_bdt": 43000,
+        "url": "https://www.startech.com.bd/ktc-h34s5-34-inch-180hz-curved-monitor"
       },
       {
         "name": "Dahua DHI-LM19-L200N 19.5\" 75Hz HD+ Monitor",
@@ -786,42 +816,12 @@
         "name": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
         "price_bdt": 8999,
         "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor"
-      },
-      {
-        "name": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
-        "price_bdt": 8499,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor"
-      },
-      {
-        "name": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
-        "price_bdt": 8799,
-        "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor"
-      },
-      {
-        "name": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 9200,
-        "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor"
-      },
-      {
-        "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
-        "price_bdt": 8700,
-        "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
-      },
-      {
-        "name": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
-        "price_bdt": 8999,
-        "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor"
-      },
-      {
-        "name": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
-        "price_bdt": 9500,
-        "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white"
       }
     ],
     "keyboard": [
       {
         "name": "Meetion MT-K9320 Waterproof Backlit Gaming Keyboard",
-        "price_bdt": 849,
+        "price_bdt": 799,
         "url": "https://www.startech.com.bd/meetion-mt-k9320-gaming-keyboard"
       },
       {
