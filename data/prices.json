@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:45:41.208485+00:00",
+  "updated_at": "2026-11-08T13:04:35.090610+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -181,11 +181,6 @@
         "url": "https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card"
       },
       {
-        "name": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
-        "price_bdt": 12800,
-        "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card"
-      },
-      {
         "name": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
         "price_bdt": 14500,
         "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card"
@@ -204,6 +199,11 @@
         "name": "Abit Radeon RX 580 8GB GDDR5 Graphics Card",
         "price_bdt": 16700,
         "url": "https://www.startech.com.bd/abit-radeon-rx-580-8gb-graphics-card"
+      },
+      {
+        "name": "AFOX NVIDIA GeForce GTX 750 Ti 4GB GDDR5 Graphics Card",
+        "price_bdt": 18000,
+        "url": "https://www.startech.com.bd/afox-gtx-750-ti-4gb-graphics-card"
       }
     ],
     "motherboard": [
@@ -758,7 +758,7 @@
         "url": "https://www.startech.com.bd/ktc-h27t7p-27-inch-gaming-monitor"
       },
       {
-        "name": "KTC M27E6S 27\" 2K 240Hz QHD Fast IPS Gaming Monitor",
+        "name": "KTC M27E6S 27\" 2K 240Hz Mini LED QHD IPS Gaming Monitor",
         "price_bdt": 42500,
         "url": "https://www.startech.com.bd/ktc-m27e6s-27-inch-240hz-gaming-monitor"
       },
