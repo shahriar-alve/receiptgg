@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:04:35.090610+00:00",
+  "updated_at": "2026-11-09T15:48:02.599720+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -418,7 +418,7 @@
       },
       {
         "name": "Netac N535S 120GB 2.5-inch SATAIII SSD",
-        "price_bdt": 3450,
+        "price_bdt": 3100,
         "url": "https://www.startech.com.bd/netac-n535s-120gb-ssd"
       },
       {
@@ -448,7 +448,7 @@
       },
       {
         "name": "Netac SA500 256GB 2.5-inch SATAIII SSD",
-        "price_bdt": 5450,
+        "price_bdt": 4500,
         "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd"
       },
       {
@@ -539,11 +539,6 @@
         "url": "https://www.startech.com.bd/solitine-stn-sp350wb-350w-power-supply"
       },
       {
-        "name": "MSI MAG A300N-H 300W 80 Plus Non Modular Power Supply",
-        "price_bdt": 2299,
-        "url": "https://www.startech.com.bd/msi-mag-a300n-h-300w-power-supply"
-      },
-      {
         "name": "1STPlayer PS-300FK Non Modular Power Supply",
         "price_bdt": 2000,
         "url": "https://www.startech.com.bd/1stplayer-ps-300fk-power-supply"
@@ -612,6 +607,11 @@
         "name": "Solitine STN-RP450BZ 450W 80 Plus Bronze Power Supply",
         "price_bdt": 4140,
         "url": "https://www.startech.com.bd/solitine-stn-rp450bz-450w-power-supply"
+      },
+      {
+        "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
+        "price_bdt": 4000,
+        "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
       }
     ],
     "casing": [
@@ -622,7 +622,7 @@
       },
       {
         "name": "MaxGreen H6 M-ATX Case with 200W Standard PSU",
-        "price_bdt": 2390,
+        "price_bdt": 2500,
         "url": "https://www.startech.com.bd/maxgreen-h6-mid-tower-atx-case"
       },
       {
@@ -634,11 +634,6 @@
         "name": "Golden Field 2506B Micro-ATX Casing",
         "price_bdt": 2400,
         "url": "https://www.startech.com.bd/golden-field-2506b-micro-atx-casing"
-      },
-      {
-        "name": "MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply",
-        "price_bdt": 2490,
-        "url": "https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing"
       },
       {
         "name": "Antec ST6M ARGB Micro-ATX Mini Tower Casing",
@@ -714,6 +709,11 @@
         "name": "PC Power Pulse Fire X2 m-ATX Mid Tower Casing with 200W PSU",
         "price_bdt": 2700,
         "url": "https://www.startech.com.bd/pc-power-puls-fire-x2-casing"
+      },
+      {
+        "name": "T-Wolf Ice Cooler X5 ARGB  M-ATX Mid Tower Gaming Casing",
+        "price_bdt": 2700,
+        "url": "https://www.startech.com.bd/t-wolf-ice-cooler-x5-argb-gaming-casing"
       }
     ],
     "monitor": [
