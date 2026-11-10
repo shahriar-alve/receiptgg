@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:48:02.599720+00:00",
+  "updated_at": "2026-11-10T14:39:39.615725+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -738,14 +738,14 @@
         "url": "https://www.startech.com.bd/ktc-h24f7-gaming-monitor"
       },
       {
-        "name": "Gigasonic RB-G20S-400C 20 Inch HD LED Monitor",
-        "price_bdt": 5200,
-        "url": "https://www.startech.com.bd/gigasonic-rb-g20s-400c-monitor"
-      },
-      {
         "name": "KTC H27F7 27\" 240Hz FHD Fast IPS Gaming Monitor",
         "price_bdt": 19500,
         "url": "https://www.startech.com.bd/ktc-h27f7-27-inch-gaming-monitor"
+      },
+      {
+        "name": "Gigasonic RB-G20S-400C 20 Inch HD LED Monitor",
+        "price_bdt": 5200,
+        "url": "https://www.startech.com.bd/gigasonic-rb-g20s-400c-monitor"
       },
       {
         "name": "Gigasonic RB-G215S-400C 21.5\" FHD LED Monitor",
@@ -794,7 +794,7 @@
       },
       {
         "name": "PC Power PCGMX22F120B 21.45\" IPS FHD 120Hz Monitor",
-        "price_bdt": 8500,
+        "price_bdt": 8900,
         "url": "https://www.startech.com.bd/pc-power-pcgmx22f120b-monitor"
       },
       {
