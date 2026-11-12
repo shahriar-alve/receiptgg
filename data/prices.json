@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:55:17.493831+00:00",
+  "updated_at": "2026-11-12T14:56:24.242579+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -229,7 +229,7 @@
       },
       {
         "name": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 7800,
+        "price_bdt": 7799,
         "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
       },
       {
@@ -294,7 +294,7 @@
       },
       {
         "name": "MSI H410M A Pro Intel 10th Gen Micro-ATX Motherboard",
-        "price_bdt": 10200,
+        "price_bdt": 9900,
         "url": "https://www.startech.com.bd/msi-h410m-a-pro-motherboard"
       },
       {
@@ -325,18 +325,23 @@
         "url": "https://www.startech.com.bd/netac-basic-4gb-ddr4-2666mhz-desktop-ram"
       },
       {
+        "name": "Corsair VENGEANCE RGB 32GB DDR5 6000MHz CL30 Desktop RAM",
+        "price_bdt": 94000,
+        "url": "https://www.startech.com.bd/corsair-vengeance-rgb-32gb-ddr5-6000mhz-ram"
+      },
+      {
         "name": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
-        "price_bdt": 6500,
+        "price_bdt": 3150,
         "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-2666mhz-desktop-ram"
       },
       {
         "name": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
-        "price_bdt": 7200,
+        "price_bdt": 7499,
         "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram"
       },
       {
         "name": "AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black",
-        "price_bdt": 7500,
+        "price_bdt": 7200,
         "url": "https://www.startech.com.bd/aitc-kingsman-innovator-8gb-ddr4-3200mhz-ram"
       },
       {
@@ -403,11 +408,6 @@
         "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
         "price_bdt": 8700,
         "url": "https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz"
-      },
-      {
-        "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
-        "price_bdt": 8500,
-        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
       }
     ],
     "ssd": [
@@ -534,11 +534,6 @@
         "url": "https://www.startech.com.bd/ocypus-beta-p350s-350w-power-supply"
       },
       {
-        "name": "Solitine STN-SP350WB 350W Power Supply",
-        "price_bdt": 2175,
-        "url": "https://www.startech.com.bd/solitine-stn-sp350wb-350w-power-supply"
-      },
-      {
         "name": "1STPlayer PS-300FK Non Modular Power Supply",
         "price_bdt": 1499,
         "url": "https://www.startech.com.bd/1stplayer-ps-300fk-power-supply"
@@ -612,6 +607,11 @@
         "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
         "price_bdt": 3700,
         "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
+      },
+      {
+        "name": "Xigmatek Odin 500W 80 Plus Power Supply",
+        "price_bdt": 4200,
+        "url": "https://www.startech.com.bd/xigmatek-odin-500w-80-plus-power-supply"
       }
     ],
     "casing": [
@@ -861,7 +861,7 @@
       },
       {
         "name": "Rapoo V50S Wired Gaming Keyboard",
-        "price_bdt": 1300,
+        "price_bdt": 1199,
         "url": "https://www.startech.com.bd/rapoo-v50s-gaming-keyboard"
       },
       {
