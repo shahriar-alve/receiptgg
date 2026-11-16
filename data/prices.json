@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:45:41.670837+00:00",
+  "updated_at": "2026-11-16T15:24:55.142150+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -187,7 +187,7 @@
       },
       {
         "name": "ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Graphics Card",
-        "price_bdt": 38999,
+        "price_bdt": 39500,
         "url": "https://www.startech.com.bd/asus-dual-geforce-rtx-3050-oc-6gb-graphics-card"
       },
       {
@@ -412,11 +412,6 @@
     ],
     "ssd": [
       {
-        "name": "Netac N600S 128GB 2.5-inch SATAIII SSD",
-        "price_bdt": 500,
-        "url": "https://www.startech.com.bd/netac-n600s-128gb-2-5-inch-sataiii-ssd"
-      },
-      {
         "name": "Netac SA500 128GB 2.5-inch SATAIII SSD",
         "price_bdt": 3400,
         "url": "https://www.startech.com.bd/netac-sa500-128-gb-ssd"
@@ -510,6 +505,11 @@
         "name": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
         "price_bdt": 6199,
         "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd"
+      },
+      {
+        "name": "Netac N535N 256GB M.2 2280 SSD",
+        "price_bdt": 4900,
+        "url": "https://www.startech.com.bd/netac-n535n-256gb-ssd"
       }
     ],
     "power-supply": [
@@ -605,7 +605,7 @@
       },
       {
         "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
-        "price_bdt": 3700,
+        "price_bdt": 3649,
         "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
       },
       {
@@ -719,7 +719,7 @@
     "monitor": [
       {
         "name": "ViewSonic VA27G1-H 27\" 144Hz IPS FHD Monitor",
-        "price_bdt": 2501,
+        "price_bdt": 17500,
         "url": "https://www.startech.com.bd/viewsonic-va27g1-h-27-inch-monitor"
       },
       {
@@ -794,7 +794,7 @@
       },
       {
         "name": "HP Series 5 524da 23.8\" 100Hz IPS FHD Monitor",
-        "price_bdt": 17999,
+        "price_bdt": 17500,
         "url": "https://www.startech.com.bd/hp-series-5-524da-24-inch-100hz-ips-fhd-monitor"
       },
       {
