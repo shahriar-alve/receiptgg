@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:24:55.142150+00:00",
+  "updated_at": "2026-11-17T15:46:36.821934+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -202,7 +202,7 @@
       },
       {
         "name": "MSI GeForce RTX 3050 VENTUS 2X E 6G OC GDDR6 Graphics Card",
-        "price_bdt": 38999,
+        "price_bdt": 44500,
         "url": "https://www.startech.com.bd/msi-geforce-rtx-3050-ventus-2x-e-6g-oc-graphics-card"
       }
     ],
@@ -549,11 +549,6 @@
         "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply"
       },
       {
-        "name": "T-Wolf Phantom P500 ATX 500W Power Supply",
-        "price_bdt": 2400,
-        "url": "https://www.startech.com.bd/t-wolf-phantom-p500-500w-power-supply"
-      },
-      {
         "name": "Ocypus BETA P600S 600W Non Modular ATX Power Supply",
         "price_bdt": 2199,
         "url": "https://www.startech.com.bd/ocypus-beta-p600s-600w-power-supply"
@@ -612,6 +607,11 @@
         "name": "Xigmatek Odin 500W 80 Plus Power Supply",
         "price_bdt": 4200,
         "url": "https://www.startech.com.bd/xigmatek-odin-500w-80-plus-power-supply"
+      },
+      {
+        "name": "DeepCool PF500X 500W 80 Plus Bronze Non-Modular ATX Power Supply",
+        "price_bdt": 3950,
+        "url": "https://www.startech.com.bd/deepcool-pf500x-500w-power-supply"
       }
     ],
     "casing": [
@@ -993,12 +993,12 @@
       },
       {
         "name": "Logitech B100 Optical USB Mouse",
-        "price_bdt": 430,
+        "price_bdt": 370,
         "url": "https://www.startech.com.bd/Logitech-B100-Optical-USB-Mouse-new"
       },
       {
         "name": "Logitech M90 USB Mouse",
-        "price_bdt": 430,
+        "price_bdt": 370,
         "url": "https://www.startech.com.bd/Logitech-M90-USB-MOUSE"
       },
       {
