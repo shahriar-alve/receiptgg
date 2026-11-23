@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:23:44.893064+00:00",
+  "updated_at": "2026-11-23T17:49:04.431183+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -234,7 +234,7 @@
       },
       {
         "name": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
-        "price_bdt": 7799,
+        "price_bdt": 9000,
         "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard"
       },
       {
@@ -259,7 +259,7 @@
       },
       {
         "name": "Gigabyte H410M H 10th Gen Micro ATX Motherboard",
-        "price_bdt": 9200,
+        "price_bdt": 9600,
         "url": "https://www.startech.com.bd/gigabyte-h410m-h-motherboard"
       },
       {
@@ -294,7 +294,7 @@
       },
       {
         "name": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
-        "price_bdt": 10499,
+        "price_bdt": 10700,
         "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard"
       },
       {
@@ -304,7 +304,7 @@
       },
       {
         "name": "GIGABYTE H610M H DDR4 Micro ATX Motherboard",
-        "price_bdt": 10499,
+        "price_bdt": 10900,
         "url": "https://www.startech.com.bd/gigabyte-h610m-h-ddr4-motherboard"
       }
     ],
@@ -560,7 +560,7 @@
       },
       {
         "name": "Antec META V350 350W Power Supply",
-        "price_bdt": 2799,
+        "price_bdt": 2790,
         "url": "https://www.startech.com.bd/antec-meta-v350-power-supply"
       },
       {
@@ -820,14 +820,14 @@
     ],
     "keyboard": [
       {
-        "name": "IMICE AN-500 Wireless Keyboard Mouse Combo",
-        "price_bdt": 1700,
-        "url": "https://www.startech.com.bd/imice-an-500-wireless-combo"
-      },
-      {
         "name": "IMICE AN-350 Gaming Keyboard Mouse Combo",
         "price_bdt": 1350,
         "url": "https://www.startech.com.bd/imice-an-350-gaming-combo"
+      },
+      {
+        "name": "IMICE AN-500 Wireless Keyboard Mouse Combo",
+        "price_bdt": 1700,
+        "url": "https://www.startech.com.bd/imice-an-500-wireless-combo"
       },
       {
         "name": "Fantech GO K211 Bangla Keyboard",
