@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T17:49:04.431183+00:00",
+  "updated_at": "2026-11-24T17:21:16.308827+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -413,7 +413,7 @@
     "ssd": [
       {
         "name": "COLORFUL SL300 128GB 2.5'' SATA III SSD",
-        "price_bdt": 3200,
+        "price_bdt": 3000,
         "url": "https://www.startech.com.bd/colorful-sl300-128gb-ssd"
       },
       {
@@ -555,7 +555,7 @@
       },
       {
         "name": "1STPlayer PS-400FK Non Modular Power Supply",
-        "price_bdt": 2399,
+        "price_bdt": 2449,
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
@@ -615,6 +615,11 @@
       }
     ],
     "casing": [
+      {
+        "name": "Antec ST10M Micro-ATX Mini Tower Casing",
+        "price_bdt": 1250,
+        "url": "https://www.startech.com.bd/antec-st10m-casing"
+      },
       {
         "name": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
         "price_bdt": 2300,
@@ -709,11 +714,6 @@
         "name": "T-Wolf Ice Cooler X5 ARGB  M-ATX Mid Tower Gaming Casing",
         "price_bdt": 2700,
         "url": "https://www.startech.com.bd/t-wolf-ice-cooler-x5-argb-gaming-casing"
-      },
-      {
-        "name": "T-Wolf Ice Cooler X5 ARGB  M-ATX Mid Tower Gaming Casing White",
-        "price_bdt": 2700,
-        "url": "https://www.startech.com.bd/t-wolf-ice-cooler-x5-argb-gaming-casing-white"
       }
     ],
     "monitor": [
@@ -789,7 +789,7 @@
       },
       {
         "name": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
-        "price_bdt": 8700,
+        "price_bdt": 8500,
         "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor"
       },
       {
