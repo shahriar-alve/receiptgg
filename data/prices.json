@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:21:16.308827+00:00",
+  "updated_at": "2026-11-25T16:59:50.084688+00:00",
   "source": "startech.com.bd",
   "categories": {
     "processor": [
@@ -284,7 +284,7 @@
       },
       {
         "name": "ASUS PRIME H610M-F D4 R2.0 DDR4 LGA1700 mATX Motherboard",
-        "price_bdt": 10200,
+        "price_bdt": 10300,
         "url": "https://www.startech.com.bd/asus-prime-h610m-f-d4-r2-0-lga1700-motherboard"
       },
       {
@@ -355,11 +355,6 @@
         "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2666mhz-desktop-ram"
       },
       {
-        "name": "Netac Shadow S 8GB DDR4 3200MHz Desktop RAM WHITE",
-        "price_bdt": 7800,
-        "url": "https://www.startech.com.bd/netac-shadow-s-8gb-3200mhz-ram-white"
-      },
-      {
         "name": "TEAM ELITE 8GB 3200MHz DDR4 RAM",
         "price_bdt": 7950,
         "url": "https://www.startech.com.bd/team-elite-8gb-3200mhz-ddr4-ram"
@@ -408,6 +403,11 @@
         "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
         "price_bdt": 8500,
         "url": "https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz"
+      },
+      {
+        "name": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
+        "price_bdt": 8500,
+        "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white"
       }
     ],
     "ssd": [
@@ -535,7 +535,7 @@
       },
       {
         "name": "1STPlayer PS-300FK Non Modular Power Supply",
-        "price_bdt": 1499,
+        "price_bdt": 2150,
         "url": "https://www.startech.com.bd/1stplayer-ps-300fk-power-supply"
       },
       {
@@ -555,7 +555,7 @@
       },
       {
         "name": "1STPlayer PS-400FK Non Modular Power Supply",
-        "price_bdt": 2449,
+        "price_bdt": 2650,
         "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "name": "1STPLAYER FK 5.0 PS-500FK 500W Non-Modular ATX Power Supply",
-        "price_bdt": 2499,
+        "price_bdt": 3300,
         "url": "https://www.startech.com.bd/1stplayer-fk-5-0-500w-power-supply"
       },
       {
@@ -600,7 +600,7 @@
       },
       {
         "name": "1STPLAYER DK 5.0 PS-500AX 500W 80 PLUS BRONZE Non-Modular ATX Power Supply",
-        "price_bdt": 3649,
+        "price_bdt": 4350,
         "url": "https://www.startech.com.bd/1stplayer-dk-5-0-ps-500ax-non-modular-power-supply"
       },
       {
@@ -617,7 +617,7 @@
     "casing": [
       {
         "name": "Antec ST10M Micro-ATX Mini Tower Casing",
-        "price_bdt": 1250,
+        "price_bdt": 1500,
         "url": "https://www.startech.com.bd/antec-st10m-casing"
       },
       {
@@ -856,7 +856,7 @@
       },
       {
         "name": "Havit KB241 USB Wired Keyboard",
-        "price_bdt": 470,
+        "price_bdt": 60,
         "url": "https://www.startech.com.bd/havit-kb241-keyboard"
       },
       {
